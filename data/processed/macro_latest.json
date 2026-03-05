@@ -1,0 +1,30 @@
+{
+  "last_updated": "2026-03-05T18:32:07.935959",
+  "data_date": "2026-03-05",
+  "countries": {
+    "US": {
+      "inflation": 2.391,
+      "core_inflation": 2.512,
+      "unemployment": 4.3,
+      "policy_rate": 3.64,
+      "output_gap": 1.262,
+      "inflation_target": 2.0,
+      "r_neutral": 2.5
+    },
+    "UK": {
+      "inflation": 3.419,
+      "unemployment": 5.4,
+      "policy_rate": 4.5,
+      "output_gap": -4.39,
+      "inflation_target": 2.0,
+      "r_neutral": 2.5
+    },
+    "EU": {
+      "inflation": 1.937,
+      "policy_rate": 2.0,
+      "output_gap": null,
+      "inflation_target": 2.0,
+      "r_neutral": 2.0
+    }
+  }
+}
