@@ -1,0 +1,51 @@
+{
+  "last_updated": "2026-03-05T18:32:07.935959",
+  "data_date": "2026-03-05",
+  "countries": {
+    "US": {
+      "country": "US",
+      "implied_rate": 5.72,
+      "actual_rate": 3.64,
+      "gap_bps": -208,
+      "policy_stance": "significantly too loose",
+      "inputs": {
+        "inflation": 2.391,
+        "inflation_target": 2.0,
+        "output_gap": 1.262,
+        "output_gap_assumed": false,
+        "r_neutral": 2.5
+      },
+      "interpretation": "US policy rate (3.64%) is 208bps below the Taylor Rule implied rate (5.72%). Policy is significantly too loose."
+    },
+    "UK": {
+      "country": "UK",
+      "implied_rate": 4.43,
+      "actual_rate": 4.5,
+      "gap_bps": 7,
+      "policy_stance": "approximately neutral",
+      "inputs": {
+        "inflation": 3.419,
+        "inflation_target": 2.0,
+        "output_gap": -4.39,
+        "output_gap_assumed": false,
+        "r_neutral": 2.5
+      },
+      "interpretation": "UK policy rate (4.5%) is 7bps above the Taylor Rule implied rate (4.43%). Policy is approximately neutral."
+    },
+    "EU": {
+      "country": "EU",
+      "implied_rate": 3.91,
+      "actual_rate": 2.0,
+      "gap_bps": -191,
+      "policy_stance": "significantly too loose",
+      "inputs": {
+        "inflation": 1.937,
+        "inflation_target": 2.0,
+        "output_gap": 0.0,
+        "output_gap_assumed": true,
+        "r_neutral": 2.0
+      },
+      "interpretation": "EU policy rate (2.0%) is 191bps below the Taylor Rule implied rate (3.91%). Policy is significantly too loose."
+    }
+  }
+}
