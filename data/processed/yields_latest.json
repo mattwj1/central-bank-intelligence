@@ -1,0 +1,51 @@
+{
+  "last_updated": "2026-03-05T20:52:39.687457",
+  "data_date": "2026-03-05",
+  "countries": {
+    "US": {
+      "yields": {
+        "3M": 3.6,
+        "2Y": 3.51,
+        "5Y": 3.63,
+        "10Y": 4.06,
+        "30Y": 4.7
+      },
+      "curve_metrics": {
+        "slope_10y_2y": 0.55,
+        "inverted": false,
+        "curvature": -0.31,
+        "level_10y": 4.06,
+        "slope_10y_3m": 0.46
+      },
+      "volatility_annualised": {
+        "3M": 0.3166,
+        "2Y": 0.5633,
+        "5Y": 0.6115,
+        "10Y": 0.5524,
+        "30Y": 0.5055
+      }
+    },
+    "UK": {
+      "yields": {
+        "10Y": 4.451
+      },
+      "curve_metrics": {
+        "level_10y": 4.451
+      },
+      "volatility_annualised": {
+        "10Y": 3.4845
+      }
+    },
+    "EU": {
+      "yields": {
+        "10Y": 3.221
+      },
+      "curve_metrics": {
+        "level_10y": 3.221
+      },
+      "volatility_annualised": {
+        "10Y": 3.118
+      }
+    }
+  }
+}
