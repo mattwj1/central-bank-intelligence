@@ -59,17 +59,10 @@ US_YIELD_SERIES = {
     "30Y": "DGS30",   # 30-Year Treasury
 }
 
-UK_YIELD_SERIES = {
-    "2Y":  "IRLTST01GBM156N",   # UK 2Y Gilt
-    "5Y":  "IRLTST05GBM156N",   # UK 5Y Gilt  (may need fallback)
-    "10Y": "IRLTLT01GBM156N",   # UK 10Y Gilt
-    "30Y": "GBGBOND30YD",       # UK 30Y Gilt
-}
+UK_YIELD_SERIES = {}
 
-EU_YIELD_SERIES = {
-    "2Y":  "IRLTST01EZM156N",   # EA 2Y Bund
-    "10Y": "IRLTLT01EZM156N",   # EA 10Y Bund
-}
+
+EU_YIELD_SERIES = {}
 
 # yfinance fallback tickers if FRED fails
 YFINANCE_FALLBACK = {
@@ -78,6 +71,15 @@ YFINANCE_FALLBACK = {
         "5Y":  "^FVX",
         "10Y": "^TNX",
         "30Y": "^TYX",
+    },
+    "UK": {
+        # Intentionally empty: common Yahoo UK gilt symbols are unreliable/non-existent.
+    },
+    "EU": {
+        "2Y":  "^DE2YY",
+        "5Y":  "^DE5YY",
+        "10Y": "^DE10YY",
+        "30Y": "^DE30YY",
     }
 }
 
@@ -100,7 +102,11 @@ def fetch_yfinance_series(ticker: str, name: str) -> pd.Series | None:
     """Fetch yield data from yfinance as fallback."""
     try:
         data = yf.download(ticker, start=START_DATE, progress=False)["Close"]
+        if isinstance(data, pd.DataFrame):
+            data = data.iloc[:, 0]
         data = data.dropna()
+        if data.empty:
+            return None
         # yfinance returns yields as percentages already for these tickers
         logger.info(f"  ✓ {name} ({ticker}) via yfinance: {len(data)} observations, "
                     f"latest = {float(data.iloc[-1]):.3f}%")
@@ -261,22 +267,179 @@ def save_processed_yields(processed: dict) -> Path:
 
 # ── Main ───────────────────────────────────────────────────────────────────────
 
-def main():
-    # Fetch all countries
-    us_series = fetch_country_yields("US", US_YIELD_SERIES, YFINANCE_FALLBACK["US"])
-    uk_series = fetch_country_yields("UK", UK_YIELD_SERIES)
-    eu_series = fetch_country_yields("EU", EU_YIELD_SERIES)
+def fetch_uk_yields_boe() -> dict[str, pd.Series]:
+    """
+    Fetch UK nominal zero-coupon yields from BoE Database CSV endpoint.
 
-    all_series = {
-        "US": us_series,
-        "UK": uk_series,
-        "EU": eu_series,
+    Notes:
+    - BoE publishes 5Y/10Y/20Y nominal zero-coupon series directly.
+    - We map 20Y into the 30Y slot as a long-end proxy when 30Y is unavailable.
+    """
+    import requests
+    from io import StringIO
+
+    boe_series = {
+        "5Y": "IUMASNZC",   # Monthly average, 5Y nominal zero coupon
+        "10Y": "IUMAMNZC",  # Monthly average, 10Y nominal zero coupon
+        "20Y": "IUMALNZC",  # Monthly average, 20Y nominal zero coupon
     }
 
-    # Save raw
+    logger.info("\nFetching UK yields via BoE Database CSV API...")
+    results: dict[str, pd.Series] = {}
+    headers = {"User-Agent": "Mozilla/5.0"}
+
+    for tenor, code in boe_series.items():
+        url = (
+            "https://www.bankofengland.co.uk/boeapps/database/_iadb-fromshowcolumns.asp"
+            f"?csv.x=yes&Datefrom=01/Jan/2015&Dateto=now&SeriesCodes={code}&UsingCodes=Y&VPD=Y&VFD=N"
+        )
+        try:
+            r = requests.get(url, headers=headers, timeout=30)
+            r.raise_for_status()
+
+            df = pd.read_csv(StringIO(r.text))
+            if df.empty:
+                logger.warning(f"  ? UK {tenor} (BoE {code}): empty CSV")
+                continue
+
+            date_col = next((c for c in df.columns if "date" in c.lower()), None)
+            value_col = code if code in df.columns else next(
+                (c for c in df.columns if c != date_col and "notes" not in c.lower()),
+                None,
+            )
+            if not date_col or not value_col:
+                logger.warning(f"  ? UK {tenor} (BoE {code}): unexpected CSV columns {list(df.columns)}")
+                continue
+
+            df[date_col] = pd.to_datetime(df[date_col], errors="coerce", dayfirst=True)
+            df[value_col] = pd.to_numeric(df[value_col], errors="coerce")
+            series = df.dropna(subset=[date_col, value_col]).set_index(date_col)[value_col].sort_index()
+
+            if series.empty:
+                logger.warning(f"  ? UK {tenor} (BoE {code}): empty after parse")
+                continue
+
+            results[tenor] = series
+            logger.info(
+                f"  ? UK {tenor} (BoE {code}): {len(series)} obs, latest = {series.iloc[-1]:.3f}%"
+            )
+
+        except Exception as e:
+            logger.warning(f"  ? UK {tenor} (BoE {code}): {e}")
+
+    # Populate 30Y slot with 20Y proxy if no direct 30Y series is available.
+    if "20Y" in results and "30Y" not in results:
+        results["30Y"] = results["20Y"].copy()
+        logger.info("  ? UK 30Y populated using BoE 20Y nominal zero-coupon proxy")
+
+    if "20Y" in results:
+        results.pop("20Y", None)
+
+    logger.info(f"  UK (BoE API): {len(results)}/4 tenors fetched")
+    return results
+
+
+def interpolate_uk_2y(uk_series: dict[str, pd.Series]) -> dict[str, pd.Series]:
+    """
+    Interpolate UK 2Y yield from BoE 5Y and short-end data.
+
+    BoE doesn't publish a 2Y zero-coupon series directly.
+    We estimate it by linear interpolation between the policy rate
+    (treated as the 0Y anchor) and the 5Y spot rate.
+
+    This is a proxy — flagged as such in methodology docs.
+    """
+    if "5Y" not in uk_series:
+        logger.warning("  Cannot interpolate UK 2Y — 5Y series unavailable")
+        return uk_series
+
+    # Policy rate as short-end anchor (0Y proxy)
+    # 4.5% as of March 2026 — update after each MPC meeting
+    POLICY_RATE = 4.5
+
+    five_year = uk_series["5Y"]
+
+    # Linear interpolation: 2Y is 2/5 of the way from 0Y to 5Y
+    two_year = POLICY_RATE + (2 / 5) * (five_year - POLICY_RATE)
+    two_year.name = "2Y_interpolated"
+
+    uk_series["2Y"] = two_year
+    logger.info(
+        f"  ✓ UK 2Y (interpolated from policy rate + BoE 5Y): "
+        f"latest = {two_year.dropna().iloc[-1]:.3f}%"
+    )
+    return uk_series
+
+def fetch_eu_yields_ecb() -> dict[str, pd.Series]:
+    """
+    Fetch AAA euro area bond yields from ECB Statistical Data Warehouse.
+    Uses the correct SDMX REST API format.
+    """
+    import requests
+    from io import StringIO
+
+    # Correct ECB SDW format: dataflow/agency/id/version
+    # YC = yield curves, B.U2 = euro area, spot rates
+    ECB_SERIES = {
+        "2Y":  "SR_2Y",
+        "5Y":  "SR_5Y",
+        "10Y": "SR_10Y",
+        "30Y": "SR_30Y",
+    }
+
+    logger.info("\nFetching EU yields via ECB API...")
+    results = {}
+
+    headers = {"Accept": "text/csv"}
+
+    for tenor, maturity_code in ECB_SERIES.items():
+        try:
+            # ECB SDMX 2.1 REST API — correct URL structure
+            url = (
+                f"https://data-api.ecb.europa.eu/service/data/"
+                f"ECB,YC,1.0/B.U2.EUR.4F.G_N_A.SV_C_YM.{maturity_code}"
+                f"?startPeriod=2015-01-01&format=csvdata"
+            )
+            r = requests.get(url, headers=headers, timeout=15)
+            r.raise_for_status()
+
+            df = pd.read_csv(StringIO(r.text))
+
+            # Find time and value columns (names vary slightly)
+            time_col  = next(c for c in df.columns if "TIME" in c.upper())
+            value_col = next(c for c in df.columns if "OBS_VALUE" in c.upper())
+
+            df[time_col]  = pd.to_datetime(df[time_col], errors="coerce")
+            df[value_col] = pd.to_numeric(df[value_col], errors="coerce")
+            df = df.dropna(subset=[time_col, value_col])
+            series = df.set_index(time_col)[value_col].sort_index()
+
+            if not series.empty:
+                logger.info(f"  ✓ EU {tenor} (ECB): {len(series)} obs, latest = {series.iloc[-1]:.3f}%")
+                results[tenor] = series
+            else:
+                logger.warning(f"  ✗ EU {tenor}: empty after parsing")
+
+        except Exception as e:
+            logger.warning(f"  ✗ EU {tenor} (ECB): {e}")
+
+    logger.info(f"  EU: {len(results)}/4 tenors fetched")
+    return results
+
+def main():
+    # US via FRED (most reliable for Treasuries)
+    us_series = fetch_country_yields("US", US_YIELD_SERIES, YFINANCE_FALLBACK["US"])
+
+    # UK from FRED baseline, then BoE API enrichment for fuller curve
+    uk_series = fetch_uk_yields_boe()
+    uk_series = interpolate_uk_2y(uk_series)
+
+    eu_series = fetch_eu_yields_ecb()
+
+    all_series = {"US": us_series, "UK": uk_series, "EU": eu_series}
+
     save_raw_yields(all_series)
 
-    # Process and save
     processed = {
         "last_updated": datetime.now().isoformat(),
         "data_date": date.today().isoformat(),
@@ -291,18 +454,19 @@ def main():
 
     save_processed_yields(processed)
 
-    # Print summary
     logger.info("\n── Current Yield Curves ─────────────────────────────")
     for country, data in processed["countries"].items():
         yields = data["yields"]
         metrics = data["curve_metrics"]
         logger.info(f"\n{country}:")
-        for tenor, rate in sorted(yields.items()):
-            logger.info(f"  {tenor:>3}: {rate:.3f}%")
+        for tenor in ["3M", "2Y", "5Y", "10Y", "30Y"]:
+            if tenor in yields:
+                logger.info(f"  {tenor:>3}: {yields[tenor]:.3f}%")
         if "slope_10y_2y" in metrics:
             inverted = " ⚠ INVERTED" if metrics.get("inverted") else ""
             logger.info(f"  Slope (10Y-2Y): {metrics['slope_10y_2y']:+.3f}%{inverted}")
 
-
 if __name__ == "__main__":
     main()
+
+
