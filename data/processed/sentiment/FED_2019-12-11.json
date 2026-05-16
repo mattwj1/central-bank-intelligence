@@ -1,0 +1,25 @@
+{
+  "bank": "FED",
+  "date": "2019-12-11",
+  "score": 58,
+  "stance": "neutral",
+  "hawkish_phrases": [
+    "the current stance of monetary policy is appropriate",
+    "a few participants raised the concern that keeping interest rates low over a long period might encourage excessive risk-taking",
+    "various participants were concerned that indicators were suggesting that the level of longer-term inflation expectations was too low",
+    "inflation had averaged less than 2 percent over the past several years even as resource utilization had increased",
+    "maintaining the current stance of monetary policy would give the Committee some time to assess the full effects"
+  ],
+  "dovish_phrases": [
+    "business fixed investment and exports remained weak",
+    "inflation pressures remained muted",
+    "overall inflation and inflation for items other than food and energy were running below 2 percent",
+    "global developments, related to both persistent uncertainty regarding international trade and weakness in economic growth abroad, continued to pose some risks",
+    "maintaining the current stance of policy for a time could be helpful for cushioning the economy from the global developments"
+  ],
+  "summary": "The FOMC unanimously held rates at 1.5-1.75% with statement language explicitly judging the current stance appropriate, while continuing to cite global developments and muted inflation pressures as factors to monitor, reflecting a mildly hawkish hold after three consecutive cuts earlier in 2019.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:51:19",
+  "source_file": "FED_2019-12-11.txt",
+  "char_count": 57123
+}

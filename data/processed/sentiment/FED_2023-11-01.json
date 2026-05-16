@@ -1,0 +1,25 @@
+{
+  "bank": "FED",
+  "date": "2023-11-01",
+  "score": 68,
+  "stance": "hawkish",
+  "hawkish_phrases": [
+    "inflation remained well above the Committee's longer-run goal of 2 percent",
+    "policy decisions at every meeting would continue to be based on the totality of incoming information",
+    "further tightening of monetary policy would be appropriate if incoming information indicated that progress toward the Committee's inflation objective was insufficient",
+    "it would be appropriate for policy to remain at a restrictive stance for some time until inflation is clearly moving down sustainably",
+    "most participants continued to see upside risks to inflation"
+  ],
+  "dovish_phrases": [
+    "tighter financial and credit conditions for households and businesses are likely to weigh on economic activity, hiring, and inflation",
+    "participants generally judged that, with the stance of monetary policy in restrictive territory, risks to the achievement of the Committee's goals had become more two sided",
+    "Many participants commented that even though economic activity had been resilient and the labor market had continued to be strong, downside risks to economic activity remained",
+    "participants judged that maintaining this restrictive stance of policy at this meeting would support further progress toward the Committee's goals while allowing more time to gather additional information",
+    "the Committee was in a position to proceed carefully"
+  ],
+  "summary": "The FOMC unanimously held the target range at 5.25-5.5 percent with explicit guidance that policy would remain restrictive for some time and further tightening would be appropriate if progress on inflation proves insufficient, while acknowledging significantly tighter financial conditions and more two-sided risks.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T16:04:15",
+  "source_file": "FED_2023-11-01.txt",
+  "char_count": 46597
+}

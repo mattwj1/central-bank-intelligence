@@ -1,0 +1,25 @@
+{
+  "bank": "BOE",
+  "date": "2019-12-01",
+  "score": 42,
+  "stance": "neutral",
+  "hawkish_phrases": [
+    "some modest tightening of policy, at a gradual pace and to a limited extent, may be needed",
+    "unit labour costs have continued to grow at rates above those consistent with meeting the inflation target in the medium term",
+    "excess demand and domestic inflationary pressures were expected to build gradually",
+    "CPI inflation was projected to rise to slightly above the 2% target towards the end of the forecast period",
+    "the labour market...remains tight"
+  ],
+  "dovish_phrases": [
+    "If global growth fails to stabilise or if Brexit uncertainties remain entrenched, monetary policy may need to reinforce the expected recovery",
+    "Monetary policy could respond in either direction to changes in the economic outlook",
+    "business investment and export orders have remained weak",
+    "There continue to be some signs that the labour market is loosening",
+    "CPI inflation remained at 1.5% in November"
+  ],
+  "summary": "The MPC voted 7-2 to hold Bank Rate at 0.75%, with a genuinely two-way risk assessment acknowledging both potential need for easing if risks materialise and possible modest tightening if recovery proceeds as expected.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:28:21",
+  "source_file": "BOE_2019-12-01.txt",
+  "char_count": 4293
+}

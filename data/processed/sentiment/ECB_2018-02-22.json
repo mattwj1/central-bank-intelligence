@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2018-02-22",
+  "score": 42,
+  "stance": "neutral",
+  "hawkish_phrases": [
+    "heightened market sensitivity to perceived changes in communication regarding the ECB's forward guidance",
+    "some members expressed a preference for dropping the easing bias regarding the APP",
+    "the strong cyclical momentum, the ongoing reduction of slack and increasing capacity utilisation further strengthened confidence in the baseline outlook for inflation",
+    "the monetary policy stance tended to become mechanically more expansionary in an environment of improving macroeconomic conditions",
+    "annual HICP inflation excluding food and energy would reach 1.8% in 2020"
+  ],
+  "dovish_phrases": [
+    "measures of underlying inflation had remained subdued...and had yet to show convincing signs of a sustained upward trend",
+    "patience and persistence in monetary policy remained warranted",
+    "An ample degree of accommodation was still needed for inflation pressures to build up",
+    "underlying price pressures remained muted overall",
+    "such an adjustment was premature and not yet justified by the stronger confidence"
+  ],
+  "summary": "The Governing Council held rates unchanged with continued APP at \u20ac30 billion monthly through September 2018, maintaining all forward guidance unchanged despite robust economic expansion, as members concluded that dropping the easing bias was premature given subdued underlying inflation and the need for patience and persistence.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-17T20:47:29",
+  "source_file": "ECB_2018-02-22.txt",
+  "char_count": 35984
+}

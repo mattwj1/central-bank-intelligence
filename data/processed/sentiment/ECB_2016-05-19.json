@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2016-05-19",
+  "score": 42,
+  "stance": "neutral",
+  "hawkish_phrases": [
+    "risks to the growth outlook still remained tilted to the downside",
+    "it was crucial to ensure that the very low inflation environment did not become entrenched via second-round effects",
+    "market-based measures of long-term inflation expectations remained at levels not far from the historical lows",
+    "conclusive evidence was lacking...whether second-round effects were present",
+    "it was essential not to leave any room for doubt about the Governing Council's commitment to secure a return of the inflation rate towards its medium-term aim without undue delay"
+  ],
+  "dovish_phrases": [
+    "there was no need to change the monetary policy stance decided at the last monetary policy meeting",
+    "focus was now on the implementation of the additional measures that had been decided on 10 March 2016",
+    "further monetary policy stimulus was still in the pipeline, notably from the CSPP and TLTRO II",
+    "the ECB's monetary policy measures were being effective...patience was needed for the measures to fully unfold",
+    "preserve an appropriate degree of monetary accommodation for as long as needed"
+  ],
+  "summary": "The Governing Council held all policy rates unchanged (main refinancing at 0.00%, deposit facility at -0.40%) with unanimous consensus, focusing on implementing the March 2016 stimulus package while affirming forward guidance and emphasizing patience for measures to transmit, amid ongoing concerns about subdued inflation and downside risks to growth.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-17T20:43:11",
+  "source_file": "ECB_2016-05-19.txt",
+  "char_count": 50794
+}

@@ -1,0 +1,25 @@
+{
+  "bank": "BOE",
+  "date": "2021-06-01",
+  "score": 42,
+  "stance": "neutral",
+  "hawkish_phrases": [
+    "CPI inflation is expected to pick up further above the target...and is likely to exceed 3% for a temporary period",
+    "Global price pressures have picked up further, reflecting strong demand for goods, rising commodity prices, supply-side constraints and transportation bottlenecks",
+    "vacancies have risen above pre-Covid levels, and there are increasing signs of recruitment difficulties",
+    "private sector regular pay in the three months to April was 5.6% higher than a year earlier",
+    "Twelve-month CPI inflation rose from 1.5% in April to 2.1% in May, above the MPC's 2% target"
+  ],
+  "dovish_phrases": [
+    "The Committee does not intend to tighten monetary policy at least until there is clear evidence that significant progress is being made in eliminating spare capacity",
+    "There is judged to be spare capacity in aggregate in the economy at present",
+    "The Committee's expectation is that the direct impact of rises in commodity prices on CPI inflation will be transitory",
+    "the Committee judges that UK inflation expectations remain well anchored",
+    "will take whatever action is necessary to achieve its remit"
+  ],
+  "summary": "The MPC voted unanimously to hold Bank Rate at 0.1% with an 8-1 vote on asset purchases, maintaining dovish forward guidance that tightening will not occur until spare capacity is eliminated, despite acknowledging inflation will temporarily exceed 3%.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:29:49",
+  "source_file": "BOE_2021-06-01.txt",
+  "char_count": 7472
+}

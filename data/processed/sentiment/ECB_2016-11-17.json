@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2016-11-17",
+  "score": 42,
+  "stance": "neutral",
+  "hawkish_phrases": [
+    "underlying inflation continued to lack clear signs of a convincing upward trend",
+    "balance of risks to the euro area outlook was considered to remain tilted to the downside",
+    "credit standards had been unchanged for NFCs...although they were expected to tighten somewhat in the next quarter",
+    "ongoing structural challenges to banks' balance sheets...pose a risk to the transmission of monetary policy",
+    "short and medium-term growth prospects were seen to be dampened by uncertainty"
+  ],
+  "dovish_phrases": [
+    "remain fully committed to preserving the very substantial degree of monetary accommodation",
+    "policy rates continued to be expected to remain at present or lower levels for an extended period of time",
+    "monthly asset purchases of \u20ac80 billion were intended to run until the end of March 2017, or beyond, if necessary",
+    "readiness to act, if warranted, to achieve its objective by using all the instruments available within its mandate",
+    "transmission of the monetary policy measures put in place since June 2014 continued to be effective in ensuring very favourable borrowing conditions"
+  ],
+  "summary": "The Governing Council held all policy rates unchanged (main refinancing at 0.00%, deposit facility at -0.40%) and confirmed \u20ac80 billion monthly asset purchases through March 2017 or beyond if necessary, maintaining dovish forward guidance while emphasizing downside risks to growth and inflation outlook and deferring any policy reassessment until the December meeting.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-17T20:44:23",
+  "source_file": "ECB_2016-11-17.txt",
+  "char_count": 35957
+}

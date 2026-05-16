@@ -1,0 +1,25 @@
+{
+  "bank": "BOE",
+  "date": "2024-09-01",
+  "score": 62,
+  "stance": "hawkish",
+  "hawkish_phrases": [
+    "Monetary policy will need to continue to remain restrictive for sufficiently long until the risks to inflation returning sustainably to the 2% target in the medium term have dissipated further",
+    "Services consumer price inflation remained elevated at 5.6% in August",
+    "monetary policy would have to remain tighter for longer",
+    "squeeze persistent inflationary pressures out of the system",
+    "The Committee continues to monitor closely the risks of inflation persistence"
+  ],
+  "dovish_phrases": [
+    "In the absence of material developments, a gradual approach to removing policy restraint remains appropriate",
+    "Households' inflation expectations had largely normalised to close to their historical averages",
+    "Annual private sector regular average weekly earnings growth had eased to 4.9%",
+    "Twelve-month CPI inflation had been 2.2% in August",
+    "Indicators of households' inflation expectations had largely normalised"
+  ],
+  "summary": "The MPC voted 8-1 to hold Bank Rate at 5%, with one member preferring a 25bp cut, while maintaining restrictive policy guidance that a gradual approach to removing restraint remains appropriate in the absence of material developments.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:36:27",
+  "source_file": "BOE_2024-09-01.txt",
+  "char_count": 31042
+}

@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2021-12-16",
+  "score": 42,
+  "stance": "neutral",
+  "hawkish_phrases": [
+    "inflation had risen sharply owing to the surge in energy prices",
+    "high inflation could persist for longer than anticipated",
+    "higher inflation in the medium term was unlikely to come about without dynamic wage growth",
+    "if inflation exceeded the target in both 2021 and 2022, this risked being perceived less and less as a temporary phenomenon",
+    "there was no need for a further loosening of the stance through additional asset purchases"
+  ],
+  "dovish_phrases": [
+    "monetary accommodation was still needed for inflation to stabilise at the 2% inflation target over the medium term",
+    "inflation was still projected to settle below the Governing Council's 2% target in the baseline scenario",
+    "concerns were also expressed about any premature scaling back of monetary stimulus",
+    "substantial monetary policy support was still needed",
+    "inflation was expected to remain elevated in the near term but to decline in the course of 2022"
+  ],
+  "summary": "The Governing Council decided to conduct net PEPP purchases at a lower pace in Q1 2022 and discontinue them at end-March, while temporarily increasing APP purchases to \u20ac40bn/month in Q2 and \u20ac30bn in Q3 before settling at \u20ac20bn from October, maintaining accommodative stance as inflation was still projected below 2% over the medium term despite near-term elevation.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-17T20:58:07",
+  "source_file": "ECB_2021-12-16.txt",
+  "char_count": 65145
+}

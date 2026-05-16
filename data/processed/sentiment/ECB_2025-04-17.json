@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2025-04-17",
+  "score": 28,
+  "stance": "dovish",
+  "hawkish_phrases": [
+    "upside risks to inflation over the medium term were seen to hold especially in a scenario in which the trade war led to a permanently more fragmented global economy",
+    "rising momentum that had been detected in the PCCI indicators of underlying inflation warranted monitoring",
+    "inflation expectations reported in the Consumer Expectations Survey, the Survey on the Access to Finance of Enterprises and the Survey of Professional Forecasters remained tilted to the upside over longer horizons",
+    "firms might suffer from rising input costs that would, over time, be passed on to consumers as the erosion of profit margins made cost absorption difficult",
+    "Some members indicated that, before the US tariff announcement on 2 April, they had considered a pause to rate cuts at the current meeting to be appropriate"
+  ],
+  "dovish_phrases": [
+    "a few members noted that they could have felt comfortable with a 50 basis point rate cut",
+    "downside risks to economic growth had increased",
+    "falling global energy prices and the appreciation of the euro could put further downward pressure on inflation",
+    "There was now a risk that inflation could fall well below 2% at least over the remainder of the current year",
+    "risks to price stability might now be tilted to the downside, especially in the near term"
+  ],
+  "summary": "The ECB cut rates by 25 basis points unanimously, with a few members preferring 50bp, citing increased confidence in disinflation amid downside risks to growth from tariffs and euro appreciation, though some members had previously leaned toward a pause given medium-term inflation uncertainties.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-17T21:10:08",
+  "source_file": "ECB_2025-04-17.txt",
+  "char_count": 62608
+}

@@ -1,0 +1,25 @@
+{
+  "bank": "FED",
+  "date": "2021-09-22",
+  "score": 42,
+  "stance": "neutral",
+  "hawkish_phrases": [
+    "a moderation in the pace of asset purchases may soon be warranted",
+    "Most participants saw inflation risks as weighted to the upside",
+    "some of these participants saw inflation as likely to remain elevated in 2022 with risks to the upside",
+    "Several participants expressed concern that the high degree of accommodation being provided by monetary policy, including through continued asset purchases, could increase risks to financial stability",
+    "a number of participants raised the possibility of beginning to increase the target range by the end of next year"
+  ],
+  "dovish_phrases": [
+    "The Committee decided to keep the target range for the federal funds rate at 0 to 1/4 percent",
+    "Various participants stressed that economic conditions were likely to justify keeping the rate at or near its lower bound over the next couple of years",
+    "Several of these participants suggested that there would likely be sustained downward pressure on inflation in the years ahead",
+    "Overall financial conditions remain accommodative",
+    "asset purchases help foster smooth market functioning and accommodative financial conditions"
+  ],
+  "summary": "The Committee unanimously held rates at 0-0.25% and signaled that a moderation in the pace of asset purchases may soon be warranted, maintaining an accommodative stance while acknowledging elevated inflation with most participants seeing upside inflation risks.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:57:37",
+  "source_file": "FED_2021-09-22.txt",
+  "char_count": 58524
+}

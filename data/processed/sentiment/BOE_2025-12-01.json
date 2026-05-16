@@ -1,0 +1,25 @@
+{
+  "bank": "BOE",
+  "date": "2025-12-01",
+  "score": 38,
+  "stance": "dovish",
+  "hawkish_phrases": [
+    "judgements around further policy easing will become a closer call",
+    "forward-looking wage growth indicators is hard to reconcile with the downward momentum",
+    "forward\u2011looking indicators of wage growth from the Agents and Decision Maker Panel remain above target-consistent levels",
+    "risks of inflation stabilising at above-target levels owing to structural changes in price and wage-setting behaviour",
+    "a shallow saucer-shaped profile, raising concerns about a slowing or stalling in disinflation towards target"
+  ],
+  "dovish_phrases": [
+    "CPI inflation has fallen since the previous meeting, to 3.2%",
+    "pay growth and services price inflation have continued to ease",
+    "The risk from greater inflation persistence has become somewhat less pronounced",
+    "LFS unemployment rate had risen to 5.1%",
+    "downside risks to activity and inflation. Subdued consumption and rising unemployment were already sufficient to restrain inflation persistence"
+  ],
+  "summary": "The MPC voted 5-4 to cut Bank Rate by 25bp to 3.75%, with inflation falling to 3.2% and disinflation continuing, but significant hawkish dissent reflecting concerns about wage growth persistence and structural inflation risks.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-14T23:41:50",
+  "source_file": "BOE_2025-12-01.txt",
+  "char_count": 29963
+}

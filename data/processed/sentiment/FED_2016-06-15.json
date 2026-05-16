@@ -1,0 +1,25 @@
+{
+  "bank": "FED",
+  "date": "2016-06-15",
+  "score": 42,
+  "stance": "neutral",
+  "hawkish_phrases": [
+    "Several of these participants expressed concern that a delay in resuming further gradual increases in the federal funds rate would increase the risks to financial stability",
+    "Some of them judged that labor market conditions were now at or close to the Committee's objectives",
+    "Some members observed that core inflation had risen, and one member noted that the annual rate of increase in core PCE inflation in the first quarter had exceeded 2 percent",
+    "Some of them emphasized that, with labor market conditions and inflation at or close to the Committee's objectives, taking another step in removing monetary accommodation should not be delayed too long",
+    "The Committee expects that economic conditions will evolve in a manner that will warrant only gradual increases in the federal funds rate"
+  ],
+  "dovish_phrases": [
+    "the pace of improvement in the labor market has slowed while growth in economic activity appears to have picked up",
+    "job gains have diminished",
+    "several of them worried about the declines in measures of inflation compensation and in some survey-based measures of inflation expectations",
+    "Several of them noted downside risks to the outlook for growth in economic activity and for further improvement in labor market conditions",
+    "maintaining an accommodative stance of policy could extend the strengthening of the labor market"
+  ],
+  "summary": "The Committee unanimously voted to hold the federal funds rate at 1/4 to 1/2 percent, citing the need to wait for additional labor market data and clarity on the U.K. Brexit referendum, with mixed views on whether weak May employment data signaled a broader slowdown or temporary aberration.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:39:26",
+  "source_file": "FED_2016-06-15.txt",
+  "char_count": 54532
+}

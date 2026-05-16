@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2016-08-18",
+  "score": 42,
+  "stance": "neutral",
+  "hawkish_phrases": [
+    "underlying price pressures continued to lack a convincing upward trend and remained an ongoing source of concern",
+    "no clear upward trend in inflation was as yet visible",
+    "it was premature to discuss any possible monetary policy reaction at this stage",
+    "market-based measures of long-term inflation expectations...had been steadily declining for some time and remained close to record lows",
+    "inflation continued to be significantly below the Governing Council's policy aim"
+  ],
+  "dovish_phrases": [
+    "downside risks to the economic outlook for the euro area had increased, mainly owing to the outcome of the UK referendum",
+    "the Governing Council needed to reiterate its capacity and readiness to act, if warranted, to achieve its objective, using all the instruments available within its mandate",
+    "continue to monitor economic and financial market developments very closely",
+    "if warranted to achieve its objective of price stability, it would act by using all the instruments available within its mandate",
+    "more time was needed to assess the incoming information over the coming months, although downside risks had clearly increased"
+  ],
+  "summary": "The Governing Council held rates unchanged at 0.00% (main refinancing), 0.25% (marginal lending), and -0.40% (deposit facility) with unanimous support, while acknowledging increased downside risks from the UK referendum and reiterating readiness to act if warranted, though deeming it premature to discuss policy changes.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-17T20:43:49",
+  "source_file": "ECB_2016-08-18.txt",
+  "char_count": 39072
+}

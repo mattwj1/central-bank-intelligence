@@ -1,0 +1,25 @@
+{
+  "bank": "FED",
+  "date": "2017-09-20",
+  "score": 58,
+  "stance": "neutral",
+  "hawkish_phrases": [
+    "labor market had already reached full employment and was projected to tighten further",
+    "an unduly slow pace in removing policy accommodation could result in an overshoot of the Committee's inflation objective",
+    "many participants thought that another increase in the target range later this year was likely to be warranted",
+    "some other participants...were more worried about upside risks to inflation arising from a labor market that had already reached full employment",
+    "the stance of monetary policy remains accommodative, thereby supporting some further strengthening in labor market conditions"
+  ],
+  "dovish_phrases": [
+    "inflation on a 12-month basis...running below 2 percent",
+    "some patience in removing policy accommodation while assessing trends in inflation was warranted",
+    "A few of these participants thought that no further increases in the federal funds rate were called for in the near term",
+    "their decision on whether to take such a policy action would depend importantly on whether the economic data in coming months increased their confidence that inflation was moving up",
+    "inflation developments...might reflect not only transitory factors, but also the influence of developments that could prove more persistent"
+  ],
+  "summary": "The FOMC voted unanimously to hold the target range at 1-1.25% while announcing October initiation of balance sheet normalization, with language indicating gradual rate increases ahead despite persistent below-target inflation and concern that convergence to 2% might take longer than previously anticipated.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:43:43",
+  "source_file": "FED_2017-09-20.txt",
+  "char_count": 57146
+}

@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2015-02-19",
+  "score": 28,
+  "stance": "dovish",
+  "hawkish_phrases": [
+    "some members argued that this instrument should only be used in contingency situations",
+    "Purchases of sovereign bonds were associated with a number of challenges and side effects",
+    "possible moral hazard implications for euro area governments could weaken their incentives for structural reforms",
+    "this should be addressed by macro-prudential policy",
+    "concerns about moral hazard it was argued that a regime of partial loss sharing would be more commensurate"
+  ],
+  "dovish_phrases": [
+    "the risk of second-round effects had increased further and, with it, the risk of too prolonged a period of too low inflation",
+    "monthly purchases of \u20ac60 billion which were intended to last until the end of September 2016",
+    "inflation dynamics had continued to be weaker than expected, economic slack had remained sizeable",
+    "Governing Council was thus faced with heightened risks of too prolonged a period of too low inflation",
+    "forceful policy action in addressing too low a level of inflation"
+  ],
+  "summary": "The Governing Council decided by large majority to launch an expanded asset purchase programme (QE) including sovereign bonds with monthly purchases of \u20ac60 billion from March 2015 to September 2016, with partial risk-sharing (20%), alongside TLTRO modifications, in response to inflation falling to -0.2% and heightened risks of too prolonged low inflation, despite some members expressing concerns about moral hazard and side effects.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-17T20:40:14",
+  "source_file": "ECB_2015-02-19.txt",
+  "char_count": 62138
+}

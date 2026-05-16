@@ -1,0 +1,25 @@
+{
+  "bank": "FED",
+  "date": "2018-12-19",
+  "score": 68,
+  "stance": "hawkish",
+  "hawkish_phrases": [
+    "some further gradual increases in the target range for the federal funds rate will be consistent with sustained expansion",
+    "With an increase in the target range at this meeting, the federal funds rate would be at or close to the lower end of the range of estimates of the longer-run neutral interest rate",
+    "strong labor market conditions",
+    "real economic activity rising at a strong rate",
+    "labor market had continued to strengthen"
+  ],
+  "dovish_phrases": [
+    "the Committee could afford to be patient about further policy firming",
+    "recent developments...made the appropriate extent and timing of future policy firming less clear than earlier",
+    "A few participants...favored no change in the target range at this meeting",
+    "downside risks may have increased of late",
+    "continue to monitor global economic and financial developments and assess their implications for the economic outlook"
+  ],
+  "summary": "The Committee unanimously raised the target range by 25bp to 2.25-2.50%, but shifted forward guidance from 'expects further gradual increases' to 'judges some further gradual increases' while emphasizing patience and data-dependency amid tightening financial conditions and increased global growth concerns.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:47:34",
+  "source_file": "FED_2018-12-19.txt",
+  "char_count": 56468
+}

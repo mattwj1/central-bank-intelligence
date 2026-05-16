@@ -1,0 +1,25 @@
+{
+  "bank": "BOE",
+  "date": "2019-02-01",
+  "score": 58,
+  "stance": "neutral",
+  "hawkish_phrases": [
+    "an ongoing tightening of monetary policy over the forecast period...would be appropriate",
+    "excess demand builds over the second half of the forecast period",
+    "domestic inflationary pressures firm",
+    "inflation settles at a rate a little above the target",
+    "gently rising path of Bank Rate implied by market yields"
+  ],
+  "dovish_phrases": [
+    "UK economic growth slowed in late 2018 and appears to have weakened further in early 2019",
+    "world economy has continued to slow over recent months",
+    "weaker near-term outlook is likely to lead to a small margin of slack opening up this year",
+    "CPI inflation...is expected to decline to slightly below the MPC's 2% target in the near term",
+    "monetary policy response to Brexit...could be in either direction"
+  ],
+  "summary": "The MPC voted unanimously to hold Bank Rate at 0.75%, with guidance that ongoing gradual tightening would be appropriate if the economy develops in line with projections showing inflation settling above target and excess demand building.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:27:29",
+  "source_file": "BOE_2019-02-01.txt",
+  "char_count": 5003
+}

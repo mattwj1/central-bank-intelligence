@@ -1,0 +1,25 @@
+{
+  "bank": "BOE",
+  "date": "2022-06-01",
+  "score": 78,
+  "stance": "hawkish",
+  "hawkish_phrases": [
+    "The Committee would be particularly alert to indications of more persistent inflationary pressures, and would if necessary act forcefully in response.",
+    "Three members preferred a 0.5 percentage point increase in Bank Rate at this meeting.",
+    "robust cost and price pressures, including the current tightness of the labour market, and the risk that those pressures become more persistent",
+    "core consumer goods price inflation is higher in the United Kingdom than in the euro area and in the United States",
+    "Faster policy tightening now would help to bring inflation back to the target sustainably in the medium term"
+  ],
+  "dovish_phrases": [
+    "CPI inflation was projected to fall to a little above the 2% target in two years' time",
+    "to be well below the target in three years, mainly reflecting weaker domestic pressures",
+    "Bank staff now expect GDP to fall by 0.3% in the second quarter as a whole",
+    "consumer confidence has fallen further",
+    "demand might be starting to slow in line with the May forecast"
+  ],
+  "summary": "The MPC voted 6-3 to increase Bank Rate by 0.25 percentage points to 1.25%, with three members preferring a 0.5 percentage point hike, emphasizing persistent inflationary pressures and signaling willingness to act forcefully if needed.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:32:00",
+  "source_file": "BOE_2022-06-01.txt",
+  "char_count": 36805
+}

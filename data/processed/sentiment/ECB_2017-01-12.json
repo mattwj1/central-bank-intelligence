@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2017-01-12",
+  "score": 38,
+  "stance": "dovish",
+  "hawkish_phrases": [
+    "deflation risks identified earlier in the year...had largely disappeared",
+    "the recovery was firming and becoming more broad-based",
+    "recalibration reflected the state contingency of the APP",
+    "a few members could not support either of the two options...in view of their well-known general scepticism regarding the APP",
+    "possible adverse side effects from further sovereign asset purchases"
+  ],
+  "dovish_phrases": [
+    "extension of the asset purchase programme beyond March 2017 seemed warranted",
+    "there was as yet insufficient progress towards a sustained adjustment in the path of inflation",
+    "underlying inflation...continued to lack a convincing upward trend",
+    "preserving a very substantial degree of monetary accommodation necessary",
+    "if the outlook became less favourable...the Governing Council intended to increase the programme in terms of size and/or duration"
+  ],
+  "summary": "The Governing Council decided to extend the APP beyond March 2017 at a reduced monthly pace of \u20ac60 billion (down from \u20ac80 billion) until December 2017, with broad (not unanimous) support, reflecting improved growth and reduced deflation risks but insufficient progress toward sustained inflation adjustment.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-17T20:44:31",
+  "source_file": "ECB_2017-01-12.txt",
+  "char_count": 46053
+}

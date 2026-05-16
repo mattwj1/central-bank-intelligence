@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2023-06-15",
+  "score": 73,
+  "stance": "hawkish",
+  "hawkish_phrases": [
+    "inflation was still projected to remain too high for too long",
+    "upside risks to the inflation outlook were judged to still prevail, mainly owing to more persistent wage-price dynamics",
+    "convincing evidence that underlying inflation had peaked was still lacking",
+    "the Governing Council could consider increasing interest rates beyond July, if necessary",
+    "a preference was also initially expressed for raising the key ECB interest rates by 50 basis points"
+  ],
+  "dovish_phrases": [
+    "past policy rate increases were transmitted forcefully to financing conditions",
+    "core inflation had stabilised and might have reached a turning point",
+    "headline inflation had been on a declining path since October 2022",
+    "downside risks to economic growth included Russia's war against Ukraine",
+    "the effects of past rate hikes could still be expected to materialise and exert a downward impact on growth and inflation"
+  ],
+  "summary": "The Governing Council unanimously raised key ECB interest rates by 25 basis points and confirmed the end of APP reinvestments in July, with hawkish rhetoric emphasizing inflation remaining too high for too long, persistent upside risks, and explicit openness to further rate increases beyond July.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-17T21:03:44",
+  "source_file": "ECB_2023-06-15.txt",
+  "char_count": 66708
+}

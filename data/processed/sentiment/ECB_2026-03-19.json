@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2026-03-19",
+  "score": 62,
+  "stance": "hawkish",
+  "hawkish_phrases": [
+    "the risks to the inflation outlook were tilted to the upside, especially in the near term",
+    "markets were pricing in rate hikes of about 40 basis points by the end of 2026",
+    "A prolonged war could lead to a larger and longer-lasting upward shift in energy prices than expected",
+    "medium-term inflation expectations might be more fragile now and could increase more quickly than in the past",
+    "would not hesitate to act if there were a threat to its price stability objective"
+  ],
+  "dovish_phrases": [
+    "downside risks to output",
+    "the economy was now expected to expand at a slower pace in the short term than previously envisaged",
+    "growth had been revised down by 0.3 percentage points for 2026",
+    "euro area two-year real rates had declined, reflecting a downward revision to economic growth",
+    "inflation could turn out to be lower if the economic repercussions of the war in the Middle East proved to be more short-lived"
+  ],
+  "summary": "The Governing Council unanimously held all three key ECB interest rates unchanged amid war-induced uncertainty creating upside inflation risks and downside growth risks, with communication emphasizing readiness to act if medium-term price stability is threatened while maintaining optionality through a meeting-by-meeting approach.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-17T21:12:26",
+  "source_file": "ECB_2026-03-19.txt",
+  "char_count": 76831
+}

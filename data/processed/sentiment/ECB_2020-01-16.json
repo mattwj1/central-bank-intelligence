@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2020-01-16",
+  "score": 42,
+  "stance": "neutral",
+  "hawkish_phrases": [
+    "risks to the growth outlook remained tilted to the downside, but having become somewhat less pronounced",
+    "members reiterated the need for a highly accommodative monetary policy stance for a prolonged period of time",
+    "some members highlighted the need to be attentive to the possible side effects of the present monetary policy measures",
+    "some concern was also voiced with regard to the potential impact of negative interest rates on euro area households",
+    "needed to be emphasised that the analysis and monitoring of side effects was part and parcel of the Governing Council's ongoing monetary policy assessment"
+  ],
+  "dovish_phrases": [
+    "inflation developments had remained subdued overall",
+    "market-based measures of inflation expectations had stagnated at historically low levels",
+    "downside risks to the growth outlook continued to prevail",
+    "Projected inflation was generally seen to remain some distance from the Governing Council's inflation aim",
+    "the Governing Council stood ready to adjust all of its instruments, as appropriate, to ensure that inflation moved towards the aim in a sustained manner"
+  ],
+  "summary": "The Governing Council unanimously held all policy rates unchanged (deposit rate at -0.50%) with forward guidance indicating rates would remain at present or lower levels until inflation robustly converges near 2%, emphasizing patience while monitoring for side effects but expressing readiness to adjust all instruments if needed.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-17T20:51:36",
+  "source_file": "ECB_2020-01-16.txt",
+  "char_count": 46305
+}

@@ -1,0 +1,25 @@
+{
+  "bank": "FED",
+  "date": "2018-03-21",
+  "score": 73,
+  "stance": "hawkish",
+  "hawkish_phrases": [
+    "stronger economic outlook and the somewhat higher inflation readings in recent months had increased the likelihood of progress toward the Committee's 2 percent inflation objective",
+    "the appropriate path for the federal funds rate over the next few years would likely be slightly steeper than they had previously expected",
+    "it would likely become appropriate at some point for the Committee to set the federal funds rate above its longer-run normal value for a time",
+    "the strengthening in the economic outlook in recent months increased the likelihood that a gradual upward trajectory of the federal funds rate would be appropriate",
+    "Committee expects that economic conditions will evolve in a manner that will warrant further gradual increases in the federal funds rate"
+  ],
+  "dovish_phrases": [
+    "the stance of monetary policy remained accommodative, supporting strong labor market conditions and a sustained return to 2 percent inflation",
+    "A couple of participants pointed to possible benefits of postponing an increase in the target range for the federal funds rate until a subsequent meeting",
+    "longer-run normal federal funds rate was likely lower than in the past",
+    "the federal funds rate is likely to remain, for some time, below levels that are expected to prevail in the longer run",
+    "Almost all participants agreed that it remained appropriate to follow a gradual approach to raising the target range for the federal funds rate"
+  ],
+  "summary": "The FOMC unanimously voted to raise the federal funds rate by 25bp to 1.5-1.75%, with forward guidance explicitly stating that further gradual increases are warranted and multiple participants noting the path would likely be steeper than previously expected.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:45:20",
+  "source_file": "FED_2018-03-21.txt",
+  "char_count": 48460
+}

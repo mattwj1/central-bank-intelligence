@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2018-08-23",
+  "score": 42,
+  "stance": "neutral",
+  "hawkish_phrases": [
+    "underlying strength of the euro area economy continued to provide confidence that the convergence of inflation to levels below, but close to, 2% over the medium term would proceed",
+    "rising wages and increasing price pressures at the early stages of the pricing chain",
+    "Annual growth in compensation per employee had increased to 2.0% in the first quarter of 2018",
+    "labour market tightness becoming progressively more widespread across sectors and countries",
+    "uncertainties surrounding the inflation outlook had been receding"
+  ],
+  "dovish_phrases": [
+    "underlying price pressures were building up only gradually, which argued in favour of patience, prudence and persistence",
+    "significant monetary policy stimulus was considered to be still needed",
+    "measures of underlying inflation remained muted overall",
+    "monetary policy had to remain patient, prudent and persistent",
+    "an ample degree of monetary accommodation would continue to be provided"
+  ],
+  "summary": "The Governing Council unanimously held rates unchanged and reconfirmed forward guidance that rates would remain at present levels at least through summer 2019, while continuing the planned taper of asset purchases to \u20ac15 billion until end-2018 then ending, with balanced risks but emphasis on still-needed significant stimulus and patient, prudent, persistent approach despite improving growth and wage dynamics.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-17T20:48:36",
+  "source_file": "ECB_2018-08-23.txt",
+  "char_count": 27109
+}

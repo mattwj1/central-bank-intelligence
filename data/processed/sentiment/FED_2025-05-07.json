@@ -1,0 +1,25 @@
+{
+  "bank": "FED",
+  "date": "2025-05-07",
+  "score": 52,
+  "stance": "neutral",
+  "hawkish_phrases": [
+    "inflation remained somewhat elevated",
+    "risks around the inflation projection balanced in that year. Thereafter, the staff continued to view the risks around the inflation forecast as skewed to the upside",
+    "the risk that inflation could prove to be more persistent than expected",
+    "Participants emphasized the importance of ensuring that longer-term inflation expectations remained well anchored",
+    "some measures of inflation expectations raising the possibility that inflation would prove to be more persistent"
+  ],
+  "dovish_phrases": [
+    "downside risks to employment and economic activity...had risen",
+    "there was a risk that the labor market would weaken in coming months",
+    "the staff viewed the possibility that the economy would enter a recession to be almost as likely as the baseline forecast",
+    "risks of higher unemployment...had risen",
+    "The unemployment rate was forecast moving above the staff's estimate of its natural rate by the end of this year"
+  ],
+  "summary": "The Committee unanimously held rates at 4.25-4.50 percent while acknowledging heightened uncertainty and explicitly stating that risks of both higher unemployment and higher inflation had risen, with balanced directional risk language and no forward guidance.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T16:08:28",
+  "source_file": "FED_2025-05-07.txt",
+  "char_count": 51123
+}

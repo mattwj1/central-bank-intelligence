@@ -1,0 +1,25 @@
+{
+  "bank": "BOE",
+  "date": "2021-08-01",
+  "score": 63,
+  "stance": "hawkish",
+  "hawkish_phrases": [
+    "some modest tightening of monetary policy over the forecast period is likely to be necessary",
+    "spare capacity has been eroded over the past couple of quarters",
+    "the economy is projected to have a margin of excess demand for a period",
+    "CPI inflation is projected to rise temporarily in the near term, to 4% in 2021 Q4",
+    "continuing with asset purchases when CPI inflation was 4% and the output gap was closed...might cause medium-term inflation expectations to drift higher"
+  ],
+  "dovish_phrases": [
+    "voted unanimously to maintain Bank Rate at 0.1%",
+    "The Committee would not put undue weight on capacity pressures that are frictional in nature and likely to be temporary",
+    "current elevated global and domestic cost pressures will prove transitory",
+    "in the medium term, conditioned on the market path for interest rates, inflation is projected to fall back to close to the 2% target",
+    "downside risks to GDP were judged to be skewed to the downside of the central forecast"
+  ],
+  "summary": "The MPC voted unanimously to hold Bank Rate at 0.1% and 7-1 to continue asset purchases (Saunders dissenting hawkishly), but signaled that some modest tightening over the forecast period is likely to be necessary, with inflation projected to reach 4% and spare capacity eroded.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:30:01",
+  "source_file": "BOE_2021-08-01.txt",
+  "char_count": 48467
+}

@@ -201,6 +201,9 @@ cython_debug/
 .cursorignore
 .cursorindexingignore
 
+# Private project context (coursework docs, planning notes, methodology diary)
+Context and project scope/
+
 # Marimo
 marimo/_static/
 marimo/_lsp/

@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2023-09-14",
+  "score": 73,
+  "stance": "hawkish",
+  "hawkish_phrases": [
+    "inflation was still expected to remain too high for too long",
+    "it was safer to decide on an additional hike, given the highly uncertain environment and the significant disinflation that was still required",
+    "A higher interest rate would more strongly limit the amplification of any upside shocks to the inflation path",
+    "erring on the side of pausing the first time the decision was a close call could risk being interpreted as a weakening of the ECB's determination",
+    "an additional consideration was the risk that the inflation path embedded in the projections was fragile and additional supply shocks could push inflation further above the target for longer"
+  ],
+  "dovish_phrases": [
+    "the economy had weakened substantially",
+    "downside risks to economic growth could be significant",
+    "a lot of the pass-through of past rate hikes was still pending",
+    "economic momentum was expected to pick up, as real incomes were expected to rise",
+    "the risks of hiking at the present time, and later having to reverse course should the economy weaken by more than expected, were larger"
+  ],
+  "summary": "The Governing Council raised the three key ECB interest rates by 25 basis points, a close call decision with a solid majority supporting the hike, emphasizing that inflation remains too high for too long despite weaker economic growth and strong monetary transmission already underway.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-17T21:04:48",
+  "source_file": "ECB_2023-09-14.txt",
+  "char_count": 68891
+}

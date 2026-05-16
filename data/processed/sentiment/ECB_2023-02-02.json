@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2023-02-02",
+  "score": 78,
+  "stance": "hawkish",
+  "hawkish_phrases": [
+    "inflation remained far too high",
+    "stay the course in raising interest rates significantly at a steady pace and in keeping them at levels that were sufficiently restrictive",
+    "intended to raise interest rates by another 50 basis points at the next monetary policy meeting in March",
+    "underlying price pressures remained strong",
+    "current wage growth was clearly not consistent with a 2% inflation target"
+  ],
+  "dovish_phrases": [
+    "euro area was likely to avoid a recession",
+    "energy prices had come down significantly",
+    "risks to the inflation outlook had become more balanced",
+    "the risk of doing too much deserved as much consideration as the risk of doing too little",
+    "core inflation should come down further over time"
+  ],
+  "summary": "The Governing Council delivered a 50 basis point rate hike with unanimous support and communicated an explicit intention to raise rates by another 50 basis points at the March meeting, emphasizing the need to stay the course with significant further tightening to ensure a timely return of inflation to the 2% target despite improved growth resilience and lower energy prices.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-17T21:02:05",
+  "source_file": "ECB_2023-02-02.txt",
+  "char_count": 68031
+}

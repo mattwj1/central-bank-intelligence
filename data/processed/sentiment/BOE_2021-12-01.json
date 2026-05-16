@@ -1,0 +1,25 @@
+{
+  "bank": "BOE",
+  "date": "2021-12-01",
+  "score": 73,
+  "stance": "hawkish",
+  "hawkish_phrases": [
+    "it would be necessary over coming months to increase Bank Rate in order to return CPI inflation sustainably to the 2% target",
+    "The labour market is tight and has continued to tighten, and there are some signs of greater persistence in domestic cost and price pressures",
+    "CPI inflation had risen from 3.1% in September to 5.1% in November",
+    "some modest tightening of monetary policy over the forecast period is likely to be necessary to meet the 2% inflation target sustainably",
+    "maintaining the current monetary policy stance when CPI inflation was materially above the 2% target and the output gap appeared to be closed might cause medium-term inflation expectations to drift up further"
+  ],
+  "dovish_phrases": [
+    "The Omicron variant poses downside risks to activity in early 2022",
+    "the decision at this meeting was finely balanced because of the uncertainty around Covid developments",
+    "The impact of the Omicron variant, associated additional measures introduced by the UK Government and Devolved Administrations, and voluntary social distancing will push down on GDP in December and in 2022 Q1",
+    "There was some value in waiting for further information on the degree to which Omicron was likely to escape the protection of current vaccines",
+    "the significant uncertainty introduced by Omicron warranted waiting until February for more clarity before considering any change in Bank Rate"
+  ],
+  "summary": "The MPC voted 8-1 to increase Bank Rate by 15 basis points to 0.25%, with the majority judging that labour market tightening and persistent domestic cost pressures warranted immediate tightening despite Omicron uncertainty, and signaling that further modest tightening would likely be necessary.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:30:32",
+  "source_file": "BOE_2021-12-01.txt",
+  "char_count": 51761
+}

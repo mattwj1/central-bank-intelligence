@@ -1,0 +1,25 @@
+{
+  "bank": "BOE",
+  "date": "2019-06-01",
+  "score": 58,
+  "stance": "neutral",
+  "hawkish_phrases": [
+    "ongoing tightening of monetary policy over the forecast period...would be appropriate",
+    "excess demand rose above 1% of potential output by the end of the forecast period",
+    "CPI inflation picked up to above the 2% target in two years' time and was still rising",
+    "domestic inflationary pressures firmed",
+    "The labour market remains tight"
+  ],
+  "dovish_phrases": [
+    "downside risks to growth have increased",
+    "trade tensions have intensified",
+    "the perceived likelihood of a no-deal Brexit has risen",
+    "Forward interest rates in major economies have fallen materially further",
+    "CPI inflation is likely to fall below the 2% target later this year"
+  ],
+  "summary": "The MPC voted unanimously to hold Bank Rate at 0.75%, maintaining that ongoing gradual tightening would be appropriate if the economy develops in line with May projections assuming a smooth Brexit, though acknowledging increased downside risks to growth from trade tensions and no-deal Brexit concerns.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:27:50",
+  "source_file": "BOE_2019-06-01.txt",
+  "char_count": 5681
+}

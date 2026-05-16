@@ -1,0 +1,25 @@
+{
+  "bank": "BOE",
+  "date": "2018-02-01",
+  "score": 73,
+  "stance": "hawkish",
+  "hawkish_phrases": [
+    "monetary policy would need to be tightened somewhat earlier and by a somewhat greater extent over the forecast period than anticipated at the time of the November Report",
+    "a small margin of excess demand emerges by early 2020 and builds thereafter",
+    "inflation is projected to...remain above the 2% target in the second and third years",
+    "the UK economy has only a very limited degree of slack",
+    "firming of shorter-term measures of wage growth in recent quarters"
+  ],
+  "dovish_phrases": [
+    "Any future increases in Bank Rate are expected to be at a gradual pace and to a limited extent",
+    "Household consumption growth is expected to remain relatively subdued, reflecting weak real income growth",
+    "business investment...remains restrained by Brexit-related uncertainties",
+    "rates of productivity growth that are around half of their pre-crisis average",
+    "the Committee must balance any trade-off between the speed at which it intends to return inflation sustainably to the target and the support that monetary policy provides to jobs and activity"
+  ],
+  "summary": "The MPC voted unanimously to hold Bank Rate at 0.50%, but signaled that monetary policy would need to be tightened somewhat earlier and by a somewhat greater extent than previously anticipated, given excess demand is expected to emerge and inflation to remain above target.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:26:34",
+  "source_file": "BOE_2018-02-01.txt",
+  "char_count": 7030
+}

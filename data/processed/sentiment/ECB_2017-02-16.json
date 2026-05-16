@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2017-02-16",
+  "score": 38,
+  "stance": "dovish",
+  "hawkish_phrases": [
+    "the euro area economy could hit a 'speed limit' relatively soon",
+    "risks... starting to become more balanced",
+    "carefully monitoring potential indirect and second-round effects",
+    "wage dynamics would need to be monitored carefully",
+    "downside risks had receded somewhat"
+  ],
+  "dovish_phrases": [
+    "a very substantial degree of monetary accommodation was needed",
+    "underlying inflation dynamics remained subdued",
+    "there were as yet no convincing signs of a more dynamic upward trend in underlying inflation",
+    "the Governing Council would look through recent upturns in headline inflation driven by energy prices",
+    "still lacking... signs of a convincing upward trend"
+  ],
+  "summary": "The Governing Council unanimously held all key interest rates unchanged and confirmed its APP purchase schedule (\u20ac80bn monthly until March, then \u20ac60bn monthly from April 2017 onwards), with a clear easing bias emphasizing that substantial accommodation remains needed as underlying inflation pressures remain subdued despite recent headline inflation increases driven by energy prices.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-17T20:45:01",
+  "source_file": "ECB_2017-02-16.txt",
+  "char_count": 38601
+}

@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2025-01-30",
+  "score": 38,
+  "stance": "dovish",
+  "hawkish_phrases": [
+    "risks to the inflation outlook were now tilted to the upside",
+    "services inflation had been stuck at roughly 4% for more than a year",
+    "upside risks could delay a sustainable return to target",
+    "greater caution was needed on the size and pace of further rate cuts when policy rates were approaching neutral territory",
+    "high levels of uncertainty, lingering upside risks to energy and food prices, a strong labour market and high negotiated wage increases, as well as sticky services inflation, called for caution"
+  ],
+  "dovish_phrases": [
+    "disinflation process remained well on track",
+    "inflation had continued to develop broadly in line with the staff projections",
+    "most measures of underlying inflation suggested that inflation would settle around the target on a sustained basis",
+    "risks to economic growth remained tilted to the downside",
+    "as long as the disinflation process remained on track, policy rates could be brought further towards a neutral level to avoid unnecessarily holding back the economy"
+  ],
+  "summary": "The ECB cut rates by 25 basis points unanimously, with disinflation on track but concerns expressed about sticky services inflation at 4%, upside inflation risks, and the need for caution as rates approach neutral territory despite downside growth risks.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-17T21:09:12",
+  "source_file": "ECB_2025-01-30.txt",
+  "char_count": 57416
+}

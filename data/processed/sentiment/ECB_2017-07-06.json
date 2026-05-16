@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2017-07-06",
+  "score": 42,
+  "stance": "neutral",
+  "hawkish_phrases": [
+    "risks to the euro area growth outlook were viewed as broadly balanced",
+    "deflation risks had largely dissipated",
+    "removing the reference to further rate cuts from the Governing Council's forward guidance",
+    "the likelihood of contingencies calling for further policy accommodation...had clearly diminished",
+    "upside risks were generally seen to have become somewhat more pronounced"
+  ],
+  "dovish_phrases": [
+    "inflation remained subdued...indicators of underlying inflation continued to remain flat",
+    "a very substantial degree of monetary accommodation continued to be necessary",
+    "the June 2017 Eurosystem staff projections for HICP inflation had been revised downwards across the projection horizon",
+    "convincing progress towards a durable and self-sustaining convergence of inflation...had yet to be ensured",
+    "the Governing Council stood ready to increase the programme in terms of size and/or duration"
+  ],
+  "summary": "The Governing Council held rates unchanged (deposit at -0.40%), maintained APP at \u20ac60bn/month until at least December 2017, and removed the easing bias on policy rates (reference to further cuts) while retaining the APP easing bias, citing balanced growth risks and vanishing deflation tail risks but persistently subdued underlying inflation requiring substantial accommodation.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-17T20:45:51",
+  "source_file": "ECB_2017-07-06.txt",
+  "char_count": 47824
+}

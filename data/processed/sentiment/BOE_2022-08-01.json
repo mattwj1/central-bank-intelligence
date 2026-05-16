@@ -1,0 +1,25 @@
+{
+  "bank": "BOE",
+  "date": "2022-08-01",
+  "score": 78,
+  "stance": "hawkish",
+  "hawkish_phrases": [
+    "inflationary pressures in the United Kingdom and the rest of Europe have intensified significantly",
+    "There is a risk that a longer period of externally generated price inflation will lead to more enduring domestic price and wage pressures",
+    "The Committee will be particularly alert to indications of more persistent inflationary pressures, and will if necessary act forcefully in response",
+    "a more forceful policy action was justified",
+    "CPI inflation is expected to rise more than forecast in the May Report, from 9.4% in June to just over 13% in 2022 Q4"
+  ],
+  "dovish_phrases": [
+    "The United Kingdom is now projected to enter recession from the fourth quarter of this year",
+    "Real household post-tax income is projected to fall sharply in 2022 and 2023, while consumption growth turns negative",
+    "GDP growth in the United Kingdom is slowing",
+    "One member preferred a 0.25 percentage point increase in Bank Rate at this meeting",
+    "Bank Rate might already have reached the level consistent with returning inflation to the 2% target in the medium term"
+  ],
+  "summary": "The MPC voted 8-1 to raise Bank Rate by 50bp to 1.75%, with the majority favoring forceful action against intensifying inflationary pressures and explicitly signaling willingness to act forcefully if persistent pressures emerge, despite projecting an imminent recession.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:32:09",
+  "source_file": "BOE_2022-08-01.txt",
+  "char_count": 43840
+}

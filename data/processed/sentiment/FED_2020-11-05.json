@@ -1,0 +1,25 @@
+{
+  "bank": "FED",
+  "date": "2020-11-05",
+  "score": 28,
+  "stance": "dovish",
+  "hawkish_phrases": [
+    "several participants expressed concerns that a prolonged period of low interest rates and highly accommodative financial market conditions could lead to excessive risk-taking",
+    "A few participants expressed concern that maintaining the current pace of agency MBS purchases could contribute to potential valuation pressures in housing markets",
+    "Several participants noted the possibility that there may be limits to the amount of additional accommodation that could be provided through increases in the Federal Reserve's asset holdings",
+    "concerns that much higher levels of reserves might create pressure on banks' balance sheets",
+    "CRE prices had started to decline in some sectors, while market conditions, including rising vacancies and declining rents, pointed to a risk of further drops"
+  ],
+  "dovish_phrases": [
+    "the Federal Reserve is committed to using its full range of tools to support the U.S. economy in this challenging time",
+    "the ongoing public health crisis will continue to weigh on economic activity, employment, and inflation in the near term, and poses considerable risks to the economic outlook over the medium term",
+    "the Committee will aim to achieve inflation moderately above 2 percent for some time so that inflation averages 2 percent over time",
+    "expects it will be appropriate to maintain this target range until labor market conditions have reached levels consistent with the Committee's assessments of maximum employment",
+    "several participants expressed concern that, in the absence of additional fiscal support, lower- and moderate-income households might need to reduce their spending sharply when their savings were exhausted"
+  ],
+  "summary": "The FOMC unanimously held the target range at 0-0.25% with explicit forward guidance that the range will remain until maximum employment is achieved and inflation has risen to 2% and is on track to moderately exceed it, maintaining asset purchases at the current pace with clear dovish emphasis on downside risks from the pandemic and lack of fiscal support.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:54:21",
+  "source_file": "FED_2020-11-05.txt",
+  "char_count": 63894
+}

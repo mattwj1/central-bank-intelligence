@@ -1,0 +1,25 @@
+{
+  "bank": "FED",
+  "date": "2016-07-27",
+  "score": 42,
+  "stance": "neutral",
+  "hawkish_phrases": [
+    "One member preferred to raise the target range for the federal funds rate at the current meeting",
+    "some moderation in employment gains was to be expected",
+    "risk to the economic expansion that would be associated with allowing labor market conditions to tighten to an extent that could lead to an unwanted buildup of inflation pressures",
+    "concern that an extended period of low interest rates risked intensifying incentives for investors to reach for yield",
+    "labor market conditions were at or close to those consistent with maximum employment"
+  ],
+  "dovish_phrases": [
+    "before taking another step in removing monetary accommodation, it was prudent to accumulate more data",
+    "wait for more evidence that inflation would rise to 2 percent on a sustained basis",
+    "Inflation has continued to run below the Committee's 2 percent longer-run objective",
+    "In light of the current shortfall of inflation from 2 percent, the Committee will carefully monitor actual and expected progress toward its inflation goal",
+    "Near-term risks to the economic outlook have diminished"
+  ],
+  "summary": "The Committee voted 9-1 to hold the target range at 1/4 to 1/2 percent with Esther George dissenting in favor of a 25bp hike, maintaining an accommodative stance with clear emphasis on waiting for more data before removing accommodation despite reduced near-term risks.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:39:40",
+  "source_file": "FED_2016-07-27.txt",
+  "char_count": 67915
+}

@@ -1,0 +1,25 @@
+{
+  "bank": "BOE",
+  "date": "2017-09-01",
+  "score": 68,
+  "stance": "hawkish",
+  "hawkish_phrases": [
+    "monetary policy could need to be tightened by a somewhat greater extent over the forecast period than current market expectations",
+    "some withdrawal of monetary stimulus is likely to be appropriate over the coming months",
+    "spare capacity in the economy is being absorbed a little more rapidly than expected",
+    "inflation remains likely to overshoot the 2% target over the next three years",
+    "Two members considered it appropriate to increase Bank Rate by 25 basis points"
+  ],
+  "dovish_phrases": [
+    "any prospective increases in Bank Rate would be expected to be at a gradual pace and to a limited extent",
+    "seven members thought that the current policy stance remained appropriate",
+    "regular pay growth remains modest in the near term",
+    "There remain considerable risks to the outlook",
+    "stands ready to respond to changes in the economic outlook"
+  ],
+  "summary": "The MPC voted 7-2 to hold Bank Rate at 0.25%, with a clear hawkish bias as a majority judged that some withdrawal of monetary stimulus is likely to be appropriate over the coming months, and two members dissented in favour of an immediate 25bp hike.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:26:11",
+  "source_file": "BOE_2017-09-01.txt",
+  "char_count": 5999
+}

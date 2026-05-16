@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2015-04-02",
+  "score": 38,
+  "stance": "dovish",
+  "hawkish_phrases": [
+    "no need at the meeting for the Governing Council to reconsider any of the parameters underlying the expanded APP",
+    "a cyclical economic recovery in the euro area along the lines of the March 2015 ECB staff projections was no grounds for complacency",
+    "full and consistent implementation of the Stability and Growth Pact was key for confidence in Europe's fiscal framework",
+    "weakening the credibility of the fiscal framework also entailed a risk of a negative impact on the effectiveness of the expanded APP",
+    "the Governing Council should send a firm message on the need for full and consistent implementation of the fiscal rules"
+  ],
+  "dovish_phrases": [
+    "annual HICP inflation had rebounded to -0.3%",
+    "annual HICP inflation rates were likely to remain very low or negative for some time",
+    "the risks surrounding the euro area economic outlook as remaining on the downside",
+    "there was no room for complacency",
+    "high degree of uncertainty surrounding the transmission of non-standard policies"
+  ],
+  "summary": "The Governing Council held rates unchanged (main refinancing at 0.05%, deposit at -0.20%) and adopted the public sector purchase programme (PSPP) with unanimous support, maintaining its expanded asset purchase programme with ongoing easing bias amid negative inflation and downside risks to the outlook, but emphasizing no need to reconsider parameters at this stage.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-17T20:40:26",
+  "source_file": "ECB_2015-04-02.txt",
+  "char_count": 47869
+}

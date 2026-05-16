@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2019-10-10",
+  "score": 28,
+  "stance": "dovish",
+  "hawkish_phrases": [
+    "a number of reservations were expressed about individual elements of the proposed policy package",
+    "some concerns were voiced about a potential decline in the efficiency of the portfolio rebalancing channel and potential adverse side effects",
+    "A number of members assessed the case for renewed net asset purchases as not sufficiently strong",
+    "other members felt unable to support a cut of 10 basis points, as they were concerned about the possibility of increasingly adverse side effects",
+    "banks would benefit from TLTRO III, which offered them very favourable lending conditions"
+  ],
+  "dovish_phrases": [
+    "a comprehensive policy response was warranted to support the return to a sustained convergence path towards the Governing Council's medium-term inflation aim",
+    "the Governing Council was confronted with a protracted slowdown in the euro area economy, persistent downside risks and an inflation outlook that continued to fall short of its medium-term inflation aim",
+    "All members agreed that a further easing of the monetary policy stance was warranted",
+    "significant downward revisions to the inflation outlook had been observed, bringing the 2021 inflation projection down from 1.8% to 1.5%",
+    "inflation was moving further away from levels deemed consistent with the Governing Council's inflation aim"
+  ],
+  "summary": "The ECB cut the deposit rate by 10 basis points to -0.50%, restarted net asset purchases at \u20ac20 billion per month, improved TLTRO III conditions, and introduced a two-tier reserve system; while all members agreed easing was warranted, several members expressed reservations about the net asset purchase restart and some opposed even the 10bp rate cut due to side-effect concerns.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-17T20:51:15",
+  "source_file": "ECB_2019-10-10.txt",
+  "char_count": 57241
+}

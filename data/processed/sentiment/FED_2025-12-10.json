@@ -1,0 +1,25 @@
+{
+  "bank": "FED",
+  "date": "2025-12-10",
+  "score": 38,
+  "stance": "dovish",
+  "hawkish_phrases": [
+    "inflation had moved up since earlier in the year and remained somewhat elevated",
+    "progress toward the Committee's 2 percent inflation objective had stalled in 2025",
+    "risks to inflation remained tilted to the upside",
+    "a more prolonged period of above-target inflation could risk an increase in longer-run expectations",
+    "lowering the policy rate further in the context of elevated inflation readings could be misinterpreted as implying diminished policymaker commitment to the 2 percent inflation objective"
+  ],
+  "dovish_phrases": [
+    "downside risks to employment had risen in recent months",
+    "job gains had slowed this year and the unemployment rate had edged up",
+    "upside risks to inflation had diminished since earlier in 2025",
+    "lowering the target range for the federal funds rate at this meeting was in line with a forward-looking approach",
+    "a move toward a more neutral policy stance would help forestall the possibility of a major deterioration in labor market conditions"
+  ],
+  "summary": "The FOMC cut rates by 25bp to 3.5-3.75% with a split vote (9-3: two dissenters preferring hold, one preferring 50bp cut), citing elevated downside employment risks despite still-elevated inflation, with forward guidance emphasizing careful assessment of further adjustments.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-15T00:34:13",
+  "source_file": "FED_2025-12-10.txt",
+  "char_count": 51251
+}

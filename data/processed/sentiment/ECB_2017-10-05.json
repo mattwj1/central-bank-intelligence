@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2017-10-05",
+  "score": 42,
+  "stance": "neutral",
+  "hawkish_phrases": [
+    "a view was put forward that conditions were increasingly falling into place that would allow the intensity of monetary policy accommodation to be adapted",
+    "the Governing Council needed to regain more policy space and flexibility to adjust policy",
+    "there was broad agreement to emphasise...the need for monetary policy to remain persistent and patient",
+    "any reassessment of the monetary policy stance should proceed in a very gradual and cautious manner",
+    "a very substantial degree of monetary accommodation was still needed for inflation pressures to build up"
+  ],
+  "dovish_phrases": [
+    "inflation dynamics remained subdued and signs of progress towards a sustained adjustment in the path of inflation were generally judged to still be insufficient",
+    "patience, persistence and prudence were still needed, as this process was expected to take time",
+    "the recent volatility in the exchange rate represented a source of uncertainty, requiring close monitoring",
+    "Discomfort was widely expressed about the very prolonged period over which inflation had been \u2013 and was still expected to remain \u2013 distant from the Governing Council's aim",
+    "measures of underlying inflation...had yet to show convincing signs of a sustained upward trend"
+  ],
+  "summary": "The Governing Council held rates unchanged at 0.00% (main refinancing), confirmed APP purchases at \u20ac60 billion monthly until end-December 2017, with unanimous decision but dovish guidance emphasizing patience and persistence due to subdued inflation dynamics despite solid growth, while signaling autumn recalibration and monitoring euro volatility as a source of uncertainty.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-17T20:46:24",
+  "source_file": "ECB_2017-10-05.txt",
+  "char_count": 42063
+}

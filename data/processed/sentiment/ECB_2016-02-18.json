@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2016-02-18",
+  "score": 38,
+  "stance": "dovish",
+  "hawkish_phrases": [
+    "policy rates would remain at current or lower levels for an extended period of time",
+    "structural reforms... boost job creation and increase growth potential",
+    "fiscal policy could play a role in supporting the economic recovery",
+    "a limited period of overshooting in future",
+    "there was no limit to how far it was willing to deploy instruments within its mandate"
+  ],
+  "dovish_phrases": [
+    "downside risks had increased again amid heightened uncertainty",
+    "inflation dynamics had continued to be weaker than expected",
+    "increased the risk of second-round effects",
+    "review and possibly reconsider the monetary policy stance at the next monetary policy meeting in early March",
+    "willing and able to take further monetary policy action, if warranted"
+  ],
+  "summary": "The Governing Council unanimously held rates unchanged but signaled a strong easing bias by stating it would review and possibly reconsider the monetary policy stance at the March 2016 meeting, reaffirming forward guidance that rates would remain at current or lower levels for an extended period amid increased downside risks and weaker-than-expected inflation.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-17T20:42:21",
+  "source_file": "ECB_2016-02-18.txt",
+  "char_count": 47704
+}

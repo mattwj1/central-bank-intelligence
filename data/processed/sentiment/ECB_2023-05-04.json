@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2023-05-04",
+  "score": 68,
+  "stance": "hawkish",
+  "hawkish_phrases": [
+    "underlying price pressures remained strong",
+    "inflation outlook was still too high for too long",
+    "risks to price stability as being clearly tilted to the upside",
+    "signs of a wage-profit-price spiral were emerging",
+    "policy rates would be brought to levels that were sufficiently restrictive...and would be kept at those levels for as long as necessary"
+  ],
+  "dovish_phrases": [
+    "accounting for elevated uncertainty about the speed and strength of monetary policy transmission",
+    "substantial ground had been covered thus far, with the Governing Council having raised rates by 350 basis points",
+    "lower energy prices, the easing of supply bottlenecks",
+    "exclusion-based and model-based measures had started to decline",
+    "weaker demand...would also lead to lower price pressures"
+  ],
+  "summary": "The Governing Council raised rates by 25 basis points (slowing from prior 50bp increments) with almost all members supporting the decision, while emphasizing that rates must reach sufficiently restrictive levels and remain there as underlying inflation pressures and upside risks persist.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-17T21:03:04",
+  "source_file": "ECB_2023-05-04.txt",
+  "char_count": 64387
+}

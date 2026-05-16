@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2019-04-11",
+  "score": 28,
+  "stance": "dovish",
+  "hawkish_phrases": [
+    "domestic cost pressures had been increasing",
+    "labour cost pressures had strengthened and broadened amid high levels of capacity utilisation and tightening labour markets",
+    "negotiated wage growth had risen to 2.2% in the fourth quarter of 2018",
+    "wage pressures would eventually pass through to underlying inflation",
+    "the risk of an unanchoring of inflation expectations was assessed as very low"
+  ],
+  "dovish_phrases": [
+    "weakening in economic data pointed to a sizeable moderation in the pace of the economic expansion that would extend into the current year",
+    "the weaker economic momentum was slowing the adjustment of inflation towards the Governing Council's aim",
+    "outlook for HICP inflation had been revised down significantly by 0.3 percentage points in 2019 and by 0.2 percentage points in both 2020 and 2021",
+    "measures of underlying inflation remained muted",
+    "longer-term market-based inflation expectations, as derived from the five-year inflation-linked swap rates five years forward, had declined to 1.5%"
+  ],
+  "summary": "The ECB held rates unchanged but extended forward guidance on rates remaining at present levels from mid-2019 to at least through end-2019, launched a new TLTRO-III program, and significantly revised down growth and inflation projections in response to weakening economic data and slowing inflation adjustment.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-17T20:49:51",
+  "source_file": "ECB_2019-04-11.txt",
+  "char_count": 42025
+}

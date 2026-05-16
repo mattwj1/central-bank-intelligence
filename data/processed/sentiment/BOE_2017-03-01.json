@@ -1,0 +1,25 @@
+{
+  "bank": "BOE",
+  "date": "2017-03-01",
+  "score": 68,
+  "stance": "hawkish",
+  "hawkish_phrases": [
+    "the conditioning assumption underpinning the February projections \u2013 that there will be some modest withdrawal of monetary stimulus over the course of the forecast period \u2013 remains appropriate",
+    "if aggregate demand growth remains resilient, monetary policy may need to be tightened sooner and to a greater degree than that implied path",
+    "Kristin Forbes considered it appropriate to increase Bank Rate by 25 basis points",
+    "there are limits to the extent that above-target inflation can be tolerated",
+    "CPI inflation increased to 1.8% in January, and the MPC expects it to rise above the 2% target over the next few months, before peaking at around 2\u00be% in early 2018"
+  ],
+  "dovish_phrases": [
+    "the Committee expects a slowdown in aggregate demand over the course of this year, as household demand growth declines in reaction to lower real income growth",
+    "Monetary policy cannot prevent either the real adjustment that is necessary as the UK moves towards its new international trading arrangements or the weaker real income growth that is likely to accompany it",
+    "the MPC continued to judge that it remained appropriate to seek to return inflation to the target over a somewhat longer period than usual",
+    "A more marked slowdown in activity than currently anticipated by the Committee, by contrast, could warrant additional policy support",
+    "Pay growth has remained subdued"
+  ],
+  "summary": "The MPC voted 8-1 to hold Bank Rate at 0.25% with one dissenter favoring a 25bp hike, while forward guidance explicitly assumes some modest withdrawal of monetary stimulus over the forecast period and signals tightening may be needed sooner if demand remains resilient.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:25:41",
+  "source_file": "BOE_2017-03-01.txt",
+  "char_count": 7250
+}

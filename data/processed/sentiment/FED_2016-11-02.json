@@ -1,0 +1,25 @@
+{
+  "bank": "FED",
+  "date": "2016-11-02",
+  "score": 62,
+  "stance": "hawkish",
+  "hawkish_phrases": [
+    "the case for increasing the target range for the federal funds rate had continued to strengthen",
+    "Most participants expressed a view that it could well become appropriate to raise the target range for the federal funds rate relatively soon",
+    "Some participants noted that recent Committee communications were consistent with an increase in the target range for the federal funds rate in the near term",
+    "risks to economic and financial stability could increase over time if the labor market overheated appreciably",
+    "Two members preferred to raise the target range for the federal funds rate by 25 basis points at this meeting"
+  ],
+  "dovish_phrases": [
+    "a number of participants expressed the view that some modest slack remained in the labor market",
+    "some further evidence of continued progress toward the Committee's objectives would provide greater support for policy firming",
+    "allowing the unemployment rate to fall below its longer-run normal level for a time could result in favorable supply-side effects",
+    "proximity of the federal funds rate to the effective lower bound places potential constraints on monetary policy",
+    "In light of the current shortfall of inflation from 2 percent, the Committee will carefully monitor actual and expected progress toward its inflation goal"
+  ],
+  "summary": "The Committee voted 8-2 to hold rates at 1/4-1/2 percent, with two hawkish dissents (George and Mester) preferring an immediate 25bp hike, while the majority judged the case for a rate increase had strengthened and could warrant action relatively soon with further evidence of progress toward objectives.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:40:30",
+  "source_file": "FED_2016-11-02.txt",
+  "char_count": 61269
+}

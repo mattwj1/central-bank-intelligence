@@ -1,0 +1,23 @@
+{
+  "bank": "BOE",
+  "date": "2020-12-01",
+  "score": 28,
+  "stance": "dovish",
+  "hawkish_phrases": [
+    "CPI inflation is expected to rise quite sharply towards the target in the spring",
+    "The Committee does not intend to tighten monetary policy at least until there is clear evidence that significant progress is being made in eliminating spare capacity",
+    "Activity has been stronger than expected, despite the recent rise in Covid cases"
+  ],
+  "dovish_phrases": [
+    "If the outlook for inflation weakens, the Committee stands ready to take whatever additional action is necessary to achieve its remit",
+    "Twelve-month CPI inflation fell to 0.3% in November",
+    "a substantial further increase is still likely over the next few quarters",
+    "consistent with a material degree of spare capacity",
+    "The pandemic would weigh on near-term spending to a greater extent than projected"
+  ],
+  "summary": "The MPC voted unanimously to maintain Bank Rate at 0.1% and continue its asset purchase programme, with explicit forward guidance standing ready to take additional easing action if the inflation outlook weakens, amid very low inflation (0.3%) and rising unemployment.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:29:19",
+  "source_file": "BOE_2020-12-01.txt",
+  "char_count": 6565
+}

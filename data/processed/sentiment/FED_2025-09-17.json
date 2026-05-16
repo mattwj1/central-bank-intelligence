@@ -1,0 +1,25 @@
+{
+  "bank": "FED",
+  "date": "2025-09-17",
+  "score": 38,
+  "stance": "dovish",
+  "hawkish_phrases": [
+    "A majority of participants emphasized upside risks to their outlooks for inflation",
+    "progress toward the Committee's 2 percent inflation objective had stalled",
+    "possibility that elevated inflation proves to be more persistent than currently expected",
+    "if policy were eased too much or too soon and inflation continued to be elevated, then longer-term inflation expectations could become unanchored",
+    "A few participants stated there was merit in keeping the federal funds rate unchanged at this meeting"
+  ],
+  "dovish_phrases": [
+    "downside risks to employment had increased over the intermeeting period",
+    "job gains had slowed and the unemployment rate had edged up",
+    "labor market conditions had softened",
+    "if policy rates were kept too high for too long, then unemployment could rise unnecessarily",
+    "Miran preferred to lower the target range for the federal funds rate by 1/2 percentage point"
+  ],
+  "summary": "The Committee voted 11-1 to cut the federal funds rate by 25 basis points to 4.00-4.25%, with one dissent preferring a 50bp cut, citing increased downside risks to employment while acknowledging that inflation remains somewhat elevated and most participants emphasize upside inflation risks remain.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T16:09:22",
+  "source_file": "FED_2025-09-17.txt",
+  "char_count": 42262
+}

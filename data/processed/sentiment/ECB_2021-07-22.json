@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2021-07-22",
+  "score": 28,
+  "stance": "dovish",
+  "hawkish_phrases": [
+    "inflation had picked up, although the increase was expected to be mostly temporary",
+    "risks to the inflation outlook...were widely regarded as increasingly tilted to the upside",
+    "profit margins had already been squeezed for some time...such a continuous decline in margins was not sustainable and would likely reverse",
+    "supply bottlenecks now seemed to be more severe and persisting for longer than previously expected",
+    "residential property prices in the euro area were increasing at their fastest pace since 2007"
+  ],
+  "dovish_phrases": [
+    "the key ECB interest rates to remain at their present or lower levels until we see inflation reaching two per cent well ahead of the end of our projection horizon and on a durable basis",
+    "underlying price pressures had remained subdued",
+    "inflation over the medium term remained subdued",
+    "wage developments had been subdued overall",
+    "the outlook for inflation over the medium term remains subdued"
+  ],
+  "summary": "The ECB held rates at present levels and recalibrated forward guidance on interest rates to incorporate the new symmetric two per cent inflation target and a conditional commitment on the lower bound, with unanimous agreement on the new strategy but a few members expressing reservations about the forward guidance, signalling a clear easing bias despite inflation having picked up temporarily.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-17T20:56:45",
+  "source_file": "ECB_2021-07-22.txt",
+  "char_count": 61629
+}

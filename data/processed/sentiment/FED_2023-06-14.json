@@ -1,0 +1,25 @@
+{
+  "bank": "FED",
+  "date": "2023-06-14",
+  "score": 68,
+  "stance": "hawkish",
+  "hawkish_phrases": [
+    "Inflation remains elevated",
+    "Almost all participants noted that in their economic projections that they judged that additional increases in the target federal funds rate during 2023 would be appropriate",
+    "upside risks to the inflation outlook or the possibility that persistently high inflation might cause inflation expectations to become unanchored remained key factors shaping the policy outlook",
+    "Some participants favored raising the target range for the federal funds rate 25 basis points at this meeting",
+    "maintaining a restrictive stance for monetary policy would be appropriate"
+  ],
+  "dovish_phrases": [
+    "Holding the target range steady at this meeting allows the Committee to assess additional information",
+    "Most participants observed that uncertainty about the outlook for the economy and inflation remained elevated and that additional information would be valuable",
+    "tighter credit conditions for households and businesses are likely to weigh on economic activity, hiring, and inflation",
+    "Some participants commented that there continued to be downside risks to economic growth and upside risks to unemployment",
+    "the full effects of monetary tightening had likely yet to be observed"
+  ],
+  "summary": "The Committee unanimously held rates at 5.00-5.25% with hawkish guidance, as almost all participants projected additional rate increases in 2023 would be appropriate despite pausing to assess cumulative tightening effects and credit conditions.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T16:03:05",
+  "source_file": "FED_2023-06-14.txt",
+  "char_count": 47239
+}

@@ -1,0 +1,25 @@
+{
+  "bank": "FED",
+  "date": "2018-01-31",
+  "score": 68,
+  "stance": "hawkish",
+  "hawkish_phrases": [
+    "further gradual increases in the federal funds rate",
+    "strengthening in the near-term economic outlook increased the likelihood that a gradual upward trajectory of the federal funds rate would be appropriate",
+    "A majority of participants noted that a stronger outlook for economic growth raised the likelihood that further gradual policy firming would be appropriate",
+    "a couple noted that a step-up in the pace of economic growth could tighten labor market conditions even more than they currently anticipated, posing risks to inflation and financial stability",
+    "labor market conditions were tight in their Districts, evidenced by low unemployment rates, difficulties for employers in filling open positions"
+  ],
+  "dovish_phrases": [
+    "some participants saw an appreciable risk that inflation would continue to fall short of the Committee's objective",
+    "a few other participants pointed to the record of inflation consistently running below the Committee's 2 percent objective over recent years and expressed the concern that longer-run inflation expectations may have slipped",
+    "The Committee could afford to be patient in deciding whether to increase the target range",
+    "the federal funds rate is likely to remain, for some time, below levels that are expected to prevail in the longer run",
+    "few signs of a broad-based pickup in wage growth in available data"
+  ],
+  "summary": "The Committee unanimously voted to hold the federal funds rate at 1.25-1.50 percent while explicitly updating forward guidance to signal 'further gradual increases' amid strengthening near-term economic outlook, though inflation remained below 2 percent.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:44:35",
+  "source_file": "FED_2018-01-31.txt",
+  "char_count": 81408
+}

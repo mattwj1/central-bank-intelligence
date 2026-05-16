@@ -1,0 +1,25 @@
+{
+  "bank": "FED",
+  "date": "2019-09-18",
+  "score": 38,
+  "stance": "dovish",
+  "hawkish_phrases": [
+    "President George dissented because she believed that an unchanged setting of policy was appropriate",
+    "President Rosengren dissented because he judged that monetary policy was already accommodative",
+    "additional accommodation was not needed for an economy in which labor markets are already tight",
+    "could pose risks of further inflating the prices of risky assets and encouraging households and firms to take on too much leverage",
+    "Several participants suggested that the expectations regarding the path of the federal funds rate implied by prices in financial markets were currently suggesting greater provision of accommodation at coming meetings than they saw as appropriate"
+  ],
+  "dovish_phrases": [
+    "President Bullard dissented because he believed that lowering the target range for the federal funds rate by 50 basis points at this time would provide insurance against further declines in expected inflation",
+    "business fixed investment and exports have weakened",
+    "downside risks to the outlook for economic activity had increased somewhat since their July meeting",
+    "market-based measures of inflation compensation remained low; survey-based measures of longer-term inflation expectations were near historical lows",
+    "This action supports the Committee's view that sustained expansion of economic activity, strong labor market conditions, and inflation near the Committee's symmetric 2 percent objective are the most likely outcomes, but uncertainties about this outlook remain"
+  ],
+  "summary": "The Committee voted 7-3 to cut the federal funds rate by 25 basis points to 1-3/4 to 2 percent, with Bullard dissenting for a larger 50bp cut and George and Rosengren dissenting against any cut, reflecting a mildly dovish action motivated by trade uncertainty, weak investment, and below-target inflation despite a strong labor market.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:50:23",
+  "source_file": "FED_2019-09-18.txt",
+  "char_count": 71188
+}

@@ -1,0 +1,25 @@
+{
+  "bank": "BOE",
+  "date": "2026-03-01",
+  "score": 62,
+  "stance": "hawkish",
+  "hawkish_phrases": [
+    "The MPC is alert to the increased risk of domestic inflationary pressures through second-round effects in wage and price-setting",
+    "A larger or more protracted shock, which risked greater second-round effects in wage and price setting, would require a more restrictive policy stance",
+    "I see the balance between inflation and activity to have shifted away from considering a cut towards considering a longer hold, or even a hike at some point",
+    "the potential for second-round effects following recent events in the Middle East remains substantial, justifying caution in monetary policy setting",
+    "households and businesses are likely to be more sensitive to upside surprises in inflation given successive negative supply shocks"
+  ],
+  "dovish_phrases": [
+    "Absent this shock, the underlying disinflation process had continued broadly as I expected and, consistent with my vote in February, I would have expected to vote for a cut again in March",
+    "this shock was occurring at a point when growth was below potential and the economy was operating with a margin of spare capacity",
+    "The conflict has now led me to vote for a hold in Bank Rate. I would have otherwise voted for a 25 basis point cut",
+    "Before events in the Middle East, the disinflation process was nearly complete. Slack was worsening, with inflation set to reach target, making the case for a cut",
+    "policy would need to be less restrictive if the shock was very short-lived, or if there were to be a larger opening up of slack in the economy"
+  ],
+  "summary": "The MPC voted unanimously to hold Bank Rate at 3.75% in response to a Middle East energy shock that has raised near-term inflation risks, with multiple members stating they would have voted for a cut absent the conflict, and the Committee expressing alert concern about second-round inflation effects while acknowledging significant two-way risks and uncertainty.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:37:49",
+  "source_file": "BOE_2026-03-01.txt",
+  "char_count": 30437
+}

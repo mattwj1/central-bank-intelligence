@@ -1,0 +1,25 @@
+{
+  "bank": "FED",
+  "date": "2021-01-27",
+  "score": 12,
+  "stance": "extremely dovish",
+  "hawkish_phrases": [
+    "participants generally viewed the risks to the outlook for inflation as having become more balanced than was the case over most of 2020",
+    "several participants noted the potential for pandemic-related supply constraints to affect price inflation somewhat more than anticipated",
+    "Some participants pointed to the continued increase in market-based measures of inflation compensation",
+    "equity valuations had risen further, that initial public offering activity was elevated",
+    "risk spreads on corporate bonds and loans were generally low, even with corporate indebtedness having risen to high levels"
+  ],
+  "dovish_phrases": [
+    "the economy remained far from the Committee's longer-run goals",
+    "economic activity and employment were currently well below levels consistent with achieving maximum employment",
+    "the pandemic continued to pose considerable risks to the economic outlook",
+    "most still viewed the risks as weighted to the downside",
+    "it was likely to take some time for substantial further progress to be achieved"
+  ],
+  "summary": "The Committee unanimously voted to hold the federal funds rate at 0-0.25% and continue asset purchases at $80 billion Treasuries and $40 billion MBS per month, with a clear easing bias emphasizing the economy remains far from maximum employment and price stability goals amid continued pandemic risks.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:55:07",
+  "source_file": "FED_2021-01-27.txt",
+  "char_count": 84530
+}

@@ -1,0 +1,25 @@
+{
+  "bank": "FED",
+  "date": "2025-07-30",
+  "score": 42,
+  "stance": "neutral",
+  "hawkish_phrases": [
+    "inflation remained somewhat elevated",
+    "A majority of participants judged the upside risk to inflation as the greater of these two risks",
+    "if this year's higher tariffs were to generate a larger-than-expected or a more-persistent-than-anticipated increase in inflation... it would be appropriate to maintain a more restrictive stance of monetary policy",
+    "Several participants emphasized that inflation had exceeded 2 percent for an extended period and that this experience increased the risk of longer-term inflation expectations becoming unanchored",
+    "Participants generally expected inflation to increase in the near term"
+  ],
+  "dovish_phrases": [
+    "A couple of participants preferred to lower the target range for the federal funds rate by 25 basis points at this meeting",
+    "excluding tariff effects, inflation was running close to the Committee's 2 percent objective",
+    "downside risk to employment had meaningfully increased with the slowing of the growth of economic activity",
+    "Several participants noted that their contacts and business survey respondents had reported being reluctant to hire or fire amid elevated uncertainty",
+    "if labor market conditions were to weaken materially or if inflation were to come down further... it would be appropriate to establish a less restrictive stance of monetary policy"
+  ],
+  "summary": "The Committee voted to hold the federal funds rate at 4-1/4 to 4-1/2 percent with two dissents preferring a 25bp cut (Bowman and Waller), citing elevated but tariff-influenced inflation and balanced risks with majority viewing upside inflation risk as greater concern.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T16:09:14",
+  "source_file": "FED_2025-07-30.txt",
+  "char_count": 47564
+}

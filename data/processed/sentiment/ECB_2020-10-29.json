@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2020-10-29",
+  "score": 28,
+  "stance": "dovish",
+  "hawkish_phrases": [
+    "credit standards on loans to firms had tightened in the third quarter of 2020",
+    "banks expected a considerable net tightening of credit standards also in the fourth quarter of 2020",
+    "concerns were expressed about possible non-linearities, side effects and 'diminishing returns'",
+    "monetary policy could create the temptation for governments to enter into commitments that were difficult to undo",
+    "heightened uncertainty could pose renewed risks to the transmission of monetary policy through the banking sector"
+  ],
+  "dovish_phrases": [
+    "euro area economic recovery was losing momentum more rapidly than expected",
+    "risks surrounding the euro area growth outlook were clearly tilted to the downside",
+    "headline inflation was likely to remain negative until early 2021",
+    "the Governing Council would recalibrate its instruments, as appropriate, to ensure that financing conditions remained favourable",
+    "HICP inflation excluding energy and food had fallen to a new low of 0.2% in September"
+  ],
+  "summary": "The Governing Council held all policy rates and asset purchase programmes unchanged (unanimous decision, no dissent recorded), but explicitly signalled that it would recalibrate instruments in December due to clear downside risks, loss of recovery momentum, and inflation expected to remain negative into early 2021.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-17T20:54:35",
+  "source_file": "ECB_2020-10-29.txt",
+  "char_count": 46558
+}

@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2022-02-03",
+  "score": 58,
+  "stance": "neutral",
+  "hawkish_phrases": [
+    "inflation had continued to be higher than projected and had increased both in December and in January, when it had reached 5.1%",
+    "risks to the inflation outlook were tilted to the upside, particularly in the near term",
+    "the longer the period of elevated inflation lasted, the higher the risk of material second-round effects would become",
+    "Some members argued that the likelihood that inflation would settle at around 2% over the medium term had already increased significantly",
+    "the main risk was no longer of tightening monetary policy too early but too late"
+  ],
+  "dovish_phrases": [
+    "monetary support was still needed for the economy to advance further and for inflation to stabilise durably at the 2% target",
+    "there were no incipient signs of sustained domestically generated inflation",
+    "there were no signs of an upside unanchoring of inflation expectations in the euro area",
+    "the Governing Council should avoid an overreaction to inflation developments that were assessed as being short-lived",
+    "inflation was expected to decline in the course of the year"
+  ],
+  "summary": "The Governing Council held rates unchanged with unanimous agreement to maintain the December decisions (PEPP net purchases ending in March, gradual APP reduction), but adjusted communication to acknowledge inflation remaining elevated longer than expected, increased optionality, and upside risks, while emphasizing the need to await March staff projections before judging whether forward guidance criteria are met.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-17T20:58:20",
+  "source_file": "ECB_2022-02-03.txt",
+  "char_count": 64536
+}

@@ -1,0 +1,25 @@
+{
+  "bank": "FED",
+  "date": "2024-06-12",
+  "score": 62,
+  "stance": "hawkish",
+  "hawkish_phrases": [
+    "did not expect that it would be appropriate to reduce the target range until they have gained greater confidence that inflation is moving sustainably toward 2 percent",
+    "Several participants observed that, were inflation to persist at an elevated level or to increase further, the target range for the federal funds rate might need to be raised",
+    "remained highly attentive to inflation risks",
+    "Risks to the inflation forecast were seen as tilted to the upside",
+    "inflation remained elevated"
+  ],
+  "dovish_phrases": [
+    "there has been modest further progress toward the Committee's 2 percent inflation objective",
+    "the risks to achieving the Committee's employment and inflation goals have moved toward better balance",
+    "A number of participants remarked that monetary policy should stand ready to respond to unexpected economic weakness",
+    "lower- and moderate-income households were encountering increasing strains",
+    "some risk that further cooling in labor market conditions could be associated with an increased pace of layoffs"
+  ],
+  "summary": "The Committee unanimously held rates at 5.25-5.50 percent while acknowledging modest further progress on inflation but emphasizing they will not cut until gaining greater confidence inflation is moving sustainably toward 2 percent, with several participants noting rates might need to be raised if inflation persists.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T16:05:51",
+  "source_file": "FED_2024-06-12.txt",
+  "char_count": 43985
+}

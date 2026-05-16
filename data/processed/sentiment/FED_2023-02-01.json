@@ -1,0 +1,25 @@
+{
+  "bank": "FED",
+  "date": "2023-02-01",
+  "score": 73,
+  "stance": "hawkish",
+  "hawkish_phrases": [
+    "ongoing increases in the target range will be appropriate in order to attain a stance of monetary policy that is sufficiently restrictive",
+    "inflation remained well above the Committee's longer-run goal of 2 percent and the labor market remained very tight",
+    "a restrictive policy stance would need to be maintained until the incoming data provided confidence that inflation was on a sustained downward path to 2 percent",
+    "upside risks to the inflation outlook remained a key factor shaping the policy outlook",
+    "a policy stance that proved to be insufficiently restrictive could halt recent progress in moderating inflationary pressures"
+  ],
+  "dovish_phrases": [
+    "slowing the pace of rate increases at the current juncture would allow for appropriate risk management",
+    "inflation data received over the past three months showed a welcome reduction in the monthly pace of price increases",
+    "a further slowing in the pace of rate increases would better allow them to assess the economy's progress",
+    "several participants observed that some measures of financial conditions had eased over the past few months",
+    "Several of those participants observed that risks to the economic outlook were becoming more balanced"
+  ],
+  "summary": "The Committee unanimously voted to raise the target range 25 basis points to 4-1/2 to 4-3/4 percent, slowing from previous 50bp and 75bp hikes, with explicit forward guidance that ongoing increases will be appropriate to achieve a sufficiently restrictive stance and maintain it until inflation is on a sustained path to 2 percent.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T16:02:09",
+  "source_file": "FED_2023-02-01.txt",
+  "char_count": 58389
+}

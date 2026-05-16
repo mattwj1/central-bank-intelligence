@@ -1,0 +1,25 @@
+{
+  "bank": "FED",
+  "date": "2022-05-04",
+  "score": 82,
+  "stance": "extremely hawkish",
+  "hawkish_phrases": [
+    "decided to raise the target range for the federal funds rate to 3/4 to 1 percent and anticipated that ongoing increases in the target range would be appropriate",
+    "Most participants judged that 50 basis point increases in the target range would likely be appropriate at the next couple of meetings",
+    "the Committee should expeditiously move the stance of monetary policy toward a neutral posture",
+    "a restrictive stance of policy may well become appropriate depending on the evolving economic outlook",
+    "The Committee is highly attentive to inflation risks"
+  ],
+  "dovish_phrases": [
+    "downside risks to the outlook, including risks associated with the Russian invasion and COVID-related lockdowns in China",
+    "a moderation in labor demand might serve to reduce vacancies and wage pressures without having significant effects on the unemployment rate",
+    "expects inflation to return to its 2 percent objective and the labor market to remain strong",
+    "some participants emphasized that recent monthly data might suggest that overall price pressures may no longer be worsening",
+    "with appropriate firming in the stance of monetary policy, they expected inflation to return to the Committee's 2 percent objective"
+  ],
+  "summary": "The Committee unanimously raised the target range by 50 basis points to 3/4 to 1 percent, announced balance sheet runoff beginning June 1, and signaled that further 50 basis point increases would likely be appropriate at the next couple of meetings while emphasizing high attentiveness to inflation risks and the need to expeditiously move toward a neutral or potentially restrictive stance.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:59:47",
+  "source_file": "FED_2022-05-04.txt",
+  "char_count": 52484
+}

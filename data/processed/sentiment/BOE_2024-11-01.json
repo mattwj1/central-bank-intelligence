@@ -1,0 +1,25 @@
+{
+  "bank": "BOE",
+  "date": "2024-11-01",
+  "score": 38,
+  "stance": "dovish",
+  "hawkish_phrases": [
+    "Monetary policy will need to continue to remain restrictive for sufficiently long",
+    "remaining domestic inflationary pressures are resolving more slowly",
+    "Services consumer price inflation has declined to 4.9%",
+    "Annual private sector regular average weekly earnings growth...remained elevated at 4.8%",
+    "The Budget is provisionally expected to boost CPI inflation by just under \u00bd of a percentage point at the peak"
+  ],
+  "dovish_phrases": [
+    "There has been continued progress in disinflation",
+    "CPI inflation fell to 1.7% in September",
+    "The MPC judges that the labour market continues to loosen",
+    "Based on the evolving evidence, a gradual approach to removing policy restraint remains appropriate",
+    "most of the remaining persistence in inflation may dissipate quickly as pay and price-setting dynamics continue to normalise"
+  ],
+  "summary": "The MPC voted 8-1 to cut Bank Rate by 25bp to 4.75%, with continued disinflation progress noted but one hawkish dissenter citing structural wage and price pressures, and guidance emphasizing that policy must remain restrictive for sufficiently long.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:36:36",
+  "source_file": "BOE_2024-11-01.txt",
+  "char_count": 16420
+}

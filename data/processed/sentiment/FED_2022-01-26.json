@@ -1,0 +1,25 @@
+{
+  "bank": "FED",
+  "date": "2022-01-26",
+  "score": 78,
+  "stance": "hawkish",
+  "hawkish_phrases": [
+    "inflation continued to run well above 2 percent and generally judged the risks to the outlook for inflation as tilted to the upside",
+    "most participants suggested that a faster pace of increases in the target range for the federal funds rate than in the post-2015 period would likely be warranted",
+    "labor market conditions as already at or very close to those consistent with maximum employment",
+    "if inflation does not move down as they expect, it would be appropriate for the Committee to remove policy accommodation at a faster pace than they currently anticipate",
+    "conditions would likely warrant beginning to reduce the size of the balance sheet sometime later this year"
+  ],
+  "dovish_phrases": [
+    "keep the target range for the federal funds rate at 0 to 1/4 percent",
+    "Progress on vaccinations and an easing of supply constraints were expected to support continued gains in economic activity",
+    "the Omicron wave of the pandemic would weigh on economic activity in the first quarter of 2022",
+    "longer-term measures of inflation expectations appeared to remain well anchored",
+    "maintaining flexibility to implement appropriate policy adjustments on the basis of risk-management considerations"
+  ],
+  "summary": "The Committee unanimously held rates at 0-0.25% but signaled that rate increases would soon be appropriate and balance sheet reduction would begin later in 2022, with most participants favoring a faster pace of tightening than in 2015 given elevated inflation well above 2% and a labor market viewed as at or near maximum employment.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:58:42",
+  "source_file": "FED_2022-01-26.txt",
+  "char_count": 89887
+}

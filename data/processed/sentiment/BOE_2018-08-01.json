@@ -1,0 +1,23 @@
+{
+  "bank": "BOE",
+  "date": "2018-08-01",
+  "score": 78,
+  "stance": "hawkish",
+  "hawkish_phrases": [
+    "voted unanimously to increase Bank Rate by 0.25 percentage points, to 0.75%",
+    "a small margin of excess demand emerges by late 2019 and builds thereafter",
+    "an ongoing tightening of monetary policy over the forecast period would be appropriate",
+    "unit labour cost growth has firmed",
+    "higher growth in domestic costs than has been seen over recent years"
+  ],
+  "dovish_phrases": [
+    "Any future increases in Bank Rate are likely to be at a gradual pace and to a limited extent",
+    "consumption grows in line with the subdued pace of real incomes",
+    "the projected pace of GDP growth over the forecast is slightly faster than the diminished rate of supply growth"
+  ],
+  "summary": "The MPC voted unanimously 9-0 to raise Bank Rate by 25bp to 0.75%, with explicit guidance that ongoing tightening over the forecast period would be appropriate to return inflation sustainably to target, though future increases would be gradual and limited.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:27:00",
+  "source_file": "BOE_2018-08-01.txt",
+  "char_count": 4277
+}

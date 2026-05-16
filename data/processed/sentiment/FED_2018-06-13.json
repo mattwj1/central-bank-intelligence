@@ -1,0 +1,25 @@
+{
+  "bank": "FED",
+  "date": "2018-06-13",
+  "score": 74,
+  "stance": "hawkish",
+  "hawkish_phrases": [
+    "further gradual increases in the target range for the federal funds rate will be consistent with sustained expansion",
+    "the federal funds rate could be at or above their estimates of its neutral level sometime next year",
+    "it might soon be appropriate to modify the language in the postmeeting statement indicating that 'the stance of monetary policy remains accommodative'",
+    "a prolonged period in which the economy operated beyond potential could give rise to heightened inflationary pressures",
+    "with the economy already very strong and inflation expected to run at 2 percent on a sustained basis over the medium term"
+  ],
+  "dovish_phrases": [
+    "a few participants saw survey- or market-based indicators as suggesting that inflation expectations were not yet firmly anchored",
+    "a few participants noted that a temporary period of inflation modestly above 2 percent could be helpful in anchoring longer-run inflation expectations",
+    "the stance of monetary policy remains accommodative",
+    "uncertainty surrounding the level of the federal funds rate in the longer run",
+    "measures of longer-run inflation expectations derived from financial market data remained somewhat below levels consistent with the Committee's 2 percent objective"
+  ],
+  "summary": "The FOMC unanimously raised the target range for the federal funds rate by 25 basis points to 1.75-2.00 percent, removed forward guidance about rates remaining below longer-run levels, and signaled continued gradual increases with expectations that rates could reach neutral by 2019, displaying a clear tightening bias despite maintaining that policy remains accommodative.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:46:02",
+  "source_file": "FED_2018-06-13.txt",
+  "char_count": 47385
+}

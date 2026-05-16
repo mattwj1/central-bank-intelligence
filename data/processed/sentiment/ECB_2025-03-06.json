@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2025-03-06",
+  "score": 38,
+  "stance": "dovish",
+  "hawkish_phrases": [
+    "inflation was no longer foreseen to return to the 2% target in 2025 in the latest staff projections and the date had now been pushed out to the first quarter of 2026",
+    "services inflation had declined in February, its momentum had yet to show conclusive signs of a stable downward trend",
+    "a significant expansion of fiscal policy linked to defence and other spending would increase price pressures. This had the potential to derail the disinflation process",
+    "One member abstained, as the proposed communication did not drop any reference to the current monetary policy stance being restrictive",
+    "firms had also learned to raise their prices more quickly in response to new inflationary shocks"
+  ],
+  "dovish_phrases": [
+    "disinflation process remained well on track",
+    "most measures of underlying inflation suggested that inflation would settle at around the 2% medium-term target on a sustained basis",
+    "holding at 2.75% could weaken the required recovery in consumption and investment and thereby risk undershooting the inflation target in the medium term",
+    "the likely shocks on the horizon, including from escalating trade tensions, and uncertainty more generally, risked significantly weighing on growth",
+    "monetary policy is becoming meaningfully less restrictive"
+  ],
+  "summary": "The ECB cut rates by 25 basis points with one abstention, changed language from 'policy remains restrictive' to 'policy is becoming meaningfully less restrictive', expressing confidence that disinflation is on track but acknowledging heightened uncertainty and some hawkish concerns about delayed target achievement and fiscal risks.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-17T21:09:55",
+  "source_file": "ECB_2025-03-06.txt",
+  "char_count": 69461
+}

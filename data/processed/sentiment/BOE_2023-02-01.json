@@ -1,0 +1,25 @@
+{
+  "bank": "BOE",
+  "date": "2023-02-01",
+  "score": 78,
+  "stance": "hawkish",
+  "hawkish_phrases": [
+    "domestic price and wage pressures have been stronger than expected, suggesting risks of greater persistence in underlying inflation",
+    "If there were to be evidence of more persistent pressures, then further tightening in monetary policy would be required",
+    "the Committee continued to judge that the risks to inflation were skewed significantly to the upside",
+    "services inflation had surprised to the upside, rising to a 30-year high of 6.8%",
+    "Annual private sector regular Average Weekly Earnings growth had risen to a little over 7% in the three months to November, 0.7 percentage points above the November Report projection"
+  ],
+  "dovish_phrases": [
+    "The real economy remained weak, as a result of falling real incomes and the tightening in financial conditions over the past year",
+    "the lags in the effects of monetary policy meant that sizeable impacts from past rate increases were still to come through",
+    "current setting of Bank Rate would be likely to reduce inflation to well below target in the medium term",
+    "Wholesale gas prices have fallen recently and global supply chain disruption appears to have eased",
+    "There were continuing signs that the downturn was affecting the labour market, especially in more forward-looking indicators"
+  ],
+  "summary": "The MPC voted 7-2 to increase Bank Rate by 0.5 percentage points to 4%, with strong emphasis on persistent domestic wage and price pressures despite two members preferring to hold at 3.5%, and explicit forward guidance that further tightening would be required if pressures persist.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:33:26",
+  "source_file": "BOE_2023-02-01.txt",
+  "char_count": 32624
+}

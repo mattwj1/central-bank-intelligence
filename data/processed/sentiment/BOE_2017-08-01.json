@@ -1,0 +1,25 @@
+{
+  "bank": "BOE",
+  "date": "2017-08-01",
+  "score": 68,
+  "stance": "hawkish",
+  "hawkish_phrases": [
+    "some tightening of monetary policy would be required to achieve a sustainable return of inflation to the target",
+    "monetary policy could need to be tightened by a somewhat greater extent over the forecast period than the path implied by the yield curve",
+    "Two members considered it appropriate to increase Bank Rate by 25 basis points",
+    "inflation is projected to remain above the MPC's target throughout the forecast period",
+    "CPI inflation rose to 2.6% in June...expects inflation to rise further in coming months and to peak around 3% in October"
+  ],
+  "dovish_phrases": [
+    "GDP growth remains sluggish in the near term as the squeeze on households' real incomes continues to weigh on consumption",
+    "Attempting to offset fully the effect of weaker sterling on inflation would be achievable only at the cost of higher unemployment",
+    "any increases in Bank Rate would be expected to be at a gradual pace and to a limited extent",
+    "six members thought that the current policy stance remained appropriate",
+    "the economy operates with a small degree of spare capacity"
+  ],
+  "summary": "The MPC voted 6-2 to hold Bank Rate at 0.25%, with two members dissenting in favor of a 25bp hike, while the Committee signaled that some tightening would be required and monetary policy could need to be tightened by a somewhat greater extent than market pricing.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:26:04",
+  "source_file": "BOE_2017-08-01.txt",
+  "char_count": 6452
+}

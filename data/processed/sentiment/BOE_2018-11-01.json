@@ -1,0 +1,25 @@
+{
+  "bank": "BOE",
+  "date": "2018-11-01",
+  "score": 68,
+  "stance": "hawkish",
+  "hawkish_phrases": [
+    "an ongoing tightening of monetary policy over the forecast period would be appropriate",
+    "A margin of excess demand is therefore expected to build",
+    "Regular pay growth has been stronger than expected, rising to over 3%",
+    "CPI inflation is projected to remain above the target for most of the forecast period",
+    "aggregate supply and demand are now broadly in balance"
+  ],
+  "dovish_phrases": [
+    "Any future increases in Bank Rate are likely to be at a gradual pace and to a limited extent",
+    "downside risks have risen",
+    "business investment has been more subdued than previously anticipated",
+    "Global financial conditions have tightened",
+    "the monetary policy response to Brexit...could be in either direction"
+  ],
+  "summary": "The MPC voted unanimously to hold Bank Rate at 0.75%, judging the current stance appropriate but signaling that ongoing tightening over the forecast period would be appropriate to return inflation sustainably to target, with excess demand expected to build despite Brexit uncertainty.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:27:15",
+  "source_file": "BOE_2018-11-01.txt",
+  "char_count": 5022
+}

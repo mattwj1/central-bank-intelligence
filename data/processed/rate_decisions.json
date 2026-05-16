@@ -1,0 +1,1759 @@
+{
+  "last_updated": "2026-04-18T14:44:20",
+  "sources": {
+    "BOE": "Hardcoded lookup (bankofengland.co.uk)",
+    "FED": "Hardcoded lookup (federalreserve.gov)",
+    "ECB": "Hardcoded lookup (ecb.europa.eu/stats)"
+  },
+  "banks": {
+    "BOE": [
+      {
+        "date": "2017-02-01",
+        "score": 58,
+        "rate_before": 0.25,
+        "rate_after": 0.25,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2017-03-01",
+        "score": 68,
+        "rate_before": 0.25,
+        "rate_after": 0.25,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2017-05-01",
+        "score": 68,
+        "rate_before": 0.25,
+        "rate_after": 0.25,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2017-06-01",
+        "score": 62,
+        "rate_before": 0.25,
+        "rate_after": 0.25,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2017-08-01",
+        "score": 68,
+        "rate_before": 0.25,
+        "rate_after": 0.25,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2017-09-01",
+        "score": 68,
+        "rate_before": 0.25,
+        "rate_after": 0.25,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2017-11-01",
+        "score": 73,
+        "rate_before": 0.25,
+        "rate_after": 0.5,
+        "change_bps": 25.0
+      },
+      {
+        "date": "2017-12-01",
+        "score": 68,
+        "rate_before": 0.5,
+        "rate_after": 0.5,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2018-02-01",
+        "score": 73,
+        "rate_before": 0.5,
+        "rate_after": 0.5,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2018-03-01",
+        "score": 68,
+        "rate_before": 0.5,
+        "rate_after": 0.5,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2018-05-01",
+        "score": 68,
+        "rate_before": 0.5,
+        "rate_after": 0.5,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2018-06-01",
+        "score": 68,
+        "rate_before": 0.5,
+        "rate_after": 0.5,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2018-08-01",
+        "score": 78,
+        "rate_before": 0.5,
+        "rate_after": 0.75,
+        "change_bps": 25.0
+      },
+      {
+        "date": "2018-09-01",
+        "score": 68,
+        "rate_before": 0.75,
+        "rate_after": 0.75,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2018-11-01",
+        "score": 68,
+        "rate_before": 0.75,
+        "rate_after": 0.75,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2018-12-01",
+        "score": 58,
+        "rate_before": 0.75,
+        "rate_after": 0.75,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2019-02-01",
+        "score": 58,
+        "rate_before": 0.75,
+        "rate_after": 0.75,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2019-03-01",
+        "score": 58,
+        "rate_before": 0.75,
+        "rate_after": 0.75,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2019-05-01",
+        "score": 58,
+        "rate_before": 0.75,
+        "rate_after": 0.75,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2019-06-01",
+        "score": 58,
+        "rate_before": 0.75,
+        "rate_after": 0.75,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2019-08-01",
+        "score": 58,
+        "rate_before": 0.75,
+        "rate_after": 0.75,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2019-09-01",
+        "score": 48,
+        "rate_before": 0.75,
+        "rate_after": 0.75,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2019-11-01",
+        "score": 58,
+        "rate_before": 0.75,
+        "rate_after": 0.75,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2019-12-01",
+        "score": 42,
+        "rate_before": 0.75,
+        "rate_after": 0.75,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2020-01-01",
+        "score": 42,
+        "rate_before": 0.75,
+        "rate_after": 0.75,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2020-03-01",
+        "score": 8,
+        "rate_before": 0.75,
+        "rate_after": 0.75,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2020-05-01",
+        "score": 12,
+        "rate_before": 0.1,
+        "rate_after": 0.1,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2020-06-01",
+        "score": 18,
+        "rate_before": 0.1,
+        "rate_after": 0.1,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2020-08-01",
+        "score": 22,
+        "rate_before": 0.1,
+        "rate_after": 0.1,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2020-09-01",
+        "score": 22,
+        "rate_before": 0.1,
+        "rate_after": 0.1,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2020-11-01",
+        "score": 18,
+        "rate_before": 0.1,
+        "rate_after": 0.1,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2020-12-01",
+        "score": 28,
+        "rate_before": 0.1,
+        "rate_after": 0.1,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2021-02-01",
+        "score": 28,
+        "rate_before": 0.1,
+        "rate_after": 0.1,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2021-03-01",
+        "score": 28,
+        "rate_before": 0.1,
+        "rate_after": 0.1,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2021-05-01",
+        "score": 22,
+        "rate_before": 0.1,
+        "rate_after": 0.1,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2021-06-01",
+        "score": 42,
+        "rate_before": 0.1,
+        "rate_after": 0.1,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2021-08-01",
+        "score": 63,
+        "rate_before": 0.1,
+        "rate_after": 0.1,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2021-09-01",
+        "score": 62,
+        "rate_before": 0.1,
+        "rate_after": 0.1,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2021-11-01",
+        "score": 62,
+        "rate_before": 0.1,
+        "rate_after": 0.1,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2021-12-01",
+        "score": 73,
+        "rate_before": 0.1,
+        "rate_after": 0.1,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2022-02-01",
+        "score": 78,
+        "rate_before": 0.25,
+        "rate_after": 0.5,
+        "change_bps": 25.0
+      },
+      {
+        "date": "2022-03-01",
+        "score": 73,
+        "rate_before": 0.5,
+        "rate_after": 0.5,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2022-05-01",
+        "score": 73,
+        "rate_before": 0.75,
+        "rate_after": 1.0,
+        "change_bps": 25.0
+      },
+      {
+        "date": "2022-06-01",
+        "score": 78,
+        "rate_before": 1.0,
+        "rate_after": 1.0,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2022-08-01",
+        "score": 78,
+        "rate_before": 1.25,
+        "rate_after": 1.75,
+        "change_bps": 50.0
+      },
+      {
+        "date": "2022-09-01",
+        "score": 78,
+        "rate_before": 1.75,
+        "rate_after": 1.75,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2022-11-01",
+        "score": 78,
+        "rate_before": 2.25,
+        "rate_after": 3.0,
+        "change_bps": 75.0
+      },
+      {
+        "date": "2022-12-01",
+        "score": 73,
+        "rate_before": 3.0,
+        "rate_after": 3.0,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2023-02-01",
+        "score": 78,
+        "rate_before": 3.5,
+        "rate_after": 4.0,
+        "change_bps": 50.0
+      },
+      {
+        "date": "2023-03-01",
+        "score": 73,
+        "rate_before": 4.0,
+        "rate_after": 4.0,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2023-05-01",
+        "score": 73,
+        "rate_before": 4.25,
+        "rate_after": 4.25,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2023-06-01",
+        "score": 78,
+        "rate_before": 4.5,
+        "rate_after": 4.5,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2023-08-01",
+        "score": 78,
+        "rate_before": 5.0,
+        "rate_after": 5.25,
+        "change_bps": 25.0
+      },
+      {
+        "date": "2023-09-01",
+        "score": 58,
+        "rate_before": 5.25,
+        "rate_after": 5.25,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2023-11-01",
+        "score": 68,
+        "rate_before": 5.25,
+        "rate_after": 5.25,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2023-12-01",
+        "score": 68,
+        "rate_before": 5.25,
+        "rate_after": 5.25,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2024-02-01",
+        "score": 58,
+        "rate_before": 5.25,
+        "rate_after": 5.25,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2024-03-01",
+        "score": 68,
+        "rate_before": 5.25,
+        "rate_after": 5.25,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2024-05-01",
+        "score": 62,
+        "rate_before": 5.25,
+        "rate_after": 5.25,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2024-06-01",
+        "score": 62,
+        "rate_before": 5.25,
+        "rate_after": 5.25,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2024-08-01",
+        "score": 38,
+        "rate_before": 5.25,
+        "rate_after": 5.0,
+        "change_bps": -25.0
+      },
+      {
+        "date": "2024-09-01",
+        "score": 62,
+        "rate_before": 5.0,
+        "rate_after": 5.0,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2024-11-01",
+        "score": 38,
+        "rate_before": 5.0,
+        "rate_after": 5.0,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2024-12-01",
+        "score": 58,
+        "rate_before": 4.75,
+        "rate_after": 4.75,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2025-02-01",
+        "score": 38,
+        "rate_before": 4.75,
+        "rate_after": 4.5,
+        "change_bps": -25.0
+      },
+      {
+        "date": "2025-03-01",
+        "score": 62,
+        "rate_before": 4.5,
+        "rate_after": 4.5,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2025-05-01",
+        "score": 38,
+        "rate_before": 4.5,
+        "rate_after": 4.5,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2025-06-01",
+        "score": 58,
+        "rate_before": 4.25,
+        "rate_after": 4.25,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2025-08-01",
+        "score": 38,
+        "rate_before": 4.25,
+        "rate_after": 4.0,
+        "change_bps": -25.0
+      },
+      {
+        "date": "2025-09-01",
+        "score": 68,
+        "rate_before": 4.0,
+        "rate_after": 4.0,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2025-11-01",
+        "score": 42,
+        "rate_before": 4.0,
+        "rate_after": 4.0,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2025-12-01",
+        "score": 38,
+        "rate_before": 4.0,
+        "rate_after": 3.75,
+        "change_bps": -25.0
+      },
+      {
+        "date": "2026-02-01",
+        "score": 38,
+        "rate_before": 3.75,
+        "rate_after": 3.75,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2026-03-01",
+        "score": 62,
+        "rate_before": 3.75,
+        "rate_after": 3.75,
+        "change_bps": 0.0
+      }
+    ],
+    "FED": [
+      {
+        "date": "2016-01-27",
+        "score": 42,
+        "rate_before": 0.5,
+        "rate_after": 0.5,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2016-03-16",
+        "score": 42,
+        "rate_before": 0.5,
+        "rate_after": 0.5,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2016-04-27",
+        "score": 42,
+        "rate_before": 0.5,
+        "rate_after": 0.5,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2016-06-15",
+        "score": 42,
+        "rate_before": 0.5,
+        "rate_after": 0.5,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2016-07-27",
+        "score": 42,
+        "rate_before": 0.5,
+        "rate_after": 0.5,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2016-09-21",
+        "score": 58,
+        "rate_before": 0.5,
+        "rate_after": 0.5,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2016-11-02",
+        "score": 62,
+        "rate_before": 0.5,
+        "rate_after": 0.5,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2016-12-14",
+        "score": 72,
+        "rate_before": 0.5,
+        "rate_after": 0.75,
+        "change_bps": 25.0
+      },
+      {
+        "date": "2017-02-01",
+        "score": 58,
+        "rate_before": 0.75,
+        "rate_after": 0.75,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2017-03-15",
+        "score": 73,
+        "rate_before": 0.75,
+        "rate_after": 1.0,
+        "change_bps": 25.0
+      },
+      {
+        "date": "2017-05-03",
+        "score": 62,
+        "rate_before": 1.0,
+        "rate_after": 1.0,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2017-06-14",
+        "score": 73,
+        "rate_before": 1.0,
+        "rate_after": 1.25,
+        "change_bps": 25.0
+      },
+      {
+        "date": "2017-07-26",
+        "score": 58,
+        "rate_before": 1.25,
+        "rate_after": 1.25,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2017-09-20",
+        "score": 58,
+        "rate_before": 1.25,
+        "rate_after": 1.25,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2017-11-01",
+        "score": 42,
+        "rate_before": 1.25,
+        "rate_after": 1.25,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2017-12-13",
+        "score": 72,
+        "rate_before": 1.25,
+        "rate_after": 1.5,
+        "change_bps": 25.0
+      },
+      {
+        "date": "2018-01-31",
+        "score": 68,
+        "rate_before": 1.5,
+        "rate_after": 1.5,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2018-03-21",
+        "score": 73,
+        "rate_before": 1.5,
+        "rate_after": 1.75,
+        "change_bps": 25.0
+      },
+      {
+        "date": "2018-05-02",
+        "score": 68,
+        "rate_before": 1.75,
+        "rate_after": 1.75,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2018-06-13",
+        "score": 74,
+        "rate_before": 1.75,
+        "rate_after": 2.0,
+        "change_bps": 25.0
+      },
+      {
+        "date": "2018-08-01",
+        "score": 68,
+        "rate_before": 2.0,
+        "rate_after": 2.0,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2018-09-26",
+        "score": 78,
+        "rate_before": 2.0,
+        "rate_after": 2.25,
+        "change_bps": 25.0
+      },
+      {
+        "date": "2018-11-08",
+        "score": 73,
+        "rate_before": 2.25,
+        "rate_after": 2.25,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2018-12-19",
+        "score": 68,
+        "rate_before": 2.25,
+        "rate_after": 2.5,
+        "change_bps": 25.0
+      },
+      {
+        "date": "2019-01-30",
+        "score": 38,
+        "rate_before": 2.5,
+        "rate_after": 2.5,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2019-03-20",
+        "score": 42,
+        "rate_before": 2.5,
+        "rate_after": 2.5,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2019-05-01",
+        "score": 42,
+        "rate_before": 2.5,
+        "rate_after": 2.5,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2019-06-19",
+        "score": 38,
+        "rate_before": 2.5,
+        "rate_after": 2.5,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2019-07-31",
+        "score": 32,
+        "rate_before": 2.5,
+        "rate_after": 2.25,
+        "change_bps": -25.0
+      },
+      {
+        "date": "2019-09-18",
+        "score": 38,
+        "rate_before": 2.25,
+        "rate_after": 2.0,
+        "change_bps": -25.0
+      },
+      {
+        "date": "2019-10-30",
+        "score": 32,
+        "rate_before": 2.0,
+        "rate_after": 1.75,
+        "change_bps": -25.0
+      },
+      {
+        "date": "2019-12-11",
+        "score": 58,
+        "rate_before": 1.75,
+        "rate_after": 1.75,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2020-01-29",
+        "score": 52,
+        "rate_before": 1.75,
+        "rate_after": 1.75,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2020-03-15",
+        "score": 8,
+        "rate_before": 1.25,
+        "rate_after": 0.25,
+        "change_bps": -100.0
+      },
+      {
+        "date": "2020-04-29",
+        "score": 8,
+        "rate_before": 0.25,
+        "rate_after": 0.25,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2020-06-10",
+        "score": 12,
+        "rate_before": 0.25,
+        "rate_after": 0.25,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2020-07-29",
+        "score": 22,
+        "rate_before": 0.25,
+        "rate_after": 0.25,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2020-09-16",
+        "score": 28,
+        "rate_before": 0.25,
+        "rate_after": 0.25,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2020-11-05",
+        "score": 28,
+        "rate_before": 0.25,
+        "rate_after": 0.25,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2020-12-16",
+        "score": 18,
+        "rate_before": 0.25,
+        "rate_after": 0.25,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2021-01-27",
+        "score": 12,
+        "rate_before": 0.25,
+        "rate_after": 0.25,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2021-03-17",
+        "score": 32,
+        "rate_before": 0.25,
+        "rate_after": 0.25,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2021-04-28",
+        "score": 33,
+        "rate_before": 0.25,
+        "rate_after": 0.25,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2021-06-16",
+        "score": 62,
+        "rate_before": 0.25,
+        "rate_after": 0.25,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2021-07-28",
+        "score": 58,
+        "rate_before": 0.25,
+        "rate_after": 0.25,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2021-09-22",
+        "score": 42,
+        "rate_before": 0.25,
+        "rate_after": 0.25,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2021-11-03",
+        "score": 43,
+        "rate_before": 0.25,
+        "rate_after": 0.25,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2021-12-15",
+        "score": 73,
+        "rate_before": 0.25,
+        "rate_after": 0.25,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2022-01-26",
+        "score": 78,
+        "rate_before": 0.25,
+        "rate_after": 0.25,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2022-03-16",
+        "score": 78,
+        "rate_before": 0.25,
+        "rate_after": 0.5,
+        "change_bps": 25.0
+      },
+      {
+        "date": "2022-05-04",
+        "score": 82,
+        "rate_before": 0.5,
+        "rate_after": 1.0,
+        "change_bps": 50.0
+      },
+      {
+        "date": "2022-06-15",
+        "score": 82,
+        "rate_before": 1.0,
+        "rate_after": 1.75,
+        "change_bps": 75.0
+      },
+      {
+        "date": "2022-07-27",
+        "score": 78,
+        "rate_before": 1.75,
+        "rate_after": 2.5,
+        "change_bps": 75.0
+      },
+      {
+        "date": "2022-09-21",
+        "score": 82,
+        "rate_before": 2.5,
+        "rate_after": 3.25,
+        "change_bps": 75.0
+      },
+      {
+        "date": "2022-11-02",
+        "score": 78,
+        "rate_before": 3.25,
+        "rate_after": 4.0,
+        "change_bps": 75.0
+      },
+      {
+        "date": "2022-12-14",
+        "score": 74,
+        "rate_before": 4.0,
+        "rate_after": 4.5,
+        "change_bps": 50.0
+      },
+      {
+        "date": "2023-02-01",
+        "score": 73,
+        "rate_before": 4.5,
+        "rate_after": 4.75,
+        "change_bps": 25.0
+      },
+      {
+        "date": "2023-03-22",
+        "score": 68,
+        "rate_before": 4.75,
+        "rate_after": 5.0,
+        "change_bps": 25.0
+      },
+      {
+        "date": "2023-05-03",
+        "score": 72,
+        "rate_before": 5.0,
+        "rate_after": 5.25,
+        "change_bps": 25.0
+      },
+      {
+        "date": "2023-06-14",
+        "score": 68,
+        "rate_before": 5.25,
+        "rate_after": 5.25,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2023-07-26",
+        "score": 78,
+        "rate_before": 5.25,
+        "rate_after": 5.5,
+        "change_bps": 25.0
+      },
+      {
+        "date": "2023-09-20",
+        "score": 72,
+        "rate_before": 5.5,
+        "rate_after": 5.5,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2023-11-01",
+        "score": 68,
+        "rate_before": 5.5,
+        "rate_after": 5.5,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2023-12-13",
+        "score": 42,
+        "rate_before": 5.5,
+        "rate_after": 5.5,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2024-01-31",
+        "score": 58,
+        "rate_before": 5.5,
+        "rate_after": 5.5,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2024-03-20",
+        "score": 62,
+        "rate_before": 5.5,
+        "rate_after": 5.5,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2024-05-01",
+        "score": 68,
+        "rate_before": 5.5,
+        "rate_after": 5.5,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2024-06-12",
+        "score": 62,
+        "rate_before": 5.5,
+        "rate_after": 5.5,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2024-07-31",
+        "score": 42,
+        "rate_before": 5.5,
+        "rate_after": 5.5,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2024-09-18",
+        "score": 32,
+        "rate_before": 5.5,
+        "rate_after": 5.0,
+        "change_bps": -50.0
+      },
+      {
+        "date": "2024-11-07",
+        "score": 38,
+        "rate_before": 5.0,
+        "rate_after": 4.75,
+        "change_bps": -25.0
+      },
+      {
+        "date": "2024-12-18",
+        "score": 62,
+        "rate_before": 4.75,
+        "rate_after": 4.5,
+        "change_bps": -25.0
+      },
+      {
+        "date": "2025-01-29",
+        "score": 62,
+        "rate_before": 4.5,
+        "rate_after": 4.5,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2025-03-19",
+        "score": 62,
+        "rate_before": 4.5,
+        "rate_after": 4.5,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2025-05-07",
+        "score": 52,
+        "rate_before": 4.5,
+        "rate_after": 4.5,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2025-06-18",
+        "score": 58,
+        "rate_before": 4.5,
+        "rate_after": 4.5,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2025-07-30",
+        "score": 42,
+        "rate_before": 4.5,
+        "rate_after": 4.5,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2025-09-17",
+        "score": 38,
+        "rate_before": 4.5,
+        "rate_after": 4.5,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2025-10-29",
+        "score": 38,
+        "rate_before": 4.5,
+        "rate_after": 4.5,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2025-12-10",
+        "score": 38,
+        "rate_before": 4.5,
+        "rate_after": 4.5,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2026-01-28",
+        "score": 62,
+        "rate_before": 4.5,
+        "rate_after": 4.5,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2026-03-18",
+        "score": 58,
+        "rate_before": 4.5,
+        "rate_after": 4.5,
+        "change_bps": 0.0
+      }
+    ],
+    "ECB": [
+      {
+        "date": "2015-02-19",
+        "score": 28,
+        "rate_before": -0.2,
+        "rate_after": -0.2,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2015-04-02",
+        "score": 38,
+        "rate_before": -0.2,
+        "rate_after": -0.2,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2015-05-21",
+        "score": 28,
+        "rate_before": -0.2,
+        "rate_after": -0.2,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2015-07-02",
+        "score": 42,
+        "rate_before": -0.2,
+        "rate_after": -0.2,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2015-08-13",
+        "score": 42,
+        "rate_before": -0.2,
+        "rate_after": -0.2,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2015-10-08",
+        "score": 42,
+        "rate_before": -0.2,
+        "rate_after": -0.2,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2015-11-19",
+        "score": 38,
+        "rate_before": -0.2,
+        "rate_after": -0.2,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2016-01-14",
+        "score": 38,
+        "rate_before": -0.3,
+        "rate_after": -0.3,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2016-02-18",
+        "score": 38,
+        "rate_before": -0.3,
+        "rate_after": -0.3,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2016-04-07",
+        "score": 28,
+        "rate_before": -0.4,
+        "rate_after": -0.4,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2016-05-19",
+        "score": 42,
+        "rate_before": -0.4,
+        "rate_after": -0.4,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2016-07-07",
+        "score": 43,
+        "rate_before": -0.4,
+        "rate_after": -0.4,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2016-08-18",
+        "score": 42,
+        "rate_before": -0.4,
+        "rate_after": -0.4,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2016-10-06",
+        "score": 42,
+        "rate_before": -0.4,
+        "rate_after": -0.4,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2016-11-17",
+        "score": 42,
+        "rate_before": -0.4,
+        "rate_after": -0.4,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2017-01-12",
+        "score": 38,
+        "rate_before": -0.4,
+        "rate_after": -0.4,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2017-02-16",
+        "score": 38,
+        "rate_before": -0.4,
+        "rate_after": -0.4,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2017-04-06",
+        "score": 42,
+        "rate_before": -0.4,
+        "rate_after": -0.4,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2017-05-18",
+        "score": 42,
+        "rate_before": -0.4,
+        "rate_after": -0.4,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2017-07-06",
+        "score": 42,
+        "rate_before": -0.4,
+        "rate_after": -0.4,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2017-08-17",
+        "score": 42,
+        "rate_before": -0.4,
+        "rate_after": -0.4,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2017-10-05",
+        "score": 42,
+        "rate_before": -0.4,
+        "rate_after": -0.4,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2017-11-23",
+        "score": 38,
+        "rate_before": -0.4,
+        "rate_after": -0.4,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2018-01-11",
+        "score": 42,
+        "rate_before": -0.4,
+        "rate_after": -0.4,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2018-02-22",
+        "score": 42,
+        "rate_before": -0.4,
+        "rate_after": -0.4,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2018-04-12",
+        "score": 58,
+        "rate_before": -0.4,
+        "rate_after": -0.4,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2018-05-24",
+        "score": 42,
+        "rate_before": -0.4,
+        "rate_after": -0.4,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2018-07-12",
+        "score": 42,
+        "rate_before": -0.4,
+        "rate_after": -0.4,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2018-08-23",
+        "score": 42,
+        "rate_before": -0.4,
+        "rate_after": -0.4,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2018-10-11",
+        "score": 38,
+        "rate_before": -0.4,
+        "rate_after": -0.4,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2018-11-22",
+        "score": 62,
+        "rate_before": -0.4,
+        "rate_after": -0.4,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2019-01-10",
+        "score": 42,
+        "rate_before": -0.4,
+        "rate_after": -0.4,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2019-02-21",
+        "score": 38,
+        "rate_before": -0.4,
+        "rate_after": -0.4,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2019-04-11",
+        "score": 28,
+        "rate_before": -0.4,
+        "rate_after": -0.4,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2019-05-23",
+        "score": 38,
+        "rate_before": -0.4,
+        "rate_after": -0.4,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2019-07-11",
+        "score": 28,
+        "rate_before": -0.4,
+        "rate_after": -0.4,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2019-08-22",
+        "score": 28,
+        "rate_before": -0.4,
+        "rate_after": -0.4,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2019-10-10",
+        "score": 28,
+        "rate_before": -0.5,
+        "rate_after": -0.5,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2019-11-21",
+        "score": 32,
+        "rate_before": -0.5,
+        "rate_after": -0.5,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2020-01-16",
+        "score": 42,
+        "rate_before": -0.5,
+        "rate_after": -0.5,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2020-02-20",
+        "score": 42,
+        "rate_before": -0.5,
+        "rate_after": -0.5,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2020-03-12",
+        "score": 28,
+        "rate_before": -0.5,
+        "rate_after": -0.5,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2020-03-18",
+        "score": 8,
+        "rate_before": -0.5,
+        "rate_after": -0.5,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2020-04-30",
+        "score": 18,
+        "rate_before": -0.5,
+        "rate_after": -0.5,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2020-06-04",
+        "score": 28,
+        "rate_before": -0.5,
+        "rate_after": -0.5,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2020-07-16",
+        "score": 32,
+        "rate_before": -0.5,
+        "rate_after": -0.5,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2020-09-10",
+        "score": 38,
+        "rate_before": -0.5,
+        "rate_after": -0.5,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2020-10-29",
+        "score": 28,
+        "rate_before": -0.5,
+        "rate_after": -0.5,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2020-12-10",
+        "score": 28,
+        "rate_before": -0.5,
+        "rate_after": -0.5,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2021-01-21",
+        "score": 32,
+        "rate_before": -0.5,
+        "rate_after": -0.5,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2021-03-11",
+        "score": 32,
+        "rate_before": -0.5,
+        "rate_after": -0.5,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2021-04-22",
+        "score": 32,
+        "rate_before": -0.5,
+        "rate_after": -0.5,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2021-06-10",
+        "score": 38,
+        "rate_before": -0.5,
+        "rate_after": -0.5,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2021-07-07",
+        "score": 48,
+        "rate_before": -0.5,
+        "rate_after": -0.5,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2021-07-22",
+        "score": 28,
+        "rate_before": -0.5,
+        "rate_after": -0.5,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2021-09-09",
+        "score": 42,
+        "rate_before": -0.5,
+        "rate_after": -0.5,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2021-10-28",
+        "score": 42,
+        "rate_before": -0.5,
+        "rate_after": -0.5,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2021-12-16",
+        "score": 42,
+        "rate_before": -0.5,
+        "rate_after": -0.5,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2022-02-03",
+        "score": 58,
+        "rate_before": -0.5,
+        "rate_after": -0.5,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2022-03-10",
+        "score": 58,
+        "rate_before": -0.5,
+        "rate_after": -0.5,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2022-04-14",
+        "score": 68,
+        "rate_before": -0.5,
+        "rate_after": -0.5,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2022-06-09",
+        "score": 73,
+        "rate_before": -0.5,
+        "rate_after": -0.5,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2022-07-21",
+        "score": 78,
+        "rate_before": -0.5,
+        "rate_after": 0.0,
+        "change_bps": 50.0
+      },
+      {
+        "date": "2022-09-08",
+        "score": 78,
+        "rate_before": 0.0,
+        "rate_after": 0.75,
+        "change_bps": 75.0
+      },
+      {
+        "date": "2022-10-27",
+        "score": 78,
+        "rate_before": 0.75,
+        "rate_after": 1.5,
+        "change_bps": 75.0
+      },
+      {
+        "date": "2022-12-15",
+        "score": 78,
+        "rate_before": 1.5,
+        "rate_after": 2.0,
+        "change_bps": 50.0
+      },
+      {
+        "date": "2023-02-02",
+        "score": 78,
+        "rate_before": 2.0,
+        "rate_after": 2.5,
+        "change_bps": 50.0
+      },
+      {
+        "date": "2023-03-16",
+        "score": 68,
+        "rate_before": 2.5,
+        "rate_after": 3.0,
+        "change_bps": 50.0
+      },
+      {
+        "date": "2023-05-04",
+        "score": 68,
+        "rate_before": 3.0,
+        "rate_after": 3.25,
+        "change_bps": 25.0
+      },
+      {
+        "date": "2023-06-15",
+        "score": 73,
+        "rate_before": 3.25,
+        "rate_after": 3.5,
+        "change_bps": 25.0
+      },
+      {
+        "date": "2023-07-27",
+        "score": 73,
+        "rate_before": 3.5,
+        "rate_after": 3.75,
+        "change_bps": 25.0
+      },
+      {
+        "date": "2023-09-14",
+        "score": 73,
+        "rate_before": 3.75,
+        "rate_after": 4.0,
+        "change_bps": 25.0
+      },
+      {
+        "date": "2023-10-26",
+        "score": 62,
+        "rate_before": 4.0,
+        "rate_after": 4.0,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2023-12-14",
+        "score": 58,
+        "rate_before": 4.0,
+        "rate_after": 4.0,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2024-01-25",
+        "score": 58,
+        "rate_before": 4.0,
+        "rate_after": 4.0,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2024-03-07",
+        "score": 42,
+        "rate_before": 4.0,
+        "rate_after": 4.0,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2024-04-11",
+        "score": 42,
+        "rate_before": 4.0,
+        "rate_after": 4.0,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2024-06-06",
+        "score": 38,
+        "rate_before": 4.0,
+        "rate_after": 3.75,
+        "change_bps": -25.0
+      },
+      {
+        "date": "2024-07-18",
+        "score": 58,
+        "rate_before": 3.75,
+        "rate_after": 3.75,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2024-09-12",
+        "score": 38,
+        "rate_before": 3.75,
+        "rate_after": 3.5,
+        "change_bps": -25.0
+      },
+      {
+        "date": "2024-10-17",
+        "score": 32,
+        "rate_before": 3.5,
+        "rate_after": 3.25,
+        "change_bps": -25.0
+      },
+      {
+        "date": "2024-12-12",
+        "score": 32,
+        "rate_before": 3.25,
+        "rate_after": 3.0,
+        "change_bps": -25.0
+      },
+      {
+        "date": "2025-01-30",
+        "score": 38,
+        "rate_before": 3.0,
+        "rate_after": 2.75,
+        "change_bps": -25.0
+      },
+      {
+        "date": "2025-03-06",
+        "score": 38,
+        "rate_before": 2.75,
+        "rate_after": 2.5,
+        "change_bps": -25.0
+      },
+      {
+        "date": "2025-04-17",
+        "score": 28,
+        "rate_before": 2.5,
+        "rate_after": 2.25,
+        "change_bps": -25.0
+      },
+      {
+        "date": "2025-06-05",
+        "score": 28,
+        "rate_before": 2.25,
+        "rate_after": 2.0,
+        "change_bps": -25.0
+      },
+      {
+        "date": "2025-06-25",
+        "score": 50,
+        "rate_before": 2.0,
+        "rate_after": 2.0,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2025-07-24",
+        "score": 58,
+        "rate_before": 2.0,
+        "rate_after": 2.0,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2025-09-11",
+        "score": 58,
+        "rate_before": 2.0,
+        "rate_after": 2.0,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2025-10-30",
+        "score": 52,
+        "rate_before": 2.0,
+        "rate_after": 2.0,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2025-12-18",
+        "score": 58,
+        "rate_before": 2.0,
+        "rate_after": 2.0,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2026-02-05",
+        "score": 52,
+        "rate_before": 2.0,
+        "rate_after": 2.0,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2026-03-19",
+        "score": 62,
+        "rate_before": 2.0,
+        "rate_after": 2.0,
+        "change_bps": 0.0
+      }
+    ]
+  }
+}

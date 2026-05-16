@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2020-02-20",
+  "score": 42,
+  "stance": "neutral",
+  "hawkish_phrases": [
+    "risks surrounding the euro area growth outlook...remained tilted to the downside, but had become less pronounced",
+    "HICP inflation excluding food and energy was at its highest level for four years",
+    "wage growth remained resilient and was broad-based",
+    "some caution was also expressed about becoming too optimistic",
+    "Financial stability-related risks needed to be monitored closely"
+  ],
+  "dovish_phrases": [
+    "inflation remained considerably below the Governing Council's inflation aim",
+    "measures of underlying inflation had remained generally muted",
+    "market-based indicators of longer-term inflation expectations...remained at subdued levels",
+    "highly accommodative monetary policy stance for a prolonged period of time was seen as necessary",
+    "Governing Council needed to reiterate its commitment to stand ready to adjust all of its instruments"
+  ],
+  "summary": "The Governing Council held all policy rates unchanged with rates expected to remain at present or lower levels until inflation robustly converges to sufficiently close to but below 2%, maintaining asset purchases at \u20ac20 billion monthly, with a dovish bias emphasizing prolonged accommodation despite some stabilization signals.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-17T20:52:05",
+  "source_file": "ECB_2020-02-20.txt",
+  "char_count": 39484
+}

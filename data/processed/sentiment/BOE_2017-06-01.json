@@ -1,0 +1,25 @@
+{
+  "bank": "BOE",
+  "date": "2017-06-01",
+  "score": 62,
+  "stance": "hawkish",
+  "hawkish_phrases": [
+    "Inflation could rise above 3% by the autumn, and is likely to remain above the target for an extended period",
+    "The continued growth of employment could suggest that spare capacity is being eroded, lessening the trade-off",
+    "Three members considered it appropriate to increase Bank Rate by 25 basis points",
+    "unemployment rate has fallen to 4.6%, its lowest in over 40 years",
+    "reducing the MPC's tolerance of above-target inflation"
+  ],
+  "dovish_phrases": [
+    "pay growth has moderated further from already subdued rates",
+    "GDP growth declined markedly in the first quarter, in part reflecting weaker household spending",
+    "weaker real income growth that is likely to accompany that adjustment over the next few years",
+    "the economy was expected to operate with a small degree of spare capacity for most of the three-year forecast period",
+    "any increases in Bank Rate would be expected to be at a gradual pace and to a limited extent"
+  ],
+  "summary": "The MPC voted 5-3 to hold Bank Rate at 0.25% with three members dissenting in favor of a 25bp hike, reflecting concerns about above-target inflation reaching potentially 3% and eroding spare capacity despite weaker consumption growth.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:25:56",
+  "source_file": "BOE_2017-06-01.txt",
+  "char_count": 5606
+}

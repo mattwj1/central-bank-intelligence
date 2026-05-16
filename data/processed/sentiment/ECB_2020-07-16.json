@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2020-07-16",
+  "score": 32,
+  "stance": "dovish",
+  "hawkish_phrases": [
+    "banks expected a net tightening of credit standards on loans to firms in the third quarter of 2020",
+    "credit standards for loans to households had tightened in the second quarter",
+    "risks of a persistent increase in the unemployment rate",
+    "non-performing loans and corporate insolvencies as a result of the pandemic could affect bank balance sheets",
+    "the balance of risks to the euro area growth outlook to remain on the downside"
+  ],
+  "dovish_phrases": [
+    "inflation pressures were expected to remain very subdued on account of the sharp decline in real GDP",
+    "weaker demand would put downward pressure on inflation",
+    "market-based indicators of longer-term inflation expectations remained at very depressed levels",
+    "the outlook for inflation remained subdued, underscoring the view that there was no room for complacency",
+    "ample monetary policy stimulus would remain necessary to support the economic recovery"
+  ],
+  "summary": "The Governing Council held rates unchanged (main refinancing at 0.00%, deposit at -0.50%) and maintained the full PEPP envelope of \u20ac1,350 billion with flexible implementation through at least June 2021, with a mildly dovish bias emphasizing subdued inflation pressures, very depressed inflation expectations, and the necessity of ample monetary stimulus despite early signs of recovery.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-17T20:53:50",
+  "source_file": "ECB_2020-07-16.txt",
+  "char_count": 47239
+}

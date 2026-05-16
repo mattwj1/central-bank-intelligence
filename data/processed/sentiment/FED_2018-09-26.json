@@ -1,0 +1,25 @@
+{
+  "bank": "FED",
+  "date": "2018-09-26",
+  "score": 78,
+  "stance": "hawkish",
+  "hawkish_phrases": [
+    "further gradual increases in the target range for the federal funds rate will be consistent with sustained expansion",
+    "A few participants expected that policy would need to become modestly restrictive for a time",
+    "a number judged that it would be necessary to temporarily raise the federal funds rate above their assessments of its longer-run level",
+    "inflation may modestly exceed 2 percent for a period of time",
+    "remove the language stating that 'the stance of monetary policy remains accommodative'"
+  ],
+  "dovish_phrases": [
+    "risks to the economic outlook appear roughly balanced",
+    "wage growth remained moderate by historical standards",
+    "some measures of trend inflation or longer-term inflation expectations were below levels consistent with the 2 percent objective",
+    "balance the risk of tightening monetary policy too quickly",
+    "indicators of longer-term inflation expectations are little changed, on balance"
+  ],
+  "summary": "The FOMC unanimously raised the target range by 25bp to 2.00-2.25% and removed the phrase 'the stance of monetary policy remains accommodative,' signaling continued gradual tightening with several participants expecting rates to rise above neutral levels to prevent inflation overshooting.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:46:47",
+  "source_file": "FED_2018-09-26.txt",
+  "char_count": 47425
+}

@@ -1,0 +1,25 @@
+{
+  "bank": "BOE",
+  "date": "2024-06-01",
+  "score": 62,
+  "stance": "hawkish",
+  "hawkish_phrases": [
+    "Monetary policy will need to remain restrictive for sufficiently long",
+    "Key indicators of inflation persistence have continued to moderate, although they remain elevated",
+    "services inflation was 5.7% in May...somewhat higher than projected in the May Report",
+    "more evidence of diminishing inflation persistence was needed before reducing the degree of monetary policy restrictiveness",
+    "risks to the outlook for activity were skewed to the upside"
+  ],
+  "dovish_phrases": [
+    "Twelve-month CPI inflation fell to 2.0% in May",
+    "Indicators of short-term inflation expectations have also continued to moderate, particularly for households",
+    "The collective steer from a range of indicators of aggregate pay growth has continued to ease",
+    "For these members, the policy decision at this meeting was finely balanced",
+    "Two members preferred to reduce Bank Rate by 0.25 percentage points"
+  ],
+  "summary": "Bank Rate held at 5.25% by a 7-2 vote with two members dissenting for a 25bp cut, maintaining restrictive policy despite inflation reaching target, with some members viewing the decision as finely balanced while others sought more evidence of diminishing inflation persistence.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:35:56",
+  "source_file": "BOE_2024-06-01.txt",
+  "char_count": 35023
+}

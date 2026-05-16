@@ -1,0 +1,25 @@
+{
+  "bank": "FED",
+  "date": "2026-01-28",
+  "score": 62,
+  "stance": "hawkish",
+  "hawkish_phrases": [
+    "inflation remained somewhat elevated",
+    "the risk of inflation running persistently above the Committee's objective was meaningful",
+    "easing policy further in the context of elevated inflation readings could be misinterpreted as implying diminished policymaker commitment to the 2 percent inflation objective",
+    "a number of these participants judged that additional policy easing may not be warranted until there was clear indication that the progress of disinflation was firmly back on track",
+    "Several participants indicated that they would have supported a two-sided description of the Committee's future interest rate decisions, reflecting the possibility that upward adjustments to the target range for the federal funds rate could be appropriate"
+  ],
+  "dovish_phrases": [
+    "Those who preferred to lower the target range at this meeting expressed concerns that the current stance of the policy rate was still meaningfully restrictive",
+    "Several participants commented that further downward adjustments to the target range for the federal funds rate would likely be appropriate if inflation were to decline in line with their expectations",
+    "a few participants highlighted the risk that labor market conditions could deteriorate significantly while expressing confidence that inflation would continue to decline",
+    "keeping policy overly restrictive could risk further deterioration in the labor market",
+    "the unemployment rate had shown some signs of stabilization"
+  ],
+  "summary": "The Committee voted 10-2 to hold the federal funds rate at 3-1/2 to 3-3/4 percent, with two dissents preferring a 25bp cut, while the majority emphasized inflation risks and uncertainty, with several participants suggesting additional easing may not be warranted until disinflation progress is clearer and some supporting potential future rate hikes if inflation persists.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-15T00:34:27",
+  "source_file": "FED_2026-01-28.txt",
+  "char_count": 44517
+}

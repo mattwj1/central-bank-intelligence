@@ -1,0 +1,25 @@
+{
+  "bank": "BOE",
+  "date": "2022-09-01",
+  "score": 78,
+  "stance": "hawkish",
+  "hawkish_phrases": [
+    "Should the outlook suggest more persistent inflationary pressures, including from stronger demand, the Committee will respond forcefully, as necessary.",
+    "The labour market is tight and domestic cost and price pressures remain elevated.",
+    "There had been further signs since the August Report of continuing strength in domestically generated inflation.",
+    "Consumer services prices and nominal wages have continued to rise more rapidly than expected.",
+    "Private sector regular pay had risen by 6.0% in the three months to July, stronger than the expectations of 5.5%"
+  ],
+  "dovish_phrases": [
+    "There had been some indications that the demand for labour is weakening.",
+    "Bank staff now expected GDP to fall by 0.1% in Q3, below the August Report projection of 0.4% growth.",
+    "The squeeze on real disposable incomes had continued to impact negatively on household spending.",
+    "recent data outturns had suggested that activity was already weakening",
+    "Retail sales volumes had fallen by 1.6% in August, continuing a downward trend since mid-2021"
+  ],
+  "summary": "The MPC voted to increase Bank Rate by 50bp to 2.25% in a 5-3-1 split decision, with three members preferring 75bp and one preferring 25bp, while maintaining highly hawkish forward guidance that the Committee will 'respond forcefully' to persistent inflationary pressures amid tight labor markets and elevated domestic inflation despite weakening activity.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:32:43",
+  "source_file": "BOE_2022-09-01.txt",
+  "char_count": 40726
+}

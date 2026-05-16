@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2019-01-10",
+  "score": 42,
+  "stance": "neutral",
+  "hawkish_phrases": [
+    "domestic cost pressures were continuing to strengthen and broaden amid high levels of capacity utilisation and tightening labour markets",
+    "wage dynamics appeared to have gained momentum since the turn of 2017-18, with annual growth in compensation per employee reaching 2.9%",
+    "underlying inflation was expected to increase over the medium term, supported by the ECB's monetary policy measures",
+    "the Governing Council continued to be confident that the sustained convergence of inflation towards its aim would continue in the period ahead",
+    "Building wage pressures, which were expected to support an upward adjustment in underlying inflation"
+  ],
+  "dovish_phrases": [
+    "growth in economic activity had slowed further on account of weaker external demand and also sector and country-specific factors",
+    "the balance of risks was moving to the downside owing to the persistent prominence of uncertainties related to geopolitical factors, the threat of protectionism, vulnerabilities in emerging markets and financial market volatility",
+    "Incoming data on growth had been weaker than expected",
+    "there had now been three successive downward revisions to the short-term euro area baseline growth outlook over the past half-year",
+    "Measures of underlying inflation remained generally muted"
+  ],
+  "summary": "The Governing Council unanimously decided to end net asset purchases in December 2018 while holding all rates unchanged and maintaining forward guidance on rates at present levels at least through summer 2019, with enhanced reinvestment guidance linking reinvestment horizon to rate lift-off, acknowledging weaker than expected growth data and stating that the balance of risks was moving to the downside despite maintaining confidence in sustained inflation convergence.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-17T20:49:13",
+  "source_file": "ECB_2019-01-10.txt",
+  "char_count": 41751
+}

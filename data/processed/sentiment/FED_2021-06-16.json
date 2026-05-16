@@ -1,0 +1,25 @@
+{
+  "bank": "FED",
+  "date": "2021-06-16",
+  "score": 62,
+  "stance": "hawkish",
+  "hawkish_phrases": [
+    "Inflation had risen, largely reflecting transitory factors",
+    "a substantial majority of participants judged that the risks to their inflation projections were tilted to the upside",
+    "Several participants expressed concern that longer-term inflation expectations might rise to inappropriate levels if elevated inflation readings persisted",
+    "Various participants mentioned that they expected the conditions for beginning to reduce the pace of asset purchases to be met somewhat earlier than they had anticipated at previous meetings",
+    "Several participants saw benefits to reducing the pace of these purchases more quickly or earlier than Treasury purchases in light of valuation pressures in housing markets"
+  ],
+  "dovish_phrases": [
+    "The Committee's standard of 'substantial further progress' was generally seen as not having yet been met",
+    "Many participants remarked, however, that the economy was still far from achieving the Committee's broad-based and inclusive maximum-employment goal",
+    "Several participants emphasized, however, that uncertainty around the economic outlook was elevated and that it was too early to draw firm conclusions",
+    "participants expected the rise in inflation this year to be transitory",
+    "The Committee decided to keep the target range for the federal funds rate at 0 to 1/4 percent"
+  ],
+  "summary": "The FOMC unanimously voted to hold the federal funds rate at 0-0.25% and continue asset purchases ($80B Treasuries, $40B MBS monthly), with a mildly hawkish bias as several participants noted conditions for tapering may be met earlier than expected amid inflation concerns, though substantial further progress toward goals has not yet been achieved.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:56:47",
+  "source_file": "FED_2021-06-16.txt",
+  "char_count": 63754
+}

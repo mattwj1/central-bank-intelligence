@@ -1,0 +1,25 @@
+{
+  "bank": "BOE",
+  "date": "2025-02-01",
+  "score": 38,
+  "stance": "dovish",
+  "hawkish_phrases": [
+    "Monetary policy will need to continue to remain restrictive for sufficiently long",
+    "domestic inflationary pressures are moderating, but they remain somewhat elevated",
+    "CPI inflation is expected to rise quite sharply in the near term, to 3.7%",
+    "the threshold for second-round effects might now be somewhat lower",
+    "constrained supply relative to demand...could sustain domestic price and wage pressures, consistent with a relatively tighter monetary policy path"
+  ],
+  "dovish_phrases": [
+    "GDP growth has been weaker than expected",
+    "indicators of business and consumer confidence have declined",
+    "greater or longer-lasting weakness in demand relative to supply...could push down on inflationary pressures, warranting a less restrictive path of Bank Rate",
+    "weakening activity and a looser labour market could weigh further on inflation",
+    "subdued outlook for demand remained consistent with CPI inflation staying sustainably at the target in the medium term"
+  ],
+  "summary": "The MPC voted 7-2 to cut Bank Rate by 25bp to 4.5%, with two members dissenting in favor of a 50bp cut, emphasizing gradual withdrawal of restraint while maintaining a restrictive stance amid moderating but elevated domestic inflationary pressures and weaker-than-expected growth.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:37:02",
+  "source_file": "BOE_2025-02-01.txt",
+  "char_count": 18927
+}

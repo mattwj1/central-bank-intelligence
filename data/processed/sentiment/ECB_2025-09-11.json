@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2025-09-11",
+  "score": 58,
+  "stance": "neutral",
+  "hawkish_phrases": [
+    "no further rate cuts were imminent",
+    "interest rates were currently in a 'good place' and close to or at the end of the monetary policy cycle",
+    "Markets had fully priced out any rate cut at the current meeting",
+    "wage growth might decelerate more slowly than anticipated",
+    "there was a growing risk that average food price inflation might not revert to historical levels"
+  ],
+  "dovish_phrases": [
+    "a further rate cut in the coming months would better protect the inflation target",
+    "inflation was expected to decrease to 1.7% in 2026",
+    "risks to economic growth had become more balanced",
+    "trade tensions posed downside risks to inflation",
+    "the appreciation of the euro was still feeding through to goods inflation"
+  ],
+  "summary": "The Governing Council unanimously held all three key ECB interest rates unchanged in September 2025, with a neutral tone stating rates were in a 'good place' near the end of the cycle, though acknowledging a further cut would better protect the target amid balanced risks and an inflation outlook projecting undershooting in 2026.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-17T21:11:41",
+  "source_file": "ECB_2025-09-11.txt",
+  "char_count": 64737
+}

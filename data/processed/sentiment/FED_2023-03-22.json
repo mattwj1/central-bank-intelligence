@@ -1,0 +1,25 @@
+{
+  "bank": "FED",
+  "date": "2023-03-22",
+  "score": 68,
+  "stance": "hawkish",
+  "hawkish_phrases": [
+    "Inflation remains elevated",
+    "some additional policy firming may be appropriate",
+    "maintaining a restrictive policy stance until inflation is clearly on a downward path toward 2 percent would be appropriate from a risk-management perspective",
+    "upside risks to the inflation outlook remained a key factor shaping the policy outlook",
+    "would have considered a 50 basis point increase in the target range to have been appropriate at this meeting in the absence of the recent developments in the banking sector"
+  ],
+  "dovish_phrases": [
+    "recent developments are likely to result in tighter credit conditions for households and businesses and to weigh on economic activity, hiring, and inflation",
+    "downside risks to growth and upside risks to unemployment had increased",
+    "the staff's projection at the time of the March meeting included a mild recession starting later this year",
+    "Many participants noted that the likely effects of recent banking-sector developments on economic activity and inflation had led them to lower their assessments of the federal funds rate target range",
+    "participants considered whether it would be appropriate to hold the target range steady at this meeting"
+  ],
+  "summary": "The Committee unanimously raised rates 25bp to 4.75-5.00%, anticipating some additional policy firming may be appropriate despite banking-sector stress likely to tighten credit conditions, with several participants noting they would have preferred 50bp absent the banking developments but reduced their terminal rate assessments due to expected credit tightening effects.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T16:02:19",
+  "source_file": "FED_2023-03-22.txt",
+  "char_count": 50227
+}

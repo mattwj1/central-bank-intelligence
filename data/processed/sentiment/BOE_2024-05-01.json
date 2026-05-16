@@ -1,0 +1,25 @@
+{
+  "bank": "BOE",
+  "date": "2024-05-01",
+  "score": 62,
+  "stance": "hawkish",
+  "hawkish_phrases": [
+    "Monetary policy will need to remain restrictive for sufficiently long",
+    "services consumer price inflation...remains elevated, at 6.0%",
+    "the risk of inflation becoming embedded above the 2% target dissipates",
+    "Key indicators of inflation persistence...remain elevated",
+    "keep under review for how long Bank Rate should be maintained at its current level"
+  ],
+  "dovish_phrases": [
+    "CPI inflation is expected to return to close to the 2% target in the near term",
+    "CPI inflation was projected to be 1.9% in two years' time and 1.6% in three years",
+    "The restrictive stance of monetary policy is weighing on activity in the real economy",
+    "A margin of economic slack is projected to emerge during 2024 and 2025",
+    "the labour market continues to loosen"
+  ],
+  "summary": "The MPC voted 7-2 to maintain Bank Rate at 5.25%, with two members preferring a 0.25pp cut, emphasizing that monetary policy must remain restrictive for sufficiently long despite inflation falling and projections showing inflation below target in the medium term.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:35:46",
+  "source_file": "BOE_2024-05-01.txt",
+  "char_count": 19579
+}

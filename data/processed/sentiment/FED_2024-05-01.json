@@ -1,0 +1,25 @@
+{
+  "bank": "FED",
+  "date": "2024-05-01",
+  "score": 68,
+  "stance": "hawkish",
+  "hawkish_phrases": [
+    "lack of further progress toward the Committee's 2 percent inflation objective",
+    "does not expect it will be appropriate to reduce the target range until it has gained greater confidence that inflation is moving sustainably toward 2 percent",
+    "risks to inflation were seen as tilted to the upside",
+    "Various participants mentioned a willingness to tighten policy further should risks to inflation materialize",
+    "many participants commented on their uncertainty about the degree of restrictiveness"
+  ],
+  "dovish_phrases": [
+    "risks to achieving the Committee's employment and inflation goals have moved toward better balance",
+    "signs that the finances of low- and moderate-income households were increasingly coming under pressure",
+    "reducing policy restraint in the event of an unexpected weakening in labor market conditions",
+    "slowing the pace of decline of the Federal Reserve's securities holdings",
+    "downside risks to economic activity"
+  ],
+  "summary": "The Committee voted unanimously to hold the target range at 5.25-5.50 percent, explicitly acknowledging a lack of further progress on inflation and stating it does not expect rate cuts until gaining greater confidence inflation is moving sustainably toward 2 percent, with some participants willing to tighten further if needed.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T16:05:43",
+  "source_file": "FED_2024-05-01.txt",
+  "char_count": 47968
+}

@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2015-05-21",
+  "score": 28,
+  "stance": "dovish",
+  "hawkish_phrases": [
+    "risks surrounding the economic outlook...had become more balanced",
+    "there was a case for guarded optimism",
+    "caution was warranted not to overrate the impact of monetary policy measures",
+    "policy rates had reached their effective lower bound",
+    "downside risks to growth were seen to stem from the external environment"
+  ],
+  "dovish_phrases": [
+    "expanded APP purchases were intended to be carried out until the end of September 2016",
+    "monetary policy measures played an important role in supporting economic growth by lowering borrowing costs",
+    "there is still considerable slack in the economy",
+    "the full implementation of all the monetary policy measures that had been decided",
+    "steady hand and the firm implementation of the measures decided in January 2015"
+  ],
+  "summary": "The Governing Council held all rates unchanged (main refinancing at 0.05%, deposit at -0.20%) and unanimously reaffirmed its commitment to continue the expanded asset purchase programme until end-September 2016, emphasizing firm implementation of existing measures with no consideration of policy changes, while noting improved momentum and inflation stabilization but considerable remaining slack.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-17T20:40:34",
+  "source_file": "ECB_2015-05-21.txt",
+  "char_count": 44098
+}

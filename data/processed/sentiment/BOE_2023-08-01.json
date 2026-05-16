@@ -1,0 +1,25 @@
+{
+  "bank": "BOE",
+  "date": "2023-08-01",
+  "score": 78,
+  "stance": "hawkish",
+  "hawkish_phrases": [
+    "some of the risks from more persistent inflationary pressures may have begun to crystallise",
+    "If there were to be evidence of more persistent pressures, then further tightening in monetary policy would be required",
+    "annual private sector regular pay growth increased to 7.7% in the three months to May, materially above expectations",
+    "Two members preferred to increase Bank Rate by 0.5 percentage points, to 5.5%",
+    "successive forecasts had under-predicted inflation persistence"
+  ],
+  "dovish_phrases": [
+    "Some more recent indicators show signs of weakening",
+    "the unemployment rate had increased a little",
+    "Twelve-month CPI inflation fell from 8.7% in May to 7.9% in June",
+    "One member preferred to leave Bank Rate unchanged at 5%",
+    "the risks of overtightening had continued to build"
+  ],
+  "summary": "The MPC voted 6-3 to increase Bank Rate by 0.25 percentage points to 5.25%, with two members preferring a 0.5pp hike and one preferring no change, citing crystallizing risks from persistent inflationary pressures particularly in wage growth while signaling further tightening would be required if persistent pressures continued.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:34:23",
+  "source_file": "BOE_2023-08-01.txt",
+  "char_count": 23200
+}

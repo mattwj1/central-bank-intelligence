@@ -1,0 +1,23 @@
+{
+  "bank": "BOE",
+  "date": "2020-05-01",
+  "score": 12,
+  "stance": "extremely dovish",
+  "hawkish_phrases": [
+    "Two members preferred to increase the target for the stock of asset purchases by an additional \u00a3100 billion at this meeting",
+    "the Committee judges that the existing stance of monetary policy is appropriate",
+    "illustrative scenario...inflation rises to around the 2% target"
+  ],
+  "dovish_phrases": [
+    "Activity has fallen sharply since the beginning of the year and unemployment has risen markedly",
+    "unprecedented falls during late March and early April",
+    "CPI inflation declined to 1.5% in March and is likely to fall below 1% in the next few months",
+    "very sharp fall in UK GDP in 2020 H1 and a substantial increase in unemployment",
+    "the balance of risks to the economic outlook lies to the downside"
+  ],
+  "summary": "The MPC unanimously maintained Bank Rate at 0.1% and voted 7-2 to continue the \u00a3200 billion asset purchase programme (two members wanted an additional \u00a3100 billion), with extreme dovish bias reflecting unprecedented economic collapse, sharply rising unemployment, and downside risks dominating in the context of the COVID-19 pandemic.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:28:43",
+  "source_file": "BOE_2020-05-01.txt",
+  "char_count": 8253
+}

@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2023-10-26",
+  "score": 62,
+  "stance": "hawkish",
+  "hawkish_phrases": [
+    "Inflation was still expected to stay too high for too long, and domestic price pressures remained strong",
+    "domestic inflation remained persistent and had hovered around 5.5%",
+    "the Governing Council should continue to stress its determination to set policy rates...at sufficiently restrictive levels for as long as necessary",
+    "the Governing Council should be ready...for further interest rate hikes if necessary",
+    "it was cautioned against declaring victory over inflation at the current stage, when inflation was still more than twice the ECB's target"
+  ],
+  "dovish_phrases": [
+    "inflation had dropped markedly in September to 4.3%",
+    "most measures of underlying inflation had continued to ease",
+    "The economy was likely to remain weak for the remainder of 2023",
+    "nowcasting tools indicated lower growth in the third and fourth quarters of 2023...and even implied that there would be a technical recession",
+    "weaker demand...would ease price pressures, especially over the medium term"
+  ],
+  "summary": "The Governing Council unanimously held all three key ECB interest rates at current levels after ten consecutive hikes, maintaining a restrictive stance with emphasis that rates would remain sufficiently restrictive for as long as necessary while keeping the door open for further hikes if needed, despite inflation falling to 4.3% and signs of economic weakness.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-17T21:05:02",
+  "source_file": "ECB_2023-10-26.txt",
+  "char_count": 63241
+}

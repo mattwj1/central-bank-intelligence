@@ -1,0 +1,25 @@
+{
+  "bank": "FED",
+  "date": "2017-03-15",
+  "score": 73,
+  "stance": "hawkish",
+  "hawkish_phrases": [
+    "further increases in the federal funds rate",
+    "operating at or near maximum employment",
+    "stronger spending by businesses and households as a result of improved sentiment",
+    "a more rapid buildup of inflationary pressures than anticipated",
+    "could warrant a faster pace of scaling back accommodation"
+  ],
+  "dovish_phrases": [
+    "core inflation was little changed and continued to run somewhat below 2 percent",
+    "gradual removal of policy accommodation likely would be appropriate",
+    "the federal funds rate is likely to remain, for some time, below levels that are expected to prevail in the longer run",
+    "risk-management considerations still argued for a gradual removal of accommodation",
+    "it could take some time for inflation to rise to 2 percent on a sustained basis"
+  ],
+  "summary": "The FOMC raised the target range by 25bp to 3/4 to 1 percent with one dissent (Kashkari preferring to hold), emphasizing gradual future increases while noting the economy is at or near maximum employment and inflation has moved close to 2 percent, though core inflation remains somewhat below target.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:42:11",
+  "source_file": "FED_2017-03-15.txt",
+  "char_count": 59546
+}

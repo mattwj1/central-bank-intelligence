@@ -1,0 +1,25 @@
+{
+  "bank": "FED",
+  "date": "2025-03-19",
+  "score": 62,
+  "stance": "hawkish",
+  "hawkish_phrases": [
+    "inflation remained somewhat elevated",
+    "most of them noted that longer-term inflation expectations remained well anchored, a factor likely to put downward pressure on inflation",
+    "a majority of participants noted the potential for inflationary effects arising from various factors to be more persistent than they projected",
+    "almost all participants viewing risks to inflation as tilted to the upside",
+    "Several participants emphasized that elevated inflation could prove to be more persistent than expected"
+  ],
+  "dovish_phrases": [
+    "increased downside risks to employment and economic growth",
+    "risks to employment as tilted to the downside",
+    "many participants noted that their contacts and business survey respondents reported pausing hiring decisions because of elevated policy uncertainty",
+    "policy could be eased if labor market conditions were to deteriorate or economic activity were to weaken",
+    "Several participants noted that the recent downgrade in earnings forecasts from retailers and airline companies pointed to weaker consumer demand"
+  ],
+  "summary": "The Committee unanimously voted to hold the federal funds rate at 4.25-4.50 percent with one dissent (Waller) on balance sheet policy, maintaining a restrictive stance while emphasizing elevated uncertainty, upside risks to inflation, and downside risks to employment.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T16:08:01",
+  "source_file": "FED_2025-03-19.txt",
+  "char_count": 48803
+}

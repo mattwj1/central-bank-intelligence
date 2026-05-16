@@ -1,0 +1,25 @@
+{
+  "bank": "BOE",
+  "date": "2017-02-01",
+  "score": 58,
+  "stance": "neutral",
+  "hawkish_phrases": [
+    "there are limits to the extent that above-target inflation can be tolerated",
+    "inflation is expected to increase to 2.8% in the first half of 2018",
+    "if, on the other hand, pay growth picks up by more than anticipated, monetary policy may need to be tightened to a greater degree",
+    "further substantial increases are very likely over the coming months",
+    "the continuing suitability of the current policy stance depends on the trade-off between above-target inflation and slack in the economy"
+  ],
+  "dovish_phrases": [
+    "if spending growth slows more abruptly than expected, there is scope for monetary policy to be loosened",
+    "Attempting to offset fully the effect of weaker sterling on inflation would be achievable only at the cost of higher unemployment",
+    "it remained appropriate to seek to return inflation to the target over a somewhat longer period than usual",
+    "the current stance of monetary policy remained appropriate",
+    "Monetary policy can respond, in either direction"
+  ],
+  "summary": "The MPC voted unanimously to hold Bank Rate at 0.25% with balanced two-way guidance, tolerating above-target inflation while noting limits to such tolerance and conditional tightening bias if pay growth picks up more than expected.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:25:04",
+  "source_file": "BOE_2017-02-01.txt",
+  "char_count": 7176
+}

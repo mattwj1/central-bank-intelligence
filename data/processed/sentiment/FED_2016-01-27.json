@@ -1,0 +1,25 @@
+{
+  "bank": "FED",
+  "date": "2016-01-27",
+  "score": 42,
+  "stance": "neutral",
+  "hawkish_phrases": [
+    "labor market conditions had improved further",
+    "strong job gains, pointed to some additional decline in the underutilization of labor resources",
+    "wage growth had picked up",
+    "labor market data had generally been stronger than anticipated",
+    "inflation was expected to increase gradually as energy prices and the prices of non-energy imports stabilized and the labor market strengthened further"
+  ],
+  "dovish_phrases": [
+    "uncertainty surrounding the outlook had increased",
+    "increased the level of downside risks or that the risks were no longer balanced",
+    "spending and production data generally had been disappointing",
+    "inflation would take somewhat longer than previously anticipated to rise to the Committee's objective",
+    "monetary policy was less well positioned to respond effectively to shocks that reduce inflation or real activity"
+  ],
+  "summary": "The Committee voted unanimously to hold the target range at 1/4 to 1/2 percent following its December 2015 rate hike, citing improved labor markets but increased uncertainty from global financial turbulence, disappointing spending data, and concerns that recent financial tightening and lower oil prices could delay inflation's return to 2 percent, with most members judging it premature to assess whether risks had shifted materially.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:38:04",
+  "source_file": "FED_2016-01-27.txt",
+  "char_count": 90440
+}

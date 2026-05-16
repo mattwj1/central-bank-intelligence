@@ -1,0 +1,25 @@
+{
+  "bank": "FED",
+  "date": "2017-06-14",
+  "score": 73,
+  "stance": "hawkish",
+  "hawkish_phrases": [
+    "the Committee decided to raise the target range for the federal funds rate to 1 to 1-1/4 percent",
+    "The Committee expects that economic conditions will evolve in a manner that will warrant gradual increases in the federal funds rate",
+    "the stance of monetary policy remained accommodative, supporting some further strengthening in labor market conditions",
+    "The Committee currently expects to begin implementing a balance sheet normalization program this year",
+    "a substantial undershooting of the longer-run normal rate of unemployment could pose an appreciable upside risk to inflation"
+  ],
+  "dovish_phrases": [
+    "Inflation on a 12-month basis had declined recently and was running somewhat below 2 percent",
+    "Recent readings on headline and core PCE price inflation had come in lower than participants had expected",
+    "several participants expressed concern that progress toward the Committee's 2 percent longer-run inflation objective might have slowed",
+    "some participants emphasized downside risks, particularly in light of the recent low readings on inflation",
+    "the federal funds rate is likely to remain, for some time, below levels that are expected to prevail in the longer run"
+  ],
+  "summary": "The Committee voted 8-1 to raise the federal funds rate by 25bp to 1.00-1.25% with Kashkari dissenting, announced plans to begin balance sheet normalization in 2017, and reaffirmed gradual further rate increases despite inflation running below 2%.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:42:58",
+  "source_file": "FED_2017-06-14.txt",
+  "char_count": 58320
+}

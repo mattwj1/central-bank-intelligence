@@ -1,0 +1,25 @@
+{
+  "bank": "BOE",
+  "date": "2018-12-01",
+  "score": 58,
+  "stance": "neutral",
+  "hawkish_phrases": [
+    "Domestic inflationary pressures have continued to build",
+    "The labour market remains tight",
+    "Annual growth in regular pay has risen to 3\u00bc%, stronger than anticipated",
+    "a margin of excess demand was expected to emerge",
+    "an ongoing tightening of monetary policy over the forecast period, at a gradual pace and to a limited extent, would be appropriate"
+  ],
+  "dovish_phrases": [
+    "the near-term outlook for global growth has softened and downside risks to growth have increased",
+    "UK CPI inflation is likely to fall below 2% in coming months",
+    "Business investment has fallen for each of the past three quarters",
+    "Brexit uncertainties have intensified considerably",
+    "The monetary policy response to Brexit, whatever form it takes, will not be automatic and could be in either direction"
+  ],
+  "summary": "The MPC voted unanimously to hold Bank Rate at 0.75%, maintaining that ongoing gradual tightening would be appropriate in the baseline scenario despite intensified Brexit uncertainties and near-term growth softening.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:27:22",
+  "source_file": "BOE_2018-12-01.txt",
+  "char_count": 5675
+}

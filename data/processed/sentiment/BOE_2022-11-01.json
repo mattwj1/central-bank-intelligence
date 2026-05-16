@@ -1,0 +1,25 @@
+{
+  "bank": "BOE",
+  "date": "2022-11-01",
+  "score": 78,
+  "stance": "hawkish",
+  "hawkish_phrases": [
+    "further increases in Bank Rate may be required for a sustainable return of inflation to target",
+    "if the outlook suggests more persistent inflationary pressures, it will respond forcefully, as necessary",
+    "there have been continuing signs of firmer inflation in domestic prices and wages that could indicate greater persistence",
+    "a further, more forceful response from monetary policy was justified",
+    "Services CPI inflation has risen"
+  ],
+  "dovish_phrases": [
+    "GDP is projected to continue to fall throughout 2023 and 2024 H1",
+    "CPI inflation is projected to fall sharply to some way below the 2% target in two years' time",
+    "GDP growth had been slowing and was now in negative territory",
+    "real wages had fallen through the course of the year",
+    "most of the tightening in policy over the past year was yet to feed through to the real economy"
+  ],
+  "summary": "The MPC voted 7-2 to increase Bank Rate by 75 basis points to 3%, with the majority signaling further increases may be required albeit to a peak lower than market pricing, emphasizing persistent domestic inflation pressures despite projecting a prolonged recession.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:32:53",
+  "source_file": "BOE_2022-11-01.txt",
+  "char_count": 42801
+}

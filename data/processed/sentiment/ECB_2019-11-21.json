@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2019-11-21",
+  "score": 32,
+  "stance": "dovish",
+  "hawkish_phrases": [
+    "doubts were expressed that they would be resolved soon",
+    "concerns were expressed that the recent deterioration in survey data for the services sector could reflect spillovers",
+    "some comfort could be drawn from the resilience of domestically-oriented sectors and consumption",
+    "risks surrounding the euro area growth outlook were generally assessed by members to be still tilted to the downside",
+    "an increase in underlying inflation might not readily materialise given the current weaker macroeconomic outlook"
+  ],
+  "dovish_phrases": [
+    "incoming data confirmed the Governing Council's previous assessment that the weakness of the euro area economy was protracted",
+    "balance of risks surrounding the growth outlook remained tilted to the downside",
+    "HICP inflation and measures of underlying inflation remained subdued",
+    "Both market and survey-based measures of inflation expectations had stagnated at historical lows",
+    "the Governing Council continued to stand ready to adjust all of its instruments, as appropriate, to ensure that inflation moved towards its aim in a sustained manner"
+  ],
+  "summary": "The Governing Council held rates unchanged (deposit rate at -0.50%) unanimously, confirmed the restart of net asset purchases at \u20ac20 billion monthly from November 1st as decided in September, and maintained a clear easing bias emphasizing readiness to adjust all instruments amid protracted weakness and subdued inflation.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-17T20:51:24",
+  "source_file": "ECB_2019-11-21.txt",
+  "char_count": 33143
+}

@@ -1,0 +1,25 @@
+{
+  "bank": "BOE",
+  "date": "2018-05-01",
+  "score": 68,
+  "stance": "hawkish",
+  "hawkish_phrases": [
+    "an ongoing tightening of monetary policy over the forecast period would be appropriate",
+    "a small margin of excess demand still emerges by early 2020",
+    "Wage growth and domestic cost pressures are firming gradually",
+    "The prospect of excess demand over the forecast period has reduced the degree to which it is appropriate for the MPC to accommodate an extended period of inflation above the target",
+    "the UK economy has a very limited degree of slack"
+  ],
+  "dovish_phrases": [
+    "For the majority of members, an increase in Bank Rate was not required at this meeting",
+    "any future increases in Bank Rate are likely to be at a gradual pace and to a limited extent",
+    "GDP growth in the first quarter was 0.1%, 0.3 percentage points lower than expected",
+    "Household consumption growth remains subdued",
+    "business investment is still restrained by Brexit-related uncertainties"
+  ],
+  "summary": "The MPC voted 7-2 to hold Bank Rate at 0.5%, with the majority stating that ongoing tightening would be appropriate over the forecast period to address emerging excess demand, though an increase was not required at this meeting.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:26:47",
+  "source_file": "BOE_2018-05-01.txt",
+  "char_count": 5172
+}

@@ -1,0 +1,106 @@
+Meeting of 25 June 2025
+Account of the agenda item on the monetary policy strategy assessment at the meeting of the Governing Council of the European Central Bank held by means of videoconference on Wednesday, 25 June 2025
+28 August 2025
+Conclusion of the ECB’s monetary policy strategy assessment 2025
+Mr Lane began his introduction by thanking all staff across the Eurosystem who had contributed to the strategy assessment at different levels through the two workstreams and their constituent task forces and sub-groups. He was grateful to Christiane Nickel and Christophe Kamps, the ECB co-leaders of workstreams 1 and 2, respectively, for their support. It was useful to consider the documentation as a single comprehensive package. Although the twelve paragraphs of the monetary policy strategy statement were likely to be the most visible and widely read part, the overview note would also play a helpful role in elaborating on the thinking underlying the statement. Supplementing this further, there was considerable technical material in the two workstream reports. It was clarified that the statement and the overview note were collectively owned by the Governing Council, whereas the workstream reports were considered staff input.
+At one level, the bulk of the previous strategy review (2020-21) had been retained, as no substantial revision was necessary. At the same time, it proved useful in many ways to have the opportunity to undertake an assessment, as, in some cases, the way in which the Governing Council was making decisions could be articulated better. Importantly, the description of the strategy was brought more into line with how the Governing Council was actually operating and taking monetary policy decisions. The revisions to the strategy would also influence how the Governing Council operated over the coming months and years.
+Mr Lane then briefly summarised the main innovations in the updated strategy statement. Workstream 1 had concluded that the economy had entered a period where the risks to medium-term inflation were two-sided. There were several structural changes that could plausibly lead to deviations in either direction, as well as to higher volatility in inflation outcomes. It was especially relevant that the Governing Council was now operating under uncertainty that was both of a different nature and greater than before. This new environment had essentially three implications for the strategy.
+First, to assess the likely evolution of the economy in a robust way, the Governing Council could articulate better how it was not only taking into account the baseline scenario but also the surrounding risks. This included an appropriate use of sensitivity and scenario analyses. While the Governing Council had made extensive use of scenario analysis in the past, the new statement made this practice more explicit.
+Second, it was important to ensure that the Governing Council delivered on the ECB’s primary mandate regardless of whether shocks were to the upside or downside. Accordingly, while remaining close to the previous formulation, the statement recognised the importance of “appropriately forceful or persistent monetary policy action in response to large, sustained deviations of inflation from the target in either direction, to avoid deviations becoming entrenched through de-anchored inflation expectations.” In relation to the downside risks to inflation, it was maintained that one basic reason was the existence of an effective lower bound on policy rates. In relation to the upside risks to inflation, it was appropriate also to highlight the risk of non-linearities, with inflation expectations and other behavioural relationships in the economy starting to react strongly to increasingly higher rates of realised inflation.
+Third, high two-sided uncertainty had implications for the choice, design and implementation of monetary policy instruments as well. The timing of an announcement and how instruments were to be implemented would need to reflect the new environment. In particular, it would be important for the Governing Council to articulate from the very start a vision of how each instrument would be discontinued and unwound, especially if there were new shocks. In other words, in addition to having a two-sided reaction to shocks, the use of the toolkit had to be sufficiently flexible and agile so it could be adjusted in response to a change in conditions.
+In the ensuing remarks, members expressed their strong appreciation for the work of ECB staff and all Eurosystem teams on the strategy assessment, as well as the efforts made under the guidance of Mr Lane to put together a well-drafted and balanced strategy statement. Everybody could feel represented in the document, as it reflected the comprehensive discussions held within the technical committees and among the Governing Council members on previous occasions. The dedicated Governing Council retreat in Porto on 6-7 May had been particularly instrumental in forming a consensual view on the way forward.
+Members widely appreciated that a very good overall balance had been achieved. While the resulting adjustments were not as substantial as in 2021, it had been important to take stock of the lessons learnt and to analyse the macroeconomic environments faced since the strategy review in 2020-21. The recent experience had shown that the Governing Council’s commitment to a symmetric 2% inflation target over the medium term had provided a clear and credible anchor. The target and the medium-term orientation had indeed been essential to navigating a variety of shocks with consistency and flexibility.
+On the whole, like the ECB’s current policy setting, the strategy was seen to be “in a good place”. The strong elements of the 2021 review had been retained and, at the same time, a more balanced strategy had been laid out with respect to large and sustained deviations from target in either direction.
+In drawing lessons from the ECB’s experience since the previous strategy review, suggestions were made on the best way to incorporate uncertainty in shaping the outlook, on the symmetry of the monetary policy reaction function and on the costs and benefits of the instruments in the ECB’s toolkit.
+On the first of these fronts, it was felt that a clear lesson was that not everything in the economic assessment and outlook was quantifiable and that fundamental uncertainty had to be dealt with. While the baseline forecast served as a useful guide, it was important to remain mindful of uncertainty, making scenario and sensitivity analyses important inputs in the decision-making process. Similarly, the ECB’s three-pronged reaction function was an illustration of how the strategy not only reflected the baseline inflation outlook but also the surrounding risks, which, to some extent, could be proxied by measures of underlying inflation and indicators on the strength of monetary policy transmission. That was seen as a good illustration of how the Governing Council managed risk and uncertainty.
+As regards the reaction function, the recent high-inflation period had shown that a forceful reaction was also needed when inflation rose above target and there was risk of an unanchoring of inflation expectations. In particular, firms adjusted prices much more quickly when faced with a large inflationary shock, leading to a strong and quick pass-through. It was therefore welcomed that the need for decisive action in such situations was now explicitly mentioned in the strategy statement, which provided for the desired two-sided reaction. It was argued that, in the recent experience, the Governing Council had been forced to raise rates very sharply to compensate for a delay in starting the tightening cycle. This delay had been costly, however. According to this view, it had fuelled inflation further, posed financial stability risks and given rise to additional central bank losses, which could harm the ECB’s reputation. Hence, it would have been desirable to withdraw accommodation earlier and raise rates more gradually.
+Regarding the instruments, it was underlined that the strategy retained all the tools that had been adopted in the past as part of the ECB’s toolkit, subject to a comprehensive cost-benefit analysis to ensure proportionality. However, the choice, design and implementation should embed flexibility to allow for an agile response, so that the Governing Council could reverse course quickly when the inflation environment changed. Indeed, the uncertain environment put a premium on remaining flexible and agile. At the same time, it was regarded as important to clarify that the notion of “agility” applied to major changes in the environment in order to avoid the impression of overly activist policies. It was reiterated that such agility and flexibility should not only play a role in the design and implementation of monetary policy instruments but also in the choice of instrument. In this context, it was argued that the trade-off between commitment and flexibility differed across instruments, with some clearly being easier to wind down than others. For instance, the view was expressed that tools like interest rates and long-term refinancing operations had proven to be more “agile” and easier to terminate than asset purchases. While members agreed that agility and flexibility were desirable attributes of the instruments deployed, it was maintained that there was no ex ante hierarchy or optimal sequencing among them. Making a distinction between the different reasons for activating alternative instruments – for example, calibrating the stance versus protecting transmission – was seen as useful. However, in the case of very large shocks, assigning an instrument to more than one purpose might still be necessary.
+Concerning the cost-benefit analysis of the various instruments, from a legal perspective, it was underlined that much progress had been made in terms of proportionality assessments since 2020-21, including in considering the side effects when choosing monetary policy instruments. These assessments were seen as having helped to reduce the risk of legal challenges that could have appeared on a number of fronts.
+While members generally supported the assessment that side effects from unconventional instruments had remained broadly contained, a view was expressed that this could be challenged, in particular regarding quantitative easing (QE), along four dimensions. First, the change in the interest rate environment had resulted in significant losses for the Eurosystem. These were much larger than had been expected at the time of the 2021 strategy review and had significant fiscal implications. Second, the prolonged period of asset purchases had led to a scarcity of government bonds, most acutely in 2022, when a significant share of repo transactions had traded far below the €STR. This had hampered market functioning, impairing the steering of short-term interest rates. Third, residential property prices had increased by nearly 50% from the start of QE in 2015 to their peak in 2022. In this regard, research had shown that QE was one driver of rising house prices, as asset purchases had a significantly larger impact on house prices than changes in short-term policy rates. Such overvaluations not only carried significant financial stability risks but also made it more difficult for people to afford housing and accumulate wealth. Finally, as quantitative tightening (QT) was implemented gradually, the stock of purchased assets had a persistent effect on the policy stance, as risk premia remain compressed over a long period of time. This had weakened the transmission of monetary policy during the recent tightening cycle and likely required a stronger adjustment in short-term rates.
+According to this view, it was questionable whether side effects had indeed remained broadly contained. The recent experience suggested that the bar for large-scale QE needed to be higher in future, as the benefits were state-contingent and diminishing, while the side effects rose non-linearly.
+Attention was drawn, in particular, to the financial losses incurred by central banks in the Eurosystem as a consequence of the QE programme. Against this background, it was argued that greater attention should be paid to risks to central bank balance sheets in future and that, accordingly, some of the unconventional instruments, such as QE, should be seen as exceptional.
+The question of financial losses touched on the border between monetary policy and fiscal policy. It was recalled that there was a hierarchy between the statement, which contained 12 paragraphs and was “principles-based”, and the overview note, which contained further elements and, for example, had a dedicated paragraph about the high cost of QE in terms of lost monetary income. This implied that, in designing instruments, the ECB would naturally take into account monetary income considerations but more so than in the past. Furthermore, the ECB was fully committed to looking at side effects, which had been covered at some length in the workstream reports. Overall, these had been assessed as “broadly contained”, although this did not mean that it was universally the case.
+Against this background, it was maintained that the purpose of the strategy assessment was not to have a complete retrospective debate about all of what had happened in 2021 and 2022. While the staff in the workstreams had extracted a number of lessons from that period, the achievements of the pandemic emergency purchase programme (PEPP) in keeping the European economy stable for those two years, as well as ensuring the smooth transmission of monetary policy, should not be forgotten. It was also open to debate whether in some countries the recovery in residential real estate might have given rise to overvaluation, while in other countries it might have been a correction of an earlier undervaluation. In this context, the value of macroprudential tools – as an additional instrument – was recalled. On financial stability, a large central bank balance sheet was seen to have stabilising properties as well as potentially destabilising elements. It had contributed to a very liquid banking system, which was one reason why banks were able to cope well with the increase in interest rates. All these elements could be found in the statement, the overview note or the work stream reports, reflecting the comprehensive body of work by staff at the ECB and NCBs during the entire exercise.
+While broad agreement with the text was acknowledged, a number of further points for reflection were offered. First, it was felt that communication could benefit from a stronger emphasis on the efficiency of the ECB’s monetary policy. In particular, the forceful monetary policy tightening in response to high rates of inflation had been key in bringing inflation back towards target in a timely manner by firmly anchoring inflation expectations and averting a wage-price spiral, while ensuring a soft landing. Such a benign outcome was a major achievement that had not been thought possible by many analysts in 2022 and 2023. Second, a major change had been adopted in the ECB’s reaction function in switching from forward guidance to a data-dependent, meeting-by-meeting approach in 2022. This flexibility supported taking timely decisions amid high uncertainty. Third, the three-pronged reaction function introduced in March 2023, comprising the inflation outlook, the dynamics of underlying inflation and the strength of monetary policy transmission, also deserved credit, as it had served the ECB’s communication well in setting policy over a highly uncertain period.
+In conclusion, attention was drawn to the distinction between an assessment and a fully fledged review of the strategy. The present strategy statement would henceforth be used by the Governing Council for a period of time that potentially stretched beyond the mandates of many current members. It drew from successes and mistakes, which needed to be acknowledged. At the same time, one had to be very careful in not unduly focusing on the drawbacks or shortfalls of past policies.
+Taking into account the foregoing discussion among the Governing Council members, upon a proposal from the President, the Governing Council unanimously approved the updated monetary policy strategy statement and the longer explanatory note entitled “An overview of the ECB’s monetary policy strategy”. These would be published, together with the two workstream reports, on the ECB’s website on 30 June 2025, when the President and Mr Lane would hold a press conference at noon in Sintra to announce the conclusions of the strategy assessment.
+Opening remarks at the press conference
+Opening remarks at the press conference of 30 June 2025
+Press release
+ECB's Governing Council updates its monetary policy strategy
+Meeting of the ECB’s Governing Council, 25 June 2025
+Members
+Ms Lagarde, President
+Mr de Guindos, Vice-President
+Mr Centeno
+Mr Cipollone
+Mr Demarco, temporarily replacing Mr Scicluna
+Mr Dolenc, Deputy Governor of Banka Slovenije
+Mr Elderson
+Mr Escrivá*
+Mr Kazāks
+Mr Kažimír*
+Mr Knot
+Mr Lane
+Mr Makhlouf
+Mr Müller
+Mr Nagel
+Mr Panetta
+Mr Patsalides
+Mr Rehn*
+Mr Reinesch
+Ms Schnabel
+Mr Šimkus
+Mr Stournaras
+Mr Villeroy de Galhau
+Mr Vujčić
+* Members not holding a voting right in June 2025 under Article 10.2 of the ESCB Statute.
+Other attendees
+Ms Senkovic, Secretary, Director General Secretariat
+Mr Rostagno, Secretary for monetary policy, Director General Monetary Policy
+Mr Winkler, Deputy Secretary for monetary policy, Senior Adviser, DG Monetary Policy
+Accompanying persons
+Mr Andreas
+Mr Arpa
+Ms Bénassy-Quéré
+Mr Bitāns
+Mr Boeckx
+Mr Debrun, Alternate to Mr Wunsch*
+Mr Horváth
+Mr Kaasik
+Mr Lünnemann
+Mr Madouros
+Mr Meichenitsch, Alternate to Mr Holzmann
+Mr Nicoletti Altimari
+Mr Novo
+Ms Papageorghiou
+Ms Schembri
+Mr Šiaudinis
+Mr Sleijpen
+Mr Šošić
+Mr Tavlas
+Ms Valle
+Mr Välimäki
+Ms Žumer Šujica
+Other ECB staff
+Mr Proissl, Director General Communications
+Mr Straub, Counsellor to the President
+Mr Arce, Director General Economics
+Ms Rahmouni, Director General Market Operations
+Mr Kamps, Deputy Director General Monetary Policy
+Ms Nickel, Deputy Director General Economics
+Related topics
+Strategy review
+Monetary policy
+Policies
+Disclaimer
+Please note that related topic tags are currently available for selected content only.
+CONTACT
+European Central Bank
+Directorate General Communications
+Sonnemannstrasse 20
+60314 Frankfurt am Main, Germany
++49 69 1344 7455
+media@ecb.europa.eu
+Reproduction is permitted provided that the source is acknowledged.
+Media contacts

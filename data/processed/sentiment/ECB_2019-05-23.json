@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2019-05-23",
+  "score": 38,
+  "stance": "dovish",
+  "hawkish_phrases": [
+    "labour cost pressures had strengthened and broadened amid high levels of capacity utilisation and tightening labour markets",
+    "growth in compensation per employee in the euro area continued to stand above its long-term average",
+    "negotiated wages had continued to increase, rising from 2.1% in the third quarter of 2018 to 2.2% in the fourth quarter, and further to 2.5% in January 2019",
+    "domestic cost pressures, in particular in wages, had been strengthening",
+    "Services producer price inflation had continued the upward trend that had started at the beginning of 2016"
+  ],
+  "dovish_phrases": [
+    "incoming data confirmed that the slower growth momentum was extending into the current year",
+    "market-based, longer-term inflation expectations had also declined, mainly in reaction to weak macroeconomic data releases",
+    "measures of underlying inflation remained generally muted",
+    "the balance of risks surrounding the growth outlook remained on the downside",
+    "an ample degree of monetary policy accommodation remained necessary to safeguard favourable financing conditions"
+  ],
+  "summary": "The ECB held all policy rates unchanged with unanimous decision, extended forward guidance on rates remaining at present levels at least through end-2019, and maintained a clear easing bias amid extending growth slowdown and muted underlying inflation despite some wage pressures.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-17T20:50:16",
+  "source_file": "ECB_2019-05-23.txt",
+  "char_count": 34344
+}

@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2018-10-11",
+  "score": 38,
+  "stance": "dovish",
+  "hawkish_phrases": [
+    "domestic cost pressures were strengthening and broadening",
+    "high levels of capacity utilisation and increasing labour market tightness",
+    "wage growth",
+    "uncertainty about the outlook appeared to be receding",
+    "Longer-term inflation expectations seemed on the whole to be reasonably well-anchored"
+  ],
+  "dovish_phrases": [
+    "reduce, as of October, the monthly pace of the net asset purchases to \u20ac15 billion until the end of December 2018",
+    "end its net purchases at the end of December 2018",
+    "significant monetary policy stimulus was still needed",
+    "measures of underlying inflation remained generally muted",
+    "Growth projections for 2018 and 2019 had been revised down slightly"
+  ],
+  "summary": "The Governing Council unanimously decided to hold rates unchanged and confirmed the reduction of monthly asset purchases from \u20ac30 billion to \u20ac15 billion starting in October, with net purchases anticipated to end in December 2018, while maintaining dovish forward guidance that rates would remain at present levels at least through summer 2019, reflecting continued easing despite emerging cost pressures.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-17T20:48:46",
+  "source_file": "ECB_2018-10-11.txt",
+  "char_count": 34183
+}

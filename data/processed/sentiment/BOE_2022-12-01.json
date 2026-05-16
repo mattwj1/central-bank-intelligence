@@ -1,0 +1,25 @@
+{
+  "bank": "BOE",
+  "date": "2022-12-01",
+  "score": 73,
+  "stance": "hawkish",
+  "hawkish_phrases": [
+    "inflationary pressures in domestic prices and wages that could indicate greater persistence and thus justifies a further forceful monetary policy response",
+    "further increases in Bank Rate may be required for a sustainable return of inflation to target",
+    "if the outlook suggests more persistent inflationary pressures, it will respond forcefully, as necessary",
+    "private sector regular pay picked up further in the three months to October, to 6.9%, 0.5 percentage points stronger than the expectation",
+    "Annual food and non-alcoholic beverage price inflation had been 16.4% in November, its highest level in 45 years"
+  ],
+  "dovish_phrases": [
+    "UK economy was expected to be in recession for a prolonged period",
+    "inflation was expected to fall sharply from mid-2023, to some way below the 2% target",
+    "real economy remained weak, as a result of falling real incomes and tighter financial conditions",
+    "sizeable impacts from past rate increases were still to come through",
+    "household consumption remains weak and most housing market indicators have continued to soften"
+  ],
+  "summary": "The MPC voted 6-3 to raise Bank Rate by 50bp to 3.5%, with two members preferring no change and one preferring 75bp, stating that further increases may be required and emphasizing persistent domestic wage and price pressures despite expectations of prolonged recession.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:33:18",
+  "source_file": "BOE_2022-12-01.txt",
+  "char_count": 42345
+}

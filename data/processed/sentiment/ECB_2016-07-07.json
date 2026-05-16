@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2016-07-07",
+  "score": 43,
+  "stance": "neutral",
+  "hawkish_phrases": [
+    "risks to the growth outlook remained tilted to the downside",
+    "protracted period of very low inflation thus remained a matter of continued concern",
+    "crucial to avoid second-round effects on wage and price setting",
+    "inflationary pressures continued to be weak",
+    "most measures of underlying inflation had yet to show clear signs of an upward trend"
+  ],
+  "dovish_phrases": [
+    "additional stimulus, beyond the impetus already taken into account, was expected from the monetary policy measures still to be implemented",
+    "balance of risks had improved",
+    "act by using all the instruments available within its mandate, if warranted",
+    "time was needed for the effects of all the measures to fully unfold",
+    "continued focus on implementing the measures adopted"
+  ],
+  "summary": "The Governing Council held all policy rates unchanged (main refinancing at 0.00%, deposit at -0.40%) with unanimous agreement, maintaining an accommodative stance focused on implementing the March 2016 package while acknowledging improved risk balance but persistent inflation weakness and expressing readiness to act if warranted.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-17T20:43:18",
+  "source_file": "ECB_2016-07-07.txt",
+  "char_count": 40312
+}

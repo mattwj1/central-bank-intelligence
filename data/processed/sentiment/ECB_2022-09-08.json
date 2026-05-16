@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2022-09-08",
+  "score": 78,
+  "stance": "hawkish",
+  "hawkish_phrases": [
+    "Inflation remained far too high and was likely to stay above target for an extended period",
+    "inflation could rise further in the near term",
+    "price pressures had continued to strengthen and broaden across the economy",
+    "inflation had started to become self-reinforcing",
+    "the risks to the inflation outlook were primarily on the upside"
+  ],
+  "dovish_phrases": [
+    "the economy expected to stagnate later in 2022 and in the first quarter of 2023",
+    "risks to growth were primarily on the downside, particularly in the near term",
+    "a recession was becoming increasingly likely",
+    "wage dynamics remained contained overall",
+    "there were no convincing signs that second-round effects were already materialising"
+  ],
+  "summary": "The Governing Council unanimously raised the three key ECB interest rates by 75 basis points in September 2022, frontloading the transition from highly accommodative policy rates with a strong hawkish bias, signaling that interest rates would be raised further over subsequent meetings to bring inflation back to 2% despite downside risks to growth.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-17T21:00:58",
+  "source_file": "ECB_2022-09-08.txt",
+  "char_count": 57909
+}

@@ -1,0 +1,25 @@
+{
+  "bank": "FED",
+  "date": "2024-11-07",
+  "score": 38,
+  "stance": "dovish",
+  "hawkish_phrases": [
+    "inflation remained somewhat elevated",
+    "core inflation remained somewhat elevated",
+    "risks of easing policy too quickly, thereby possibly hindering further progress on inflation",
+    "the Committee could pause its easing of the policy rate and hold it at a restrictive level if inflation remained elevated",
+    "uncertainties concerning the level of the neutral rate of interest complicated the assessment of the degree of restrictiveness of monetary policy"
+  ],
+  "dovish_phrases": [
+    "Almost all participants judged that, though month-to-month movements would remain volatile, incoming data generally remained consistent with inflation returning sustainably to 2 percent",
+    "waning business pricing power, the Committee's still-restrictive monetary policy stance, and well-anchored longer-term inflation expectations",
+    "labor market conditions remained solid",
+    "Almost all participants judged the risks to the attainment of their dual-mandate objectives of maximum employment and price stability to be roughly in balance",
+    "it would likely be appropriate to move gradually toward a more neutral stance of policy over time"
+  ],
+  "summary": "The Committee unanimously cut rates by 25 basis points to 4.5-4.75%, with balanced risk assessment and guidance toward gradual further easing, though the statement removed language about greater confidence in disinflation progress.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T16:07:03",
+  "source_file": "FED_2024-11-07.txt",
+  "char_count": 49331
+}

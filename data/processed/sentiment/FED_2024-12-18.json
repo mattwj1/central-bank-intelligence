@@ -1,0 +1,25 @@
+{
+  "bank": "FED",
+  "date": "2024-12-18",
+  "score": 62,
+  "stance": "hawkish",
+  "hawkish_phrases": [
+    "the likelihood that elevated inflation could be more persistent had increased",
+    "Almost all participants judged that upside risks to the inflation outlook had increased",
+    "the Committee was at or near the point at which it would be appropriate to slow the pace of policy easing",
+    "uneven progress in returning inflation to 2 percent, the strength of the economy and the labor market",
+    "nominal wage growth remained slightly above the pace likely to be consistent over time with 2 percent inflation"
+  ],
+  "dovish_phrases": [
+    "inflation had made progress toward the Committee's 2 percent objective",
+    "such a further lowering of the target range for the policy rate would help maintain the strength in the economy and the labor market",
+    "waning business pricing power",
+    "Labor market conditions had generally eased since earlier in the year",
+    "there were no signs of rapid deterioration in labor market conditions"
+  ],
+  "summary": "The Committee voted 11-1 to cut rates by 25bp to 4.25-4.5%, with one hawkish dissent from Hammack, while signaling a slowdown in the pace of future easing amid increased upside inflation risks and economic strength.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T16:07:13",
+  "source_file": "FED_2024-12-18.txt",
+  "char_count": 46040
+}

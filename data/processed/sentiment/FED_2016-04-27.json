@@ -1,0 +1,25 @@
+{
+  "bank": "FED",
+  "date": "2016-04-27",
+  "score": 42,
+  "stance": "neutral",
+  "hawkish_phrases": [
+    "Ms. George dissented because she believed that a 25 basis point increase in the target range for the federal funds rate was appropriate at this meeting",
+    "risks--including potential risks to financial stability--of waiting too long to resume the process of removing policy accommodation",
+    "if incoming data were consistent with economic growth picking up in the second quarter...then it likely would be appropriate for the Committee to increase the target range for the federal funds rate in June",
+    "overly accommodative policy could also induce imprudent risk-taking in financial markets",
+    "standard policy benchmarks...continued to imply values for the federal funds rate well above the current target range"
+  ],
+  "dovish_phrases": [
+    "with inflation below the Committee's objective, it would be prudent to wait for additional information",
+    "In light of the current shortfall of inflation from 2 percent, the Committee will carefully monitor actual and expected progress toward its inflation goal",
+    "downside risks to inflation remained tilted to the downside in light of low readings on measures of inflation compensation",
+    "several participants were concerned that the incoming information might not provide sufficiently clear signals to determine by mid-June whether an increase in the target range would be warranted",
+    "a number of participants judged that it would be appropriate to proceed cautiously in removing policy accommodation"
+  ],
+  "summary": "The Committee voted to hold rates at 1/4 to 1/2 percent with one dissent from George favoring a 25bp hike, signaling that a June increase would likely be appropriate if data showed growth picking up, but maintaining a cautious stance given inflation below target and recent weak spending data.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:38:45",
+  "source_file": "FED_2016-04-27.txt",
+  "char_count": 61601
+}

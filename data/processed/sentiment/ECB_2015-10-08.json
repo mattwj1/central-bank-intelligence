@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2015-10-08",
+  "score": 42,
+  "stance": "neutral",
+  "hawkish_phrases": [
+    "downside risks had clearly increased",
+    "risks to the outlook remained on the downside",
+    "risks surrounding the inflation outlook...were tilted to the downside",
+    "the need to monitor closely all relevant incoming information",
+    "correlation between oil prices and inflation expectations...could be seen as a sign of an unanchoring of inflation expectations"
+  ],
+  "dovish_phrases": [
+    "downward revisions to the outlook for inflation",
+    "inflation was now expected to pick up more slowly than previously expected",
+    "downside risks to the September 2015 ECB staff projections for inflation",
+    "willingness and ability to act, if warranted, by using all the instruments available within its mandate",
+    "asset purchase programme provided sufficient flexibility"
+  ],
+  "summary": "The Governing Council held rates unchanged with the APP continuing as planned, but acknowledged clearly increased downside risks to growth and inflation from emerging markets and lower oil prices, while signaling willingness to act if necessary and increasing the PSPP issue share limit to 33%.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-17T20:41:06",
+  "source_file": "ECB_2015-10-08.txt",
+  "char_count": 51847
+}

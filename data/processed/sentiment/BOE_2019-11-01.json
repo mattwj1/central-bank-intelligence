@@ -1,0 +1,25 @@
+{
+  "bank": "BOE",
+  "date": "2019-11-01",
+  "score": 58,
+  "stance": "neutral",
+  "hawkish_phrases": [
+    "some modest tightening of policy, at a gradual pace and to a limited extent, may be needed to maintain inflation sustainably at the target",
+    "unit labour costs have been growing at rates above those consistent with meeting the inflation target",
+    "a significant margin of excess demand emerges, domestic inflationary pressures are expected to build",
+    "core services CPI inflation has begun to increase somewhat",
+    "demand growth is expected to outstrip the subdued pace of supply growth"
+  ],
+  "dovish_phrases": [
+    "If global growth fails to stabilise or if Brexit uncertainties remain entrenched, monetary policy may need to reinforce the expected recovery",
+    "underlying UK GDP growth has slowed materially this year and a small margin of excess supply has opened up",
+    "employment growth has slowed and pay growth is likely to fall back in the near term",
+    "Monetary policy could respond in either direction to changes in the economic outlook",
+    "CPI inflation is expected to decline to around 1\u00bc% by the spring"
+  ],
+  "summary": "The MPC voted 7-2 to maintain Bank Rate at 0.75%, with guidance indicating policy could respond in either direction but stating that some modest tightening may be needed further ahead if the economy recovers as projected, creating a mildly hawkish tilt despite two dissents.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:28:13",
+  "source_file": "BOE_2019-11-01.txt",
+  "char_count": 4547
+}

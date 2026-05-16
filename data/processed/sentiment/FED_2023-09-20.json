@@ -1,0 +1,25 @@
+{
+  "bank": "FED",
+  "date": "2023-09-20",
+  "score": 72,
+  "stance": "hawkish",
+  "hawkish_phrases": [
+    "A majority of participants judged that one more increase in the target federal funds rate at a future meeting would likely be appropriate",
+    "most participants continued to see upside risks to inflation",
+    "policy should remain restrictive for some time until the Committee is confident that inflation is moving down sustainably toward its objective",
+    "inflation remained well above the Committee's 2 percent longer-run objective",
+    "nominal wages were still rising at rates above levels generally assessed to be consistent with the sustained achievement of the Committee's 2 percent inflation objective"
+  ],
+  "dovish_phrases": [
+    "some judged it likely that no further increases would be warranted",
+    "the focus of monetary policy decisions and communications should shift from how high to raise the policy rate to how long to hold the policy rate at restrictive levels",
+    "Participants generally judged that, with the stance of monetary policy in restrictive territory, risks to the achievement of the Committee's goals had become more two sided",
+    "there continued to be downside risks to economic activity and upside risks to the unemployment rate",
+    "important to balance the risk of overtightening against the risk of insufficient tightening"
+  ],
+  "summary": "The FOMC voted unanimously to hold the target range at 5.25-5.50 percent, with a majority of participants judging one more rate increase would likely be appropriate while emphasizing the need to maintain a restrictive stance for some time, reflecting a hawkish hold with explicit forward guidance toward potential further tightening.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T16:03:43",
+  "source_file": "FED_2023-09-20.txt",
+  "char_count": 44028
+}

@@ -1,0 +1,25 @@
+{
+  "bank": "FED",
+  "date": "2023-07-26",
+  "score": 78,
+  "stance": "hawkish",
+  "hawkish_phrases": [
+    "inflation remained unacceptably high",
+    "most participants continued to see significant upside risks to inflation, which could require further tightening of monetary policy",
+    "The Committee remains highly attentive to inflation risks",
+    "further evidence would be required for them to be confident that inflation was clearly on a path toward the Committee's 2 percent objective",
+    "determining the extent of additional policy firming that may be appropriate"
+  ],
+  "dovish_phrases": [
+    "tighter credit conditions for households and businesses were likely to weigh on economic activity, hiring, and inflation",
+    "A couple of participants indicated that they favored leaving the target range for the federal funds rate unchanged",
+    "some participants commented that even though economic activity had been resilient and the labor market had remained strong, there continued to be downside risks to economic activity",
+    "A number of participants judged that, with the stance of monetary policy in restrictive territory, risks to the achievement of the Committee's goals had become more two sided",
+    "the possibility that the macroeconomic effects of the tightening in financial conditions since the beginning of last year could prove more substantial than anticipated"
+  ],
+  "summary": "The Committee unanimously voted to raise the target range for the federal funds rate by 25bp to 5-1/4 to 5-1/2 percent, with explicit language regarding determining the extent of additional policy firming that may be appropriate and most participants seeing significant upside risks to inflation requiring potential further tightening.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T16:03:35",
+  "source_file": "FED_2023-07-26.txt",
+  "char_count": 46366
+}

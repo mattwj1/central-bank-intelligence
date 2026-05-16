@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2020-12-10",
+  "score": 28,
+  "stance": "dovish",
+  "hawkish_phrases": [
+    "the risks of moral hazard, fiscal dominance and distorted market functioning",
+    "concerns were voiced over risks related to developments in the exchange rate that might have negative consequences for the inflation outlook",
+    "A more moderate increase in the PEPP envelope was advocated by a number of members",
+    "reservations were expressed with regard to the proposed increase in the borrowing allowance to 60%",
+    "fiscal policy remained the most appropriate response to the pandemic-driven crisis and monetary policy should play a secondary role"
+  ],
+  "dovish_phrases": [
+    "headline inflation had remained unchanged at -0.3% in November",
+    "a more protracted weakness in inflation than previously envisaged",
+    "Market-based measures of longer-term inflation expectations remained at very subdued levels",
+    "additional monetary policy measures were necessary to preserve favourable financing conditions over the pandemic period",
+    "the December Eurosystem staff inflation projections were far below the Governing Council's inflation aim"
+  ],
+  "summary": "The ECB expanded the PEPP envelope by \u20ac500 billion to \u20ac1,850 billion and extended net purchases to at least March 2022, recalibrated TLTRO III conditions favorably, and maintained key rates unchanged, citing more protracted inflation weakness and the need to preserve favorable financing conditions through the pandemic period.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-17T20:54:45",
+  "source_file": "ECB_2020-12-10.txt",
+  "char_count": 58129
+}

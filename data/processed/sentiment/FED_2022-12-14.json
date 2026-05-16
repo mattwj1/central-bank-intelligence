@@ -1,0 +1,25 @@
+{
+  "bank": "FED",
+  "date": "2022-12-14",
+  "score": 74,
+  "stance": "hawkish",
+  "hawkish_phrases": [
+    "inflation remained unacceptably high",
+    "No participants anticipated that it would be appropriate to begin reducing the federal funds rate target in 2023",
+    "a restrictive policy stance would need to be maintained until the incoming data provided confidence that inflation was on a sustained downward path to 2 percent, which was likely to take some time",
+    "historical experience cautioned against prematurely loosening monetary policy",
+    "all participants had raised their assessment of the appropriate path of the federal funds rate relative to their assessment at the time of the September meeting"
+  ],
+  "dovish_phrases": [
+    "slowing in the pace of rate increases at this meeting would better allow the Committee to assess the economy's progress",
+    "inflation data received for October and November showed welcome reductions in the monthly pace of price increases",
+    "tentative signs of labor market imbalances improving",
+    "core goods prices declined in the October and November CPI data",
+    "measures of rent based on new leases were indicating a deceleration"
+  ],
+  "summary": "The FOMC unanimously raised rates by 50bp to 4.25-4.50%, slowing the pace from prior meetings, but signaled ongoing increases ahead with no cuts anticipated in 2023 and all participants raising their expected rate path, maintaining a clearly hawkish stance despite acknowledging some early progress on inflation.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T16:01:37",
+  "source_file": "FED_2022-12-14.txt",
+  "char_count": 51975
+}

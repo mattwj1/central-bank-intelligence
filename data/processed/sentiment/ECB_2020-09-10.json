@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2020-09-10",
+  "score": 38,
+  "stance": "dovish",
+  "hawkish_phrases": [
+    "no room for complacency",
+    "inflation had been persistently below levels consistent with the Governing Council's inflation aim",
+    "inflation expectations remained close to their historical lows",
+    "stand ready to adjust all of its instruments, as appropriate",
+    "recent appreciation of the euro exchange rate had had a material impact on the inflation outlook"
+  ],
+  "dovish_phrases": [
+    "inflation pressures were expected to remain subdued on account of weak demand, lower wage pressures and the appreciation of the euro exchange rate",
+    "inflation was projected to be 1.3% in 2022, thereby remaining below the projected pre-crisis path",
+    "headline inflation was likely to remain negative over the coming months",
+    "ample monetary policy stimulus would remain necessary to support the economic recovery",
+    "the balance of risks to the euro area growth outlook was seen to remain on the downside"
+  ],
+  "summary": "The Governing Council held all policy rates unchanged (deposit facility at \u22120.50%) and maintained the PEPP envelope at \u20ac1,350 billion with a clear dovish bias, emphasizing subdued inflation pressures, downside growth risks, concern over euro appreciation dampening the inflation outlook, and readiness to adjust all instruments as appropriate.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-17T20:53:59",
+  "source_file": "ECB_2020-09-10.txt",
+  "char_count": 55522
+}

@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2025-07-24",
+  "score": 58,
+  "stance": "neutral",
+  "hawkish_phrases": [
+    "market interest rates had increased since the previous meeting, especially for longer maturities",
+    "the ECB forward interest rate curve had shifted higher",
+    "services inflation remained elevated, with the projected sharp decline predicated on the materialisation of further wage moderation",
+    "A few members judged risks to be tilted to the upside relative to the June staff projections, especially over the medium term",
+    "inflation could turn out to be higher if a fragmentation of global supply chains pushed up import prices and added to capacity constraints in the domestic economy"
+  ],
+  "dovish_phrases": [
+    "Past interest rate cuts and easier financing conditions had underpinned domestic demand",
+    "Several members viewed inflation risks as tilted to the downside relative to the June staff projections, at least for the next two years",
+    "a stronger euro could bring inflation down further than expected",
+    "inflation could turn out to be lower if higher tariffs led to lower demand for euro area exports and prompted countries with excess capacity to re-route their exports to the euro area",
+    "Market-based inflation compensation also indicated that inflation in 2026, at 1.8%, would be below 2%"
+  ],
+  "summary": "The Governing Council unanimously held all three key ECB interest rates unchanged in July 2025, with communication maintaining a neutral tone and emphasizing data dependence amid exceptional uncertainty from trade tensions, though members were divided on the risk balance with several viewing downside risks to inflation while a few saw upside risks especially over the medium term.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-17T21:11:30",
+  "source_file": "ECB_2025-07-24.txt",
+  "char_count": 59912
+}

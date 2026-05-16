@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2015-11-19",
+  "score": 38,
+  "stance": "dovish",
+  "hawkish_phrases": [
+    "it was premature to draw firm conclusions",
+    "ECB's asset purchase programmes and lending operations were working as intended",
+    "members expressed caution about adopting an unduly gloomy interpretation of recent data",
+    "survey-based measures of longer-term inflation expectations remained well anchored",
+    "there appeared to be no indications of a risk of deflation"
+  ],
+  "dovish_phrases": [
+    "downside risks to the outlook for inflation were generally considered to have remained high",
+    "the anticipated timing of inflation normalising towards 2% was likely to be pushed back again",
+    "a case could be made for considering reinforcing the ECB's accommodative monetary policy stance already at the current meeting",
+    "the degree of monetary policy accommodation would need to be re-examined at the December monetary policy meeting",
+    "the Governing Council was willing and able to act, if warranted, by using all available tools within its mandate"
+  ],
+  "summary": "The Governing Council held all three policy rates unchanged (main refinancing at 0.05%, deposit facility at -0.20%) with no dissent disclosed, but adopted a clear easing bias by signaling a comprehensive review of policy options for December 2015 amid concerns about downside inflation risks and the protracted period of low inflation pushing back the return to target.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-17T20:41:38",
+  "source_file": "ECB_2015-11-19.txt",
+  "char_count": 41874
+}

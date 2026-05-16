@@ -1,0 +1,25 @@
+{
+  "bank": "FED",
+  "date": "2025-10-29",
+  "score": 38,
+  "stance": "dovish",
+  "hawkish_phrases": [
+    "inflation had moved up since earlier in the year and remained somewhat elevated",
+    "overall inflation had been above target for some time and had shown little sign of returning sustainably to the 2 percent objective in a timely manner",
+    "concerns that the prolonged period of above-target inflation could risk an increase in longer-term expectations",
+    "upside risks to inflation remained elevated",
+    "further policy rate reductions could add to the risk of higher inflation becoming entrenched"
+  ],
+  "dovish_phrases": [
+    "downside risks to employment had increased since earlier in the year",
+    "job gains had slowed this year and the unemployment rate had edged up",
+    "a labor market that had gradually softened through September and October but had not sharply deteriorated",
+    "downside risks to employment had risen in recent months",
+    "moving to a more neutral policy stance, the Committee was helping forestall the possibility of a major deterioration in labor market conditions"
+  ],
+  "summary": "The Committee voted 10-2 to cut the target range by 25 basis points to 3.75-4.00 percent, with one dissenter preferring a 50bp cut and another preferring no change, citing elevated inflation but rising downside risks to employment amid a gradually cooling labor market.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T16:09:53",
+  "source_file": "FED_2025-10-29.txt",
+  "char_count": 55938
+}

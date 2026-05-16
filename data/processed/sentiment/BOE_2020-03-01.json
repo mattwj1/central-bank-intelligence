@@ -1,0 +1,23 @@
+{
+  "bank": "BOE",
+  "date": "2020-03-01",
+  "score": 8,
+  "stance": "extremely dovish",
+  "hawkish_phrases": [
+    "The MPC will monitor closely the pass-through to banks and building societies' lending rates of the recent reductions in Bank Rate",
+    "inflation will be boosted by the significant depreciation of the sterling exchange rate",
+    "The MPC will be monitoring closely developments in inflation and in indicators of inflation expectations"
+  ],
+  "dovish_phrases": [
+    "a very sharp reduction in activity is likely",
+    "there is a risk of longer-term damage to the economy, especially if there are business failures on a large scale or significant increases in unemployment",
+    "stands ready to respond further as necessary to guard against an unwarranted tightening in financial conditions",
+    "If needed, the MPC can expand asset purchases further",
+    "The scale and duration of the shock to economic activity, while highly uncertain, will be large and sharp"
+  ],
+  "summary": "The MPC voted unanimously to maintain Bank Rate at 0.1% (after prior emergency 65bp cuts to 0.1%) and continue \u00a3200bn asset purchases, with explicit readiness to expand stimulus further if needed amid extreme economic disruption from Covid-19.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:28:34",
+  "source_file": "BOE_2020-03-01.txt",
+  "char_count": 10413
+}

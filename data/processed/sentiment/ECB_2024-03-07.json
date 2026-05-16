@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2024-03-07",
+  "score": 42,
+  "stance": "neutral",
+  "hawkish_phrases": [
+    "services inflation had barely moved from the 4% recorded for November",
+    "domestic price pressures were still elevated",
+    "it would be premature to discuss rate cuts at the present meeting",
+    "policy rates would be set at sufficiently restrictive levels for as long as necessary",
+    "the disinflationary process remained fragile and conditional on a number of benign assumptions"
+  ],
+  "dovish_phrases": [
+    "inflation was continuing to decline towards the 2% target broadly as expected",
+    "the case for considering rate cuts was strengthening",
+    "the date of a first rate cut coming more clearly into view",
+    "inflation was on track to decline to the 2% target as a result of moderating labour costs",
+    "members expressed increased confidence that inflation was on track to decline sustainably"
+  ],
+  "summary": "The ECB held rates unchanged with unanimous agreement that it was premature to discuss cuts at this meeting, but acknowledged that the case for considering rate cuts was strengthening with June emerging as the likely timing, reflecting increased confidence in disinflation despite concerns about services inflation persistence and domestic price pressures.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-17T21:06:27",
+  "source_file": "ECB_2024-03-07.txt",
+  "char_count": 55785
+}

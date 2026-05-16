@@ -1,0 +1,25 @@
+{
+  "bank": "BOE",
+  "date": "2022-02-01",
+  "score": 78,
+  "stance": "hawkish",
+  "hawkish_phrases": [
+    "current tightness of the labour market and continuing signs of greater persistence in domestic cost and price pressures",
+    "some further modest tightening in monetary policy is likely to be appropriate in the coming months",
+    "CPI inflation was projected to increase further in coming months, to close to 6% in February and March, before peaking at around 7\u00bc% in April",
+    "Four members...preferred to increase Bank Rate by 0.5 percentage points, to 0.75%",
+    "underlying wage growth is expected to strengthen over the coming year, to around 4\u00be%"
+  ],
+  "dovish_phrases": [
+    "sharp rises in prices of global energy and tradable goods...would necessarily weigh on UK real aggregate income and spending. This was something monetary policy was unable to prevent",
+    "margin of excess supply was expected to emerge later this year and to build over the forecast period",
+    "unemployment rate expected to rise to around 5% by the end of the projection",
+    "CPI inflation was projected to fall back to a little above the 2% target in two years' time and to below the target by a greater margin in three years",
+    "In the scenario in which energy prices followed their forward curves...inflation was projected to undershoot the target by \u00be percentage point in two and three years' time"
+  ],
+  "summary": "The MPC voted 5-4 to increase Bank Rate by 0.25 percentage points to 0.5%, with four members preferring a 0.5 percentage point increase, and signaled that some further modest tightening is likely to be appropriate in the coming months given labour market tightness and persistence in domestic cost and price pressures despite CPI inflation peaking at around 7\u00bc% in April.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:30:41",
+  "source_file": "BOE_2022-02-01.txt",
+  "char_count": 57429
+}

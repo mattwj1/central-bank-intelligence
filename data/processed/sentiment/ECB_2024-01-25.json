@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2024-01-25",
+  "score": 58,
+  "stance": "neutral",
+  "hawkish_phrases": [
+    "the risk of cutting policy rates too early was still seen as outweighing that of cutting rates too late",
+    "it was premature to discuss rate cuts at the present meeting",
+    "Further progress needed to be made in the disinflationary process",
+    "domestic inflation remained high at 4.5%, owing to the elevated pace of wage increases",
+    "services inflation was stable at 4.0%"
+  ],
+  "dovish_phrases": [
+    "disinflation was broadly proceeding as envisaged, or even at a slightly faster pace than previously expected",
+    "the new staff projections due in March were likely to show a downward revision to inflation for 2024",
+    "Almost all measures of underlying inflation had declined further in December",
+    "measures of shorter-term inflation expectations had come down markedly",
+    "the incoming information had broadly confirmed the Governing Council's previous assessment of the medium-term inflation outlook"
+  ],
+  "summary": "The ECB Governing Council unanimously held rates unchanged with explicit messaging that it was premature to discuss cuts despite faster-than-expected disinflation, maintaining a cautious bias that cutting too early posed greater risks than cutting too late.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-17T21:05:50",
+  "source_file": "ECB_2024-01-25.txt",
+  "char_count": 61616
+}

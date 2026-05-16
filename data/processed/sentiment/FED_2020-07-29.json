@@ -1,0 +1,25 @@
+{
+  "bank": "FED",
+  "date": "2020-07-29",
+  "score": 22,
+  "stance": "dovish",
+  "hawkish_phrases": [
+    "a few participants noted a risk that longer-term inflation expectations might move below levels consistent with the Committee's symmetric 2 percent objective",
+    "Several risks to the outlook were noted, including the possibility that additional waves of virus outbreaks could result in extended economic disruptions",
+    "Banks and other financial institutions could come under significant stress",
+    "Nonfinancial corporations had carried high levels of indebtedness into the pandemic, increasing their risk of insolvency",
+    "most judged that yield caps and targets would likely provide only modest benefits in the current environment"
+  ],
+  "dovish_phrases": [
+    "The Committee expects to maintain this target range until it is confident that the economy has weathered recent events and is on track to achieve its maximum employment and price stability goals",
+    "several participants suggested that additional accommodation could be required to promote economic recovery and return inflation to the Committee's 2 percent objective",
+    "a number of participants noted that providing greater clarity regarding the likely path of the target range for the federal funds rate would be appropriate at some point",
+    "The ongoing public health crisis will weigh heavily on economic activity, employment, and inflation in the near term, and poses considerable risks to the economic outlook over the medium term",
+    "additional fiscal aid would likely be important for supporting vulnerable families, and thus the economy more broadly, in the period ahead"
+  ],
+  "summary": "The Committee unanimously voted to maintain the target range at 0-0.25% and continue asset purchases at the current pace, with forward guidance stating rates will remain at this level until the economy has weathered recent events and is on track to achieve maximum employment and price stability, reflecting an extended dovish hold amid severe pandemic-related economic weakness.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:53:27",
+  "source_file": "FED_2020-07-29.txt",
+  "char_count": 60438
+}

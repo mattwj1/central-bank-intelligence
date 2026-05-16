@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2024-09-12",
+  "score": 38,
+  "stance": "dovish",
+  "hawkish_phrases": [
+    "core inflation was very persistent",
+    "services inflation had continued to come in stronger than projected and had moved sideways since November of last year",
+    "domestic inflation remained high, at 4.4%",
+    "wage pressures were an important driver of the persistence of services inflation",
+    "upward revisions to projected quarterly core inflation until the third quarter of 2025, which for some quarters amounted to as much as 0.3 percentage points"
+  ],
+  "dovish_phrases": [
+    "the risk of the target being undershot further out in the projection horizon was becoming more significant",
+    "downside risks to domestic demand and the growth outlook",
+    "weaker than expected growth outcome in the second quarter",
+    "private domestic demand had weakened, as households were consuming less, firms had cut business investment and housing investment had dropped sharply",
+    "risks to economic growth remained tilted to the downside"
+  ],
+  "summary": "The ECB cut the deposit facility rate by 25 basis points to 3.50% unanimously, with members expressing increased confidence in disinflation despite persistent services inflation and significant downside risks to economic growth.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-17T21:08:08",
+  "source_file": "ECB_2024-09-12.txt",
+  "char_count": 63222
+}

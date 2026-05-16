@@ -1,0 +1,25 @@
+{
+  "bank": "FED",
+  "date": "2017-11-01",
+  "score": 42,
+  "stance": "neutral",
+  "hawkish_phrases": [
+    "the economy had reached full employment and the labor market was projected to tighten further",
+    "waiting too long to remove accommodation, or removing accommodation too slowly, could result in a substantial overshoot",
+    "many participants thought that another increase in the target range for the federal funds rate was likely to be warranted in the near term",
+    "Several other members, however, were reasonably confident that the economy and inflation would evolve in coming months such that an additional firming would likely be appropriate in the near term",
+    "the Committee expects that economic conditions will evolve in a manner that will warrant gradual increases in the federal funds rate"
+  ],
+  "dovish_phrases": [
+    "inflation for items other than food and energy remained soft",
+    "many participants expressed concern that the persistently weak inflation data could lead to a decline in longer-term inflation expectations",
+    "A few other participants thought that additional policy firming should be deferred until incoming information confirmed that inflation was clearly on a path toward the Committee's symmetric 2 percent objective",
+    "A few participants cautioned that further increases in the target range for the federal funds rate while inflation remained persistently below 2 percent could unduly depress inflation expectations",
+    "continued low readings on inflation, which had occurred even as the labor market tightened, might reflect not only transitory factors, but also the influence of developments that could prove more persistent"
+  ],
+  "summary": "The FOMC unanimously voted to hold the target range at 1 to 1-1/4 percent while maintaining a gradual tightening bias, though several participants expressed concern about persistent below-target inflation and wanted to defer further rate increases until inflation clearly moved toward 2 percent.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:43:56",
+  "source_file": "FED_2017-11-01.txt",
+  "char_count": 50669
+}

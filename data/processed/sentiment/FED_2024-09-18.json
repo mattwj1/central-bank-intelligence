@@ -1,0 +1,25 @@
+{
+  "bank": "FED",
+  "date": "2024-09-18",
+  "score": 32,
+  "stance": "dovish",
+  "hawkish_phrases": [
+    "inflation remained somewhat elevated",
+    "core inflation remaining well above the Committee's objective",
+    "concern that the Committee's larger policy action could be seen as a premature declaration of victory on the price-stability part of the dual mandate",
+    "housing services prices were continuing to rise at an elevated rate",
+    "risks that progress toward the Committee's 2 percent inflation objective could be stalled"
+  ],
+  "dovish_phrases": [
+    "downside risks to employment were seen as having increased",
+    "reducing policy restraint too late or too little could risk unduly weakening economic activity and employment",
+    "gained greater confidence that inflation is moving sustainably toward 2 percent",
+    "job gains had slowed, and the unemployment rate had moved up",
+    "further cooling did not appear to be needed to help bring inflation back to 2 percent"
+  ],
+  "summary": "The Committee cut rates by 50 basis points to 4.75-5.0% with one dissenter (Bowman) preferring 25bp, citing greater confidence inflation is moving sustainably to 2% and increased downside risks to employment, though inflation remains somewhat elevated.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T16:06:32",
+  "source_file": "FED_2024-09-18.txt",
+  "char_count": 44494
+}

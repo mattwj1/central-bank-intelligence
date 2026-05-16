@@ -1,0 +1,24 @@
+{
+  "bank": "BOE",
+  "date": "2020-09-01",
+  "score": 22,
+  "stance": "dovish",
+  "hawkish_phrases": [
+    "uncertainties among businesses are elevated",
+    "considerable uncertainty remains around the labour market after the government job support schemes unwind",
+    "there remains a risk of a more persistent period of elevated unemployment",
+    "recent increases in Covid-19 cases...have the potential to weigh further on economic activity"
+  ],
+  "dovish_phrases": [
+    "The Committee does not intend to tighten monetary policy until there is clear evidence that significant progress is being made in eliminating spare capacity and achieving the 2% inflation target sustainably",
+    "stands ready to adjust monetary policy accordingly",
+    "The unemployment rate was projected to rise markedly, consistent with a material degree of spare capacity",
+    "CPI inflation is expected to remain below 1% until early 2021",
+    "given the risks, it is unclear how informative they are about how the economy will perform further out"
+  ],
+  "summary": "The MPC unanimously maintained Bank Rate at 0.1% and continued asset purchases at \u00a3745 billion, with explicit forward guidance that it does not intend to tighten until significant progress is made in eliminating spare capacity and achieving the 2% inflation target sustainably, amid projected elevated unemployment and below-target inflation.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:29:05",
+  "source_file": "BOE_2020-09-01.txt",
+  "char_count": 5751
+}

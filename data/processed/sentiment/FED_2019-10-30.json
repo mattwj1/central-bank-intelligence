@@ -1,0 +1,25 @@
+{
+  "bank": "FED",
+  "date": "2019-10-30",
+  "score": 32,
+  "stance": "dovish",
+  "hawkish_phrases": [
+    "President Rosengren dissented because he judged that monetary policy was already accommodative and that additional accommodation was not needed",
+    "additional accommodation posed risks of further inflating the prices of risky assets and encouraging households and firms to take on too much leverage",
+    "President George dissented at this meeting because she believed that an unchanged setting of monetary policy was appropriate",
+    "business fixed investment and exports remained weak",
+    "Some participants favored maintaining the existing target range for the federal funds rate at this meeting"
+  ],
+  "dovish_phrases": [
+    "lower the target range for the federal funds rate to 1-1/2 to 1-3/4 percent",
+    "helping offset the effects on aggregate demand of weak global growth and trade developments, insuring against downside risks",
+    "promoting a more rapid return of inflation to the Committee's symmetric 2 percent objective",
+    "inflation continued to run below the Committee's symmetric 2 percent objective, and inflationary pressures remained muted",
+    "persistent inflation shortfalls could lead to a decline in longer-run inflation expectations"
+  ],
+  "summary": "The Committee voted 8-2 to cut the federal funds rate by 25 basis points to 1-1/2 to 1-3/4 percent, with two hawkish dissents from George and Rosengren, citing global developments, muted inflation pressures, and the need for insurance against downside risks, while removing forward guidance language to signal a likely pause.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:50:32",
+  "source_file": "FED_2019-10-30.txt",
+  "char_count": 83919
+}

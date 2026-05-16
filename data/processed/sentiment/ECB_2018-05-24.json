@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2018-05-24",
+  "score": 42,
+  "stance": "neutral",
+  "hawkish_phrases": [
+    "measures of underlying inflation remained subdued and had yet to show convincing signs of a sustained upward trend",
+    "evidence remained insufficient at the current stage",
+    "wages continued to edge higher and were expected to lend support to price pressures",
+    "emerging signs of labour shortages and capacity constraints",
+    "inflation convergence would likely proceed only gradually"
+  ],
+  "dovish_phrases": [
+    "incoming information had generally surprised to the downside and pointed to some moderation",
+    "downside risks related to the threat of trade protectionism having become more prominent",
+    "a more pronounced weakening of demand, notably related to external factors, could therefore not be ruled out",
+    "ample degree of monetary policy accommodation remained necessary",
+    "patience, persistence and prudence with regard to monetary policy remained warranted"
+  ],
+  "summary": "The Governing Council held rates unchanged at 0.00% (main refinancing), 0.25% (marginal lending), and -0.40% (deposit) with unanimous decision, maintaining \u20ac30 billion monthly asset purchases through at least September 2018, with a mildly dovish bias reflecting increased uncertainty from trade tensions and moderation in growth despite maintaining confidence in medium-term inflation convergence.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-17T20:48:03",
+  "source_file": "ECB_2018-05-24.txt",
+  "char_count": 33523
+}

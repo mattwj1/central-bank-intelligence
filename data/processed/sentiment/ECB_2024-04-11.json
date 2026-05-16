@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2024-04-11",
+  "score": 42,
+  "stance": "neutral",
+  "hawkish_phrases": [
+    "services inflation had remained unchanged at 4.0% in March",
+    "domestic inflation remained high...year-on-year domestic inflation and services inflation were edging down only slowly",
+    "further confirmation was required of weakening pressures on both wages and profits",
+    "Upside risks to inflation included the heightened geopolitical tensions, especially in the Middle East, which could push energy prices and freight costs higher",
+    "profit margins proved more resilient"
+  ],
+  "dovish_phrases": [
+    "it would be appropriate to reduce the current level of monetary policy restriction",
+    "It was seen as plausible that the Governing Council would be in a position to start easing monetary policy restriction at the June meeting",
+    "A few members felt sufficiently confident that the three elements of the Governing Council's reaction function gave grounds for a reduction in the policy rates already at the present meeting",
+    "peak restrictiveness in euro area financing conditions might have passed",
+    "The risk of undershooting the inflation target and eventually having to pay too high a price in terms of declining activity was now seen as being at least as high as the risk of acting too early"
+  ],
+  "summary": "The ECB held rates unchanged with near-unanimous support, but signaled it would likely be appropriate to reduce restriction at the June meeting if data confirmed the March projections, with a few members already favoring a cut at this meeting.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-17T21:06:39",
+  "source_file": "ECB_2024-04-11.txt",
+  "char_count": 53321
+}

@@ -1,0 +1,25 @@
+{
+  "bank": "BOE",
+  "date": "2019-08-01",
+  "score": 58,
+  "stance": "neutral",
+  "hawkish_phrases": [
+    "a significant margin of excess demand is likely to build in the medium term",
+    "excess demand, to around 1\u00be% of potential GDP by the end of the forecast period",
+    "CPI inflation is projected to rise above the 2% target",
+    "CPI inflation reaches 2.4% by the end of the three-year forecast period",
+    "increases in interest rates, at a gradual pace and to a limited extent, would be appropriate"
+  ],
+  "dovish_phrases": [
+    "underlying growth appears to have slowed since 2018 to a rate below potential",
+    "a margin of excess supply persists over the first year of the projection",
+    "underlying output growth is subdued in the near term",
+    "substantial decline in advanced economies' forward interest rates and a material loosening in financial conditions",
+    "The monetary policy response to Brexit, whatever form it takes, will not be automatic and could be in either direction"
+  ],
+  "summary": "The MPC voted unanimously to maintain Bank Rate at 0.75%, judging the existing stance appropriate while signaling that assuming a smooth Brexit and global recovery, increases in interest rates at a gradual pace would be appropriate as significant excess demand builds to 1\u00be% of potential GDP with inflation reaching 2.4%.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:27:58",
+  "source_file": "BOE_2019-08-01.txt",
+  "char_count": 5512
+}

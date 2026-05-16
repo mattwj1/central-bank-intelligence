@@ -1,0 +1,25 @@
+{
+  "bank": "FED",
+  "date": "2021-03-17",
+  "score": 32,
+  "stance": "dovish",
+  "hawkish_phrases": [
+    "expected path for the federal funds rate implied by a straight read of market pricing moved notably earlier to the first quarter of 2023",
+    "a couple of participants expressed concern that highly accommodative financial conditions could lead to excessive risk-taking and the buildup of financial imbalances",
+    "Several participants remarked that supply disruptions and strong demand could push up price inflation more than anticipated",
+    "inflation was forecast to be temporarily boosted this year by the expected emergence of some production bottlenecks and supply constraints",
+    "Market-based measures of inflation compensation at the 5- and 10-year horizons had continued to move up over the intermeeting period"
+  ],
+  "dovish_phrases": [
+    "the economy remained far from the Committee's longer-run goals",
+    "the ongoing public health crisis continued to weigh on economic activity, employment, and inflation and was posing considerable risks to the economic outlook",
+    "employment was still well below its level at the start of 2020",
+    "it would likely be some time until substantial further progress toward the Committee's maximum-employment and price-stability goals would be realized",
+    "the economy was far from achieving the Committee's broad-based and inclusive goal of maximum employment"
+  ],
+  "summary": "The FOMC unanimously held the federal funds rate at 0-0.25% and maintained asset purchases at $120 billion per month, with clear guidance that policy will remain accommodative until substantial further progress is made toward maximum employment and inflation goals, emphasizing the economy remains far from these objectives despite recent improvement.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:55:58",
+  "source_file": "FED_2021-03-17.txt",
+  "char_count": 58288
+}

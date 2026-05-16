@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2020-06-04",
+  "score": 28,
+  "stance": "dovish",
+  "hawkish_phrases": [
+    "some concern was expressed that the mild scenario might already be outdated",
+    "model-based estimates of deflation risks surrounding the baseline scenario in the June 2020 projections had reached their highest levels since the December 2008 projections",
+    "some reservations were expressed about the precise timing and proposed scale of the expansion of the PEPP envelope",
+    "a number of arguments were made in favour of a smaller expansion of the PEPP",
+    "the capital key remained the relevant benchmark for the allocation of purchases across jurisdictions"
+  ],
+  "dovish_phrases": [
+    "unprecedented contraction of the euro area economy",
+    "substantial downward revision of the inflation outlook in the baseline scenario, with headline inflation expected to average 0.3% in 2020, 0.8% in 2021 and 1.3% in 2022",
+    "heightened risks of protracted disinflation or even deflation",
+    "medium-term outlook for price stability was threatened by the fallout from the coronavirus crisis",
+    "further monetary policy action had become necessary to ensure the necessary degree of monetary accommodation"
+  ],
+  "summary": "The Governing Council unanimously decided to increase the PEPP envelope by \u20ac600 billion to \u20ac1,350 billion and extend net purchases to at least end-June 2021, in response to the pandemic-related unprecedented economic contraction and substantial downward revisions to the inflation outlook with heightened deflation risks.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-17T20:53:10",
+  "source_file": "ECB_2020-06-04.txt",
+  "char_count": 67395
+}

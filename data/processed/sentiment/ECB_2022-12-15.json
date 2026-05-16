@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2022-12-15",
+  "score": 78,
+  "stance": "hawkish",
+  "hawkish_phrases": [
+    "inflation remained far too high and was projected to stay above the Governing Council's 2% medium-term target for too long",
+    "interest rates would still have to rise significantly at a steady pace to reach levels that were sufficiently restrictive",
+    "the risk of longer-term inflation expectations becoming unanchored remained elevated",
+    "core inflation was projected to remain persistently high, with underlying inflationary pressure strengthening further",
+    "A large number of members initially expressed a preference for increasing the key ECB interest rates by 75 basis points"
+  ],
+  "dovish_phrases": [
+    "The euro area economy was expected to contract in the current quarter and the first quarter of next year",
+    "a recession would be relatively short-lived and shallow",
+    "the Governing Council had to be careful not to dampen demand excessively as rates moved into restrictive territory",
+    "Some of these members, nonetheless, expressed their willingness to agree on a 50 basis point rate rise",
+    "uncertainties surrounding the state of the economy and the inflation outlook"
+  ],
+  "summary": "The Governing Council decided to raise key ECB interest rates by 50 basis points after a large number of members initially preferred 75 basis points, with communication emphasizing that rates would still need to rise significantly at a steady pace to sufficiently restrictive levels given inflation projections remaining above target through 2025.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-17T21:01:55",
+  "source_file": "ECB_2022-12-15.txt",
+  "char_count": 70893
+}

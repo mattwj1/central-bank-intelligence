@@ -1,0 +1,23 @@
+{
+  "bank": "BOE",
+  "date": "2020-08-01",
+  "score": 22,
+  "stance": "dovish",
+  "hawkish_phrases": [
+    "does not intend to tighten monetary policy until there is clear evidence that significant progress is being made in eliminating spare capacity",
+    "the existing stance of monetary policy remains appropriate",
+    "CPI inflation is expected to be around 2% in two years' time"
+  ],
+  "dovish_phrases": [
+    "CPI inflation is expected to fall further below the 2% target and average around \u00bc% in the latter part of the year",
+    "unemployment rate is projected to rise materially, to around 7\u00bd% by the end of the year",
+    "a margin of spare capacity is likely to remain until the end of next year",
+    "risks to the outlook for GDP are judged to be skewed to the downside",
+    "stands ready to adjust monetary policy accordingly to meet its remit"
+  ],
+  "summary": "The MPC voted unanimously to hold Bank Rate at 0.1% and maintain its \u00a3745 billion asset purchase programme, with clear dovish bias as inflation is expected to fall to around \u00bc% and unemployment to rise materially to 7\u00bd% amid significant spare capacity.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:28:58",
+  "source_file": "BOE_2020-08-01.txt",
+  "char_count": 6270
+}

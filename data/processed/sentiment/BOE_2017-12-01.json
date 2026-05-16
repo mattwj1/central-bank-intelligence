@@ -1,0 +1,25 @@
+{
+  "bank": "BOE",
+  "date": "2017-12-01",
+  "score": 68,
+  "stance": "hawkish",
+  "hawkish_phrases": [
+    "further modest increases in Bank Rate would be warranted over the next few years",
+    "The steady erosion of slack over the past year or so has reduced the degree to which it is appropriate for the MPC to accommodate an extended period of inflation above the target",
+    "CPI inflation was 3.1% in November",
+    "domestic inflationary pressures were projected to pick up gradually as remaining spare capacity was absorbed",
+    "The labour market remains tight, and surveys suggest this will continue"
+  ],
+  "dovish_phrases": [
+    "Any future increases in Bank Rate are expected to be at a gradual pace and to a limited extent",
+    "Consumption growth remained sluggish in the near term",
+    "some activity indicators suggest GDP growth in Q4 might be slightly softer than in Q3",
+    "CPI inflation was forecast to decline from around 3% to approach the 2% target by the end of the three-year forecast period",
+    "continuing to provide significant support to jobs and activity"
+  ],
+  "summary": "The MPC voted unanimously to hold Bank Rate at 0.50% following the previous month's hike, maintaining that further modest increases would be warranted over the next few years with explicit hawkish forward guidance tempered only by gradual pace language.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:26:26",
+  "source_file": "BOE_2017-12-01.txt",
+  "char_count": 5866
+}

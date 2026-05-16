@@ -1,0 +1,25 @@
+{
+  "bank": "BOE",
+  "date": "2024-02-01",
+  "score": 58,
+  "stance": "neutral",
+  "hawkish_phrases": [
+    "monetary policy will need to remain restrictive for sufficiently long",
+    "key indicators of inflation persistence remained elevated",
+    "there was evidence of more persistent inflationary pressures than included within the forecast",
+    "measures of wage growth had moderated further but remained at rates above those consistent with the inflation target",
+    "services price inflation and wage growth have fallen by somewhat more than expected, key indicators of inflation persistence remain elevated"
+  ],
+  "dovish_phrases": [
+    "Headline CPI inflation has fallen back relatively sharply",
+    "The restrictive stance of monetary policy is weighing on activity in the real economy and is leading to a looser labour market",
+    "downside news has been broad-based, reflecting lower fuel, core goods and services price inflation",
+    "consumer price inflation was already, and had been for some time, on a firm downward trajectory",
+    "The outlook for demand remained weak, and less resilient than previously assumed"
+  ],
+  "summary": "The MPC voted 6-3 to hold Bank Rate at 5.25%, with two members preferring a 25bp hike and one preferring a 25bp cut, maintaining a restrictive stance with emphasis on elevated inflation persistence despite falling headline inflation.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:35:29",
+  "source_file": "BOE_2024-02-01.txt",
+  "char_count": 20118
+}

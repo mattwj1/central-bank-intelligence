@@ -1,0 +1,25 @@
+{
+  "bank": "BOE",
+  "date": "2026-02-01",
+  "score": 38,
+  "stance": "dovish",
+  "hawkish_phrases": [
+    "a more prolonged period of policy restriction was likely to be warranted to mitigate the remaining risks that inflation could settle above the target",
+    "I remain concerned about both upside and downside risks to inflation",
+    "I remain concerned that inflationary pressures stemming from an overly rapid withdrawal of policy restriction over the past two years still need to be contained",
+    "A cut now would overweight the importance of the near-term mechanical disinflation and risk higher term premia",
+    "firms in the DMP Survey expect little change in their own-price inflation over the next year"
+  ],
+  "dovish_phrases": [
+    "Bank Rate is likely to be reduced further",
+    "the risk from greater inflation persistence had continued to become less pronounced, while some risks to inflation from weaker demand and a loosening labour market remain",
+    "monetary policy was still too restrictive, and a further cut in Bank Rate was warranted at this meeting",
+    "I place greater weight on downside risks, particularly in the near term, including those from an elevated household saving rate and a weakening labour market",
+    "The market-implied path for Bank Rate looks too tight"
+  ],
+  "summary": "The MPC voted 5-4 to hold Bank Rate at 3.75%, with four members preferring a 0.25pp cut to 3.5%, while stating that Bank Rate is likely to be reduced further though judgements around further easing will become a closer call, reflecting reduced inflation persistence risks but ongoing concern about balancing downside risks from weaker demand.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-14T23:41:59",
+  "source_file": "BOE_2026-02-01.txt",
+  "char_count": 22675
+}

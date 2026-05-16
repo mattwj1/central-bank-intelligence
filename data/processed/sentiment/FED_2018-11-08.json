@@ -1,0 +1,25 @@
+{
+  "bank": "FED",
+  "date": "2018-11-08",
+  "score": 73,
+  "stance": "hawkish",
+  "hawkish_phrases": [
+    "further gradual increases in the target range for the federal funds rate will be consistent with sustained expansion",
+    "another increase in the target range for the federal funds rate was likely to be warranted fairly soon",
+    "some firming in inflationary pressure",
+    "tightening resource utilization...could generate undesirable upward pressure on inflation",
+    "measures of nominal wage growth appeared to be picking up"
+  ],
+  "dovish_phrases": [
+    "growth of business fixed investment had moderated from its rapid pace earlier in the year",
+    "weakness in residential investment",
+    "downside risks for domestic economic growth and inflation",
+    "a couple of participants noted that the federal funds rate might currently be near its neutral level",
+    "conditions remain depressed...due to the effects of trade policy actions"
+  ],
+  "summary": "The FOMC unanimously held rates at 2.00-2.25% in November 2018 with explicit guidance that another increase was likely warranted fairly soon, maintaining a clear tightening bias despite some moderation in business investment and emerging downside risks.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:46:56",
+  "source_file": "FED_2018-11-08.txt",
+  "char_count": 55509
+}

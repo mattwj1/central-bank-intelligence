@@ -1,0 +1,25 @@
+{
+  "bank": "FED",
+  "date": "2020-01-29",
+  "score": 52,
+  "stance": "neutral",
+  "hawkish_phrases": [
+    "corporate debt, and CRE valuations were elevated",
+    "high levels of corporate indebtedness and weak underwriting standards in leveraged loan markets",
+    "tight labor markets have in the past been associated with economic and financial imbalances",
+    "inflation modestly exceeding 2 percent for a period would be consistent",
+    "capital levels at U.S. banks were quite high relative to other sectors"
+  ],
+  "dovish_phrases": [
+    "overall inflation and inflation for items other than food and energy were running below 2 percent",
+    "business fixed investment and exports remained weak",
+    "inflation had averaged less than 2 percent over the past several years even as resource utilization had increased",
+    "downward pressures from global or technology-related factors that could continue to suppress inflation",
+    "the actual level of employment might still be below maximum employment"
+  ],
+  "summary": "The Committee voted unanimously to hold the target range at 1-1/2 to 1-3/4 percent with genuinely balanced language, noting strong labor markets alongside below-target inflation and weak business investment, and viewing the current stance as appropriate for a time provided the outlook remains broadly consistent.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:51:30",
+  "source_file": "FED_2020-01-29.txt",
+  "char_count": 88101
+}

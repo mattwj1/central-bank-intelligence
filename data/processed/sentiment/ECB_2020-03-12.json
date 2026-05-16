@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2020-03-12",
+  "score": 28,
+  "stance": "dovish",
+  "hawkish_phrases": [
+    "in view of the expected temporary nature of the shock...it did not seem appropriate to lower the deposit facility rate on this occasion",
+    "maintain the option of future cuts in the policy rate in case warranted",
+    "cuts in the short-term policy rate were more suited to setting the medium-term orientation of monetary policy than navigating a path through a temporary period of elevated uncertainty",
+    "some reservations were also expressed regarding the case for expanding the public sector purchase programme",
+    "most members were of the view that increasing the APP would be more effective in lowering risk-free rates"
+  ],
+  "dovish_phrases": [
+    "a decisive monetary policy response was required in the present circumstances",
+    "the spread of the coronavirus was a major shock to the world and the euro area economies, with severe near-term implications",
+    "the risks surrounding the euro area growth outlook were clearly on the downside",
+    "a substantial recession could be envisaged",
+    "stand ready to adjust all of its measures, as appropriate, to ensure that inflation moved towards its aim in a sustained manner"
+  ],
+  "summary": "The ECB held rates unchanged but unanimously approved a major easing package including \u20ac120 billion in additional asset purchases until year-end, enhanced TLTRO III terms at 25bp below the deposit rate, and bridge LTROs, while explicitly declining to cut the deposit facility rate despite severe coronavirus-related downside risks to growth and inflation.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-17T20:52:16",
+  "source_file": "ECB_2020-03-12.txt",
+  "char_count": 55550
+}

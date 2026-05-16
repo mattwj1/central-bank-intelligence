@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2021-07-07",
+  "score": 48,
+  "stance": "neutral",
+  "hawkish_phrases": [
+    "two per cent was not a ceiling",
+    "negative and positive deviations of inflation from the target to be equally undesirable",
+    "the key ECB interest rates would remain its primary instruments",
+    "careful proportionality assessments, including analysis of the benefits and possible side effects of monetary policy measures",
+    "risks of the unanchoring of longer-term inflation expectations from the two per cent target"
+  ],
+  "dovish_phrases": [
+    "especially forceful or persistent monetary policy measures to avoid negative deviations from the inflation target becoming entrenched",
+    "might also imply a transitory period in which inflation was moderately above target",
+    "appropriate policy response depended on the circumstances as well as on the source, magnitude and persistence of the shocks",
+    "forward guidance, asset purchases and longer-term refinancing operations would remain an integral part of the ECB's toolkit",
+    "especially forceful or persistent reaction to large adverse shocks"
+  ],
+  "summary": "This July 2021 meeting focused on announcing the ECB's strategy review with no policy decision, unanimously approving a symmetric 2% inflation target and acknowledging that achieving the target near the lower bound might require especially forceful measures and transitory periods of moderately above-target inflation, presenting a mildly dovish bias within a strategic framework update.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-17T20:56:35",
+  "source_file": "ECB_2021-07-07.txt",
+  "char_count": 17599
+}

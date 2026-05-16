@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2020-03-18",
+  "score": 8,
+  "stance": "extremely dovish",
+  "hawkish_phrases": [
+    "self-imposed limits might hamper action required to fulfil its mandate",
+    "the Governing Council's policy actions had to remain clearly within its remit",
+    "higher risk of being perceived as getting closer to monetary financing",
+    "these limits were one of the safeguards to ensure that the Governing Council acted within its mandate",
+    "terminate net asset purchases under the PEPP once it judged that the coronavirus crisis phase was over"
+  ],
+  "dovish_phrases": [
+    "do everything necessary within its mandate",
+    "fully prepared to increase the size of its asset purchase programmes and adjust their composition, by as much as necessary and for as long as needed",
+    "significant risk of a major recession in the euro area",
+    "economy would decline considerably",
+    "extreme economic shock that required an ambitious, coordinated and urgent policy reaction"
+  ],
+  "summary": "The ECB unanimously launched an emergency \u20ac750 billion PEPP in response to the COVID-19 pandemic, expanded eligible assets, eased collateral standards, and pledged to do everything necessary within its mandate to counter severe economic deterioration and impaired monetary transmission.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-17T20:52:44",
+  "source_file": "ECB_2020-03-18.txt",
+  "char_count": 27096
+}

@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2016-04-07",
+  "score": 28,
+  "stance": "dovish",
+  "hawkish_phrases": [
+    "a few members expressed concerns about central bank operations continuing to replace the functioning of private markets",
+    "concerns were raised about possible undesirable side effects that could arise from moving further into negative territory",
+    "recourse to broad-based asset purchases should remain a contingency instrument, to be used only as an ultima ratio",
+    "the costs and risks of engaging further in public sector asset purchases would outweigh their potential benefits",
+    "further reductions in the deposit facility rate could unduly increase the pressure on banks' profitability"
+  ],
+  "dovish_phrases": [
+    "a strong case for the Governing Council to reconsider its monetary policy stance and provide further substantial monetary stimulus",
+    "downside risks to the medium-term price stability objective had clearly increased",
+    "yet another postponement of the date by which inflation was projected to come back into line with the ECB's objective",
+    "inflation would not return to the ECB's inflation aim for some time to come",
+    "the return of headline inflation to rates below, but close to, 2% would be further postponed"
+  ],
+  "summary": "The ECB cut the deposit rate by 10bp to -0.40%, the MRO rate by 5bp to 0.00%, expanded monthly APP purchases from \u20ac60bn to \u20ac80bn including new corporate bond purchases, and launched TLTRO II, with a large majority supporting the comprehensive easing package amid heightened downside risks to inflation and postponed inflation target achievement.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-17T20:42:34",
+  "source_file": "ECB_2016-04-07.txt",
+  "char_count": 60411
+}

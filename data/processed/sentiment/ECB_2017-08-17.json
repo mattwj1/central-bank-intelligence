@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2017-08-17",
+  "score": 42,
+  "stance": "neutral",
+  "hawkish_phrases": [
+    "financial conditions had tightened since the Governing Council's previous monetary policy meeting in early June",
+    "concerns were expressed about the risk of the exchange rate overshooting in the future",
+    "convincing evidence of a sustained convergence towards levels compatible with the ECB's inflation aim was still seen to be lacking",
+    "measures of underlying inflation remained low and had not yet shown convincing signs of a pick-up",
+    "the Governing Council needed to gain more policy space and flexibility to adjust policy"
+  ],
+  "dovish_phrases": [
+    "a very substantial degree of monetary accommodation was still needed for underlying inflation pressures to build up gradually",
+    "patience, persistence and prudence were needed",
+    "the current monetary policy stance remained appropriate",
+    "the Governing Council stood ready to increase the programme in terms of size and/or duration",
+    "key ECB interest rates to remain at their present levels for an extended period of time, and well past the horizon of the net asset purchases"
+  ],
+  "summary": "The Governing Council held all policy rates unchanged (MRO 0.00%, deposit -0.40%) and maintained net asset purchases at \u20ac60bn monthly until end-December 2017 or beyond, with unanimous agreement emphasizing that despite strengthening economic expansion, a very substantial degree of monetary accommodation was still needed as underlying inflation remained subdued and convergence to the inflation aim remained conditional on continued policy support.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-17T20:46:14",
+  "source_file": "ECB_2017-08-17.txt",
+  "char_count": 36076
+}

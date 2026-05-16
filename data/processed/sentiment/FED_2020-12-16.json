@@ -1,0 +1,25 @@
+{
+  "bank": "FED",
+  "date": "2020-12-16",
+  "score": 18,
+  "stance": "extremely dovish",
+  "hawkish_phrases": [
+    "inflation compensation based on Treasury Inflation Protected Securities rose above their pre-pandemic levels",
+    "seven participants expected overall inflation to be above the Committee's 2 percent longer-run objective in 2023",
+    "upside risk to inflation...a stronger-than-expected recovery, coupled with the possible emergence of pandemic-related supply constraints",
+    "market expectations regarding the federal funds rate target range did not show a tightening until 2024",
+    "inflation was projected to overshoot 2 percent by a moderate amount"
+  ],
+  "dovish_phrases": [
+    "the ongoing public health crisis will continue to weigh on economic activity, employment, and inflation in the near term",
+    "employment continued to be well below its level at the beginning of the year",
+    "continue to increase its holdings of Treasury securities by at least $80 billion per month and agency MBS by at least $40 billion per month",
+    "until substantial further progress has been made toward the Committee's maximum employment and price stability goals",
+    "expects it will be appropriate to maintain this target range until labor market conditions have reached levels consistent with the Committee's assessments of maximum employment"
+  ],
+  "summary": "The FOMC unanimously held rates at 0-0.25% and introduced outcome-based asset purchase guidance ($80B Treasuries, $40B MBS monthly) until substantial further progress toward dual mandate goals, with explicit dovish forward guidance emphasizing labor market weakness and near-term pandemic headwinds despite positive vaccine news.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:54:56",
+  "source_file": "FED_2020-12-16.txt",
+  "char_count": 55747
+}

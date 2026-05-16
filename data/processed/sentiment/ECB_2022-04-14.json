@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2022-04-14",
+  "score": 68,
+  "stance": "hawkish",
+  "hawkish_phrases": [
+    "the data received since the last meeting reinforced its expectation that net asset purchases under the APP should be concluded in the third quarter",
+    "net asset purchases should end sooner rather than later in the third quarter was widely expressed",
+    "Upside risks surrounding the inflation outlook had intensified, especially in the near term",
+    "initial signs of above-target revisions in a number of indicators of inflation expectations warranted close monitoring",
+    "acting too late could lead to a materialisation of second-round effects and might have high economic, financial stability and credibility costs"
+  ],
+  "dovish_phrases": [
+    "the war in Ukraine was affecting the economy, both in Europe and beyond",
+    "heightened uncertainty was affecting the euro area outlook, along with the negative supply shock",
+    "a technical recession in the coming quarters could not be ruled out",
+    "adjusting the monetary policy stance too aggressively could prove counterproductive, as it would lower growth while inflation remained elevated",
+    "optionality, gradualism, and flexibility remained important features of the Governing Council's monetary policy conduct"
+  ],
+  "summary": "The Governing Council held rates but signaled that data reinforced expectations to conclude APP net purchases in Q3 2022, with some members arguing for ending purchases sooner rather than later amid intensifying upside inflation risks, though gradualism and optionality were maintained given high uncertainty from the Ukraine war.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-17T20:59:23",
+  "source_file": "ECB_2022-04-14.txt",
+  "char_count": 62129
+}

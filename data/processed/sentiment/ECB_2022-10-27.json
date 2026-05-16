@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2022-10-27",
+  "score": 78,
+  "stance": "hawkish",
+  "hawkish_phrases": [
+    "inflation remained far too high and would stay above target for an extended period",
+    "risks to the inflation outlook were primarily on the upside",
+    "increasing risk that inflation might become entrenched and that second-round effects and a wage-price spiral could emerge",
+    "the current setting of the ECB's key policy rates was judged to be still accommodative, which implied that they should be increased further",
+    "monetary tightening would probably need to continue after the monetary policy stance had been normalised and moved into broadly neutral territory"
+  ],
+  "dovish_phrases": [
+    "economic activity was likely to have slowed significantly in the third quarter of the year and was expected to weaken further",
+    "risks to the economic growth outlook were clearly on the downside, especially in the near term",
+    "a technical recession was becoming the baseline scenario and the most likely outcome",
+    "the weakening of the economy could lead to somewhat higher unemployment in the future",
+    "a decline in energy costs and a further weakening of demand would lower price pressures"
+  ],
+  "summary": "The ECB raised rates by 75 basis points (with very large majority support, a few preferring 50bp) and recalibrated TLTRO III, emphasizing that inflation remained far too high, policy rates were still accommodative, and further rate increases were expected despite a deteriorating growth outlook and likely recession.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-17T21:01:10",
+  "source_file": "ECB_2022-10-27.txt",
+  "char_count": 67078
+}

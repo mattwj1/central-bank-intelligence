@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2025-10-30",
+  "score": 52,
+  "stance": "neutral",
+  "hawkish_phrases": [
+    "Inflation remains close to our two per cent medium-term target and our assessment of the inflation outlook is broadly unchanged",
+    "credit standards for business loans tightened moderately in the third quarter",
+    "inflation could turn out to be higher if a fragmentation of global supply chains pushed up import prices",
+    "A boost in defence and infrastructure spending could also raise inflation over the medium term",
+    "services inflation ticked up from 3.1 per cent to 3.2 per cent"
+  ],
+  "dovish_phrases": [
+    "our past interest rate cuts remain important sources of resilience",
+    "A stronger euro could bring inflation down further than expected",
+    "inflation could turn out to be lower if higher tariffs lead to lower demand for euro area exports",
+    "labour costs are set to moderate further owing to rising productivity and an easing in wage growth",
+    "forward-looking indicators, such as the ECB's wage tracker and surveys on wage expectations, point to slower wage growth"
+  ],
+  "summary": "The Governing Council unanimously held all three key rates unchanged with inflation close to target and a genuinely balanced assessment, maintaining strict meeting-by-meeting data dependence without pre-committing to any rate path.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-14T23:42:08",
+  "source_file": "ECB_2025-10-30.txt",
+  "char_count": 12498
+}

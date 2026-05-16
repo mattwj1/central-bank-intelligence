@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2021-01-21",
+  "score": 32,
+  "stance": "dovish",
+  "hawkish_phrases": [
+    "credit standards for loans to firms had tightened in the fourth quarter of 2020",
+    "banks expected a further tightening of credit standards for firms in the first quarter of 2021",
+    "not every increase in nominal yields should be interpreted as an unwarranted tightening of financing conditions",
+    "structural weaknesses in the euro area banking sector, such as overcapacity, high NPLs, low profitability",
+    "concern was also expressed about the possible impact of the spread of new, more virulent, mutations of the virus"
+  ],
+  "dovish_phrases": [
+    "ample monetary stimulus remained essential to preserve favourable financing conditions over the pandemic period",
+    "underlying price pressures were expected to remain muted owing to weak demand",
+    "risks surrounding the euro area growth outlook remained tilted to the downside",
+    "inflation was only projected to be 1.4% in 2023",
+    "the Governing Council continued to stand ready to adjust all of its instruments, as appropriate"
+  ],
+  "summary": "The Governing Council unanimously held all policy rates and asset purchase envelopes unchanged, reconfirming its very accommodative stance with explicit dovish bias emphasizing that ample monetary stimulus remained essential, that inflation remained subdued and distant from the medium-term aim, and that downside risks to growth persisted despite vaccine rollout.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-17T20:55:21",
+  "source_file": "ECB_2021-01-21.txt",
+  "char_count": 46655
+}

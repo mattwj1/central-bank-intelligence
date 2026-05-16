@@ -1,0 +1,25 @@
+{
+  "bank": "BOE",
+  "date": "2023-05-01",
+  "score": 73,
+  "stance": "hawkish",
+  "hawkish_phrases": [
+    "If there were to be evidence of more persistent pressures, then further tightening in monetary policy would be required",
+    "the risks around the inflation forecast are skewed significantly to the upside",
+    "the risk of more persistent strength in domestic price and wage setting",
+    "the second-round effects of external cost shocks on inflation in wages and domestic prices may take longer to unwind than they did to emerge",
+    "CPI inflation was 10.2% in 2023 Q1, higher than expected"
+  ],
+  "dovish_phrases": [
+    "CPI inflation declines to a little above 1% at the two and three-year horizons, materially below the 2% target",
+    "the lags in the effects of monetary policy meant that sizeable impacts from past rate increases were still to come through",
+    "the current setting of Bank Rate would be likely to reduce inflation to well below target in the medium term",
+    "there are indications that the labour market has started to loosen",
+    "CPI inflation is expected to fall sharply from April"
+  ],
+  "summary": "The MPC voted 7-2 to increase Bank Rate by 25bp to 4.5%, with explicit guidance that further tightening would be required if persistent inflationary pressures emerge, emphasizing significant upside risks to inflation despite projections showing inflation falling below target in the medium term.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:34:06",
+  "source_file": "BOE_2023-05-01.txt",
+  "char_count": 22837
+}

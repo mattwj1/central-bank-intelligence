@@ -1,0 +1,23 @@
+{
+  "bank": "BOE",
+  "date": "2020-06-01",
+  "score": 18,
+  "stance": "extremely dovish",
+  "hawkish_phrases": [
+    "stronger than expected take-up of the Coronavirus Job Retention Scheme",
+    "it is difficult to make a clear inference from that about the recovery thereafter",
+    "one member dissented from the \u00a3100bn increase decision"
+  ],
+  "dovish_phrases": [
+    "CPI inflation fell further in May, to 0.5%",
+    "There is a risk of higher and more persistent unemployment in the United Kingdom",
+    "CPI inflation is well below the 2% target and is expected to fall further below it in coming quarters",
+    "a further easing of monetary policy is warranted to meet its statutory objectives",
+    "stands ready to take further action as necessary to support the economy"
+  ],
+  "summary": "The MPC voted 8-1 to increase asset purchases by an additional \u00a3100 billion while maintaining Bank Rate at 0.1%, with strong dovish emphasis on below-target inflation, labour market weakness, and readiness for further easing.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:28:50",
+  "source_file": "BOE_2020-06-01.txt",
+  "char_count": 6193
+}

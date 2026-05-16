@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2023-03-16",
+  "score": 68,
+  "stance": "hawkish",
+  "hawkish_phrases": [
+    "inflation remained far too high and was projected to remain too high for too long",
+    "core inflation still increasing",
+    "underlying price pressures remained strong",
+    "Wage pressures had strengthened, supported by robust labour markets",
+    "firms had been able to raise their profit margins in sectors faced with constrained supply and resurgent demand"
+  ],
+  "dovish_phrases": [
+    "ongoing exceptional tensions in the financial markets were a source of significant uncertainty",
+    "Persistently elevated financial market tensions could tighten broader credit conditions more strongly than expected",
+    "Some members would have preferred not to increase the key rates until the financial market tensions had subsided",
+    "falling energy prices would attenuate the loss of purchasing power",
+    "the Governing Council should refrain from communicating unconditional expectations for the future interest rate path"
+  ],
+  "summary": "The Governing Council raised key rates by 50 basis points as previously signalled, despite substantial financial market tensions following Silicon Valley Bank's collapse, with a very large majority supporting the hike but some members preferring to pause, and forward guidance was deliberately avoided in favour of data-dependent language citing inflation outlook, underlying inflation dynamics, and transmission strength.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-17T21:02:54",
+  "source_file": "ECB_2023-03-16.txt",
+  "char_count": 63473
+}

@@ -1,0 +1,25 @@
+{
+  "bank": "BOE",
+  "date": "2024-08-01",
+  "score": 38,
+  "stance": "dovish",
+  "hawkish_phrases": [
+    "second-round effects will prove more enduring in the medium term",
+    "underlying domestic inflationary pressures appeared more entrenched",
+    "Monetary policy will need to continue to remain restrictive for sufficiently long",
+    "services consumer price inflation has declined to 5.7% in June",
+    "pay growth had remained in excess of rates explained by Bank models"
+  ],
+  "dovish_phrases": [
+    "It is now appropriate to reduce slightly the degree of policy restrictiveness",
+    "The impact from past external shocks has abated",
+    "restrictive stance of monetary policy continues to weigh on activity in the real economy",
+    "Domestic inflationary persistence is expected to fade away over the next few years",
+    "The Committee expected the fall in headline inflation, and normalisation in many indicators of inflation expectations, to continue to feed through to weaker pay and price-setting dynamics"
+  ],
+  "summary": "The MPC voted 5-4 to cut Bank Rate by 25bp to 5%, with the majority judging it appropriate to reduce slightly the degree of policy restrictiveness despite meaningful hawkish dissent citing entrenched domestic inflationary pressures and stronger-than-expected GDP.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:36:17",
+  "source_file": "BOE_2024-08-01.txt",
+  "char_count": 18207
+}

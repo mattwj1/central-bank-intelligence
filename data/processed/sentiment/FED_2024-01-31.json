@@ -1,0 +1,25 @@
+{
+  "bank": "FED",
+  "date": "2024-01-31",
+  "score": 58,
+  "stance": "neutral",
+  "hawkish_phrases": [
+    "does not expect it will be appropriate to reduce the target range until it has gained greater confidence that inflation is moving sustainably toward 2 percent",
+    "remained highly attentive to inflation risks",
+    "risks of moving too quickly to ease the stance of policy",
+    "upside risks to inflation as having diminished but noted that inflation was still above the Committee's longer-run goal",
+    "risk that progress toward price stability could stall"
+  ],
+  "dovish_phrases": [
+    "judged that the policy rate was likely at its peak for this tightening cycle",
+    "risks to achieving its employment and inflation goals are moving into better balance",
+    "Inflation has eased over the past year",
+    "downside risks to the economy associated with maintaining an overly restrictive stance for too long",
+    "core PCE inflation was just below 2 percent on a 6-month basis"
+  ],
+  "summary": "The Committee unanimously held rates at 5.25-5.5 percent, acknowledged the policy rate is likely at its peak, but stated it does not expect cuts will be appropriate until gaining greater confidence inflation is moving sustainably toward 2 percent, balancing recognition of easing inflation with persistent caution on inflation risks.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T16:04:59",
+  "source_file": "FED_2024-01-31.txt",
+  "char_count": 50488
+}

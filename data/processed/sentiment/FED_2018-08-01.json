@@ -1,0 +1,25 @@
+{
+  "bank": "FED",
+  "date": "2018-08-01",
+  "score": 68,
+  "stance": "hawkish",
+  "hawkish_phrases": [
+    "further gradual increases in the target range for the federal funds rate will be consistent with sustained expansion",
+    "it would likely soon be appropriate to take another step in removing policy accommodation",
+    "inflation, measured on a 12-month basis, was likely to move modestly above the Committee's objective for a time",
+    "a prolonged period in which the economy operated beyond potential could give rise to inflationary pressures",
+    "Many participants noted that it would likely be appropriate in the not-too-distant future to revise the Committee's characterization of the stance of monetary policy"
+  ],
+  "dovish_phrases": [
+    "the stance of monetary policy remains accommodative",
+    "some participants suggested there could still be some labor market slack",
+    "measures of aggregate nominal wage growth had so far picked up only modestly",
+    "uncertainty about the appropriate level of the federal funds rate over the longer run",
+    "all participants pointed to ongoing trade disagreements and proposed trade measures as an important source of uncertainty and risks"
+  ],
+  "summary": "The Committee unanimously held the target range at 1.75-2 percent with a clear signal that further gradual increases would likely soon be appropriate, maintaining language that policy remains accommodative while noting strong economic activity and inflation near 2 percent.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:46:11",
+  "source_file": "FED_2018-08-01.txt",
+  "char_count": 55270
+}

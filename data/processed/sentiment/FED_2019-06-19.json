@@ -1,0 +1,25 @@
+{
+  "bank": "FED",
+  "date": "2019-06-19",
+  "score": 38,
+  "stance": "dovish",
+  "hawkish_phrases": [
+    "labor market conditions remained strong",
+    "unemployment rate has remained low",
+    "job gains have been solid, on average, in recent months",
+    "strong labor markets and rising incomes continued to support the outlook for consumer spending",
+    "the Committee decided to maintain the target range for the federal funds rate at 2-1/4 to 2-1/2 percent"
+  ],
+  "dovish_phrases": [
+    "uncertainties and downside risks surrounding the economic outlook had increased significantly",
+    "inflation continued to run below the Committee's 2 percent objective",
+    "Market-based measures of inflation compensation have declined",
+    "many judged that additional policy accommodation would be warranted in the near term",
+    "the Committee will closely monitor the implications of incoming information for the economic outlook and will act as appropriate to sustain the expansion"
+  ],
+  "summary": "The Committee voted 9-1 to hold rates at 2.25-2.50% with James Bullard dissenting in favor of a 25bp cut, removing prior 'patient' language and signaling that rates may need to be lowered soon given increased uncertainties, muted inflation pressures, and downside risks to the outlook.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:49:24",
+  "source_file": "FED_2019-06-19.txt",
+  "char_count": 55165
+}

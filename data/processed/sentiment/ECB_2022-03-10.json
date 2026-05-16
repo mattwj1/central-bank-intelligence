@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2022-03-10",
+  "score": 58,
+  "stance": "neutral",
+  "hawkish_phrases": [
+    "inflation had continued to surprise strongly to the upside",
+    "most measures of underlying inflation had risen to levels well above 2%",
+    "the three forward guidance conditions for an upward adjustment of the key ECB interest rates had either already been met or were very close to being met",
+    "experience suggesting that wars tended to be inflationary",
+    "heightened risk of a wage-price spiral if monetary policy did not act in a timely manner"
+  ],
+  "dovish_phrases": [
+    "The prospects for the economy would depend on how the conflict evolved",
+    "risks to the economic outlook had increased substantially with the Russian invasion of Ukraine and were tilted to the downside",
+    "the war constituted a supply and not a demand shock, and it was thus appropriate for monetary policy to look through this shock",
+    "economic activity could be dampened significantly by a steeper rise in energy and commodity prices",
+    "inflation was still expected to decrease progressively and settle at levels around the 2% inflation target in 2024"
+  ],
+  "summary": "The Governing Council held rates unchanged but revised the APP purchase schedule downward (\u20ac40bn April, \u20ac30bn May, \u20ac20bn June) with conditional expectations to conclude net purchases in Q3, removed the easing bias from forward guidance, and de-linked rate hikes from the end of APP purchases with the phrase 'some time after', amid hawkish concerns about persistent above-target inflation and dovish concerns about war-related downside growth risks.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-17T20:59:10",
+  "source_file": "ECB_2022-03-10.txt",
+  "char_count": 73686
+}

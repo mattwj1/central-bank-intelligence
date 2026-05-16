@@ -1,0 +1,25 @@
+{
+  "bank": "BOE",
+  "date": "2021-11-01",
+  "score": 62,
+  "stance": "hawkish",
+  "hawkish_phrases": [
+    "some modest tightening of monetary policy over the forecast period was likely to be necessary",
+    "it will be necessary over coming months to increase Bank Rate in order to return CPI inflation sustainably to the 2% target",
+    "CPI inflation was now expected to peak at around 5% in April 2022",
+    "risks around the November Report projection for wage growth to ease were judged to be skewed to the upside",
+    "Two members...preferred an immediate increase in Bank Rate to 0.25%"
+  ],
+  "dovish_phrases": [
+    "there was value in waiting for additional information on near-term developments in the labour market",
+    "downside risks to demand could be accentuated by the impact of higher prices on households' real incomes",
+    "Current elevated global cost pressures were still most likely to prove transitory",
+    "the ability to loosen monetary policy in response to any significant negative demand shock in the future was to some degree constrained",
+    "UK GDP growth was expected to be relatively subdued...margin of spare capacity was expected to emerge"
+  ],
+  "summary": "The MPC voted 7-2 to hold Bank Rate at 0.1% with two members dissenting for an immediate 15bp hike, while signaling that rate increases will be necessary in coming months if data aligns with projections showing inflation peaking at 5%.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:30:22",
+  "source_file": "BOE_2021-11-01.txt",
+  "char_count": 60276
+}

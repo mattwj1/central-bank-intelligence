@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2019-08-22",
+  "score": 28,
+  "stance": "dovish",
+  "hawkish_phrases": [
+    "net tightening of credit standards on loans to NFCs in the second quarter of 2019",
+    "labour cost pressures had strengthened and broadened further amid high levels of capacity utilisation and tightening labour markets",
+    "wage growth had remained solid and some measures were above their longer-term averages",
+    "Unit labour costs had shown a notable upward trajectory since the beginning of 2018",
+    "Growth in compensation per employee was 2.3% in the first quarter of 2019, up from 2.2%"
+  ],
+  "dovish_phrases": [
+    "expected the rates to remain at their present or lower levels at least through the first half of 2020",
+    "if the medium-term inflation outlook continued to fall short of its aim, the Governing Council was determined to act",
+    "stood ready to adjust all of its instruments, as appropriate, to ensure that inflation moved towards its aim",
+    "examining options, including ways to reinforce its forward guidance on policy rates, mitigating measures, such as the design of a tiered system for reserve remuneration, and options for the size and composition of potential new net asset purchases",
+    "measures of underlying inflation had continued to move sideways and remained generally muted"
+  ],
+  "summary": "The Governing Council held rates unchanged but introduced explicit easing bias by adjusting forward guidance to expect rates at present or lower levels through at least the first half of 2020, tasked committees with examining policy options including potential asset purchases and tiering, and emphasized determination to act if inflation outlook fails to improve, signaling a clear dovish shift amid persistently below-target inflation.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-17T20:50:35",
+  "source_file": "ECB_2019-08-22.txt",
+  "char_count": 36295
+}

@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2024-06-06",
+  "score": 38,
+  "stance": "dovish",
+  "hawkish_phrases": [
+    "inflation was likely to stay above target well into next year",
+    "Services inflation, at 4.1% in May, had surprised on the upside, had shown persistence, and was demonstrating strong momentum",
+    "wages were still rising strongly, making up for the past inflation surge, and were now the main determinant of inflation persistence",
+    "the return of headline inflation to the 2% target had been pushed out to the final quarter of 2025",
+    "a restrictive monetary stance would still need to be maintained"
+  ],
+  "dovish_phrases": [
+    "it was now appropriate to moderate the degree of monetary policy restriction",
+    "increased confidence that inflation was converging to target in a timely and sustained manner",
+    "headline inflation had halved since the time of the last hike, from 5.2% to 2.6%",
+    "Most measures of underlying inflation had eased further",
+    "the overall disinflation process had been proceeding well, with substantial progress made since the Governing Council last raised interest rates in September 2023"
+  ],
+  "summary": "The Governing Council cut rates by 25 basis points with one dissent, citing increased confidence in disinflation despite upward revisions to inflation projections and sticky services inflation, while maintaining that policy would remain restrictive and follow a data-dependent meeting-by-meeting approach.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-17T21:07:22",
+  "source_file": "ECB_2024-06-06.txt",
+  "char_count": 63844
+}

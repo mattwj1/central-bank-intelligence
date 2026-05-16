@@ -1,0 +1,25 @@
+{
+  "bank": "FED",
+  "date": "2022-06-15",
+  "score": 82,
+  "stance": "extremely hawkish",
+  "hawkish_phrases": [
+    "Almost all participants agreed that it was appropriate to raise the target range for the federal funds rate 75 basis points at this meeting",
+    "Participants concurred that the economic outlook warranted moving to a restrictive stance of policy, and they recognized the possibility that an even more restrictive stance could be appropriate if elevated inflation pressures were to persist",
+    "The Committee is strongly committed to returning inflation to its 2 percent objective",
+    "Many participants judged that a significant risk now facing the Committee was that elevated inflation could become entrenched if the public began to question the resolve of the Committee",
+    "Participants judged that an increase of 50 or 75 basis points would likely be appropriate at the next meeting"
+  ],
+  "dovish_phrases": [
+    "Risks to the outlook for economic growth were skewed to the downside",
+    "Most participants assessed that the risks to the outlook for economic growth were skewed to the downside",
+    "They saw an appropriate firming of monetary policy and associated tighter financial conditions as playing a central role in helping address this imbalance",
+    "Participants recognized that policy firming could slow the pace of economic growth for a time",
+    "Expected moderation in labor demand relative to supply might primarily affect vacancies and have a less significant effect on the unemployment rate"
+  ],
+  "summary": "The FOMC raised the federal funds rate by 75 basis points to 1.5-1.75 percent with one dissent (George preferring 50bp), signaling that ongoing increases and a move to restrictive policy would be appropriate to combat elevated inflation, with further 50 or 75bp increases anticipated at the next meeting.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:59:58",
+  "source_file": "FED_2022-06-15.txt",
+  "char_count": 53137
+}

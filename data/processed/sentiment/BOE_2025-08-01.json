@@ -1,0 +1,25 @@
+{
+  "bank": "BOE",
+  "date": "2025-08-01",
+  "score": 38,
+  "stance": "dovish",
+  "hawkish_phrases": [
+    "upside risks around medium-term inflationary pressures have moved slightly higher since May",
+    "risk that this temporary increase in inflation could put additional upward pressure on the wage and price-setting process",
+    "the disinflationary process had slowed and the risk of inflation expectations feeding through to second-round effects had risen",
+    "a more prolonged period of policy restrictiveness was likely to be warranted",
+    "Services consumer price inflation has been broadly flat over recent months"
+  ],
+  "dovish_phrases": [
+    "A margin of slack is judged to have emerged in the economy",
+    "The labour market had slack and was deteriorating further",
+    "Underlying UK GDP growth has remained subdued",
+    "downside risks in coming years, namely: inflation below forecast, and activity weak or an increased risk of recession",
+    "Weak underlying employment growth in recent quarters"
+  ],
+  "summary": "The MPC voted 5-4 to cut Bank Rate by 25bp to 4%, with one dissenter preferring a 50bp cut and four preferring to hold, reflecting substantial hawkish dissent concerned about elevated inflation risks and slowing disinflation despite emerging slack in the economy.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-14T23:41:17",
+  "source_file": "BOE_2025-08-01.txt",
+  "char_count": 16648
+}

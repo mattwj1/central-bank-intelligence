@@ -1,0 +1,25 @@
+{
+  "bank": "BOE",
+  "date": "2025-09-01",
+  "score": 68,
+  "stance": "hawkish",
+  "hawkish_phrases": [
+    "upside risks around medium-term inflationary pressures remain prominent in the Committee's assessment of the outlook",
+    "The Committee remains alert to the risk that this temporary increase in inflation could put additional upward pressure on the wage and price-setting process",
+    "A gradual and careful approach to the further withdrawal of monetary policy restraint remains appropriate",
+    "The restrictiveness of monetary policy has fallen as Bank Rate has been reduced",
+    "Pay growth remains elevated"
+  ],
+  "dovish_phrases": [
+    "Two members voted to reduce Bank Rate by 0.25 percentage points, to 3.75%",
+    "Underlying UK GDP growth has remained subdued",
+    "slack was continuing to build slowly in the labour market",
+    "Downside domestic and geopolitical risks around economic activity remain",
+    "a less restrictive policy path was warranted to insure against an increased risk of recession"
+  ],
+  "summary": "The MPC voted 7-2 to hold Bank Rate at 4%, with two members dissenting for a 25bp cut, maintaining a gradual approach to policy restraint with prominent upside inflation risks dominating despite subdued growth and building labour market slack.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-14T23:41:28",
+  "source_file": "BOE_2025-09-01.txt",
+  "char_count": 28457
+}

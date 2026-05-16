@@ -1,0 +1,25 @@
+{
+  "bank": "BOE",
+  "date": "2018-09-01",
+  "score": 68,
+  "stance": "hawkish",
+  "hawkish_phrases": [
+    "ongoing tightening of monetary policy over the forecast period would be appropriate",
+    "a small margin of excess demand was therefore projected to emerge by late 2019 and build thereafter",
+    "The UK labour market has continued to tighten, with the unemployment rate falling to 4.0%",
+    "Regular pay growth has risen further to around 3% on a year earlier",
+    "CPI inflation was 2.5% in July"
+  ],
+  "dovish_phrases": [
+    "Any future increases in Bank Rate are likely to be at a gradual pace and to a limited extent",
+    "recent developments are likely to have increased downside risks around global growth",
+    "indicators of growth have continued to soften and financial conditions have tightened further",
+    "could have a somewhat more negative impact on global growth",
+    "indications, most prominently in financial markets, of greater uncertainty"
+  ],
+  "summary": "The MPC voted unanimously to hold Bank Rate at 0.75%, with guidance that ongoing tightening would be appropriate to return inflation sustainably to target, though future increases would be gradual and limited.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:27:08",
+  "source_file": "BOE_2018-09-01.txt",
+  "char_count": 5036
+}

@@ -1,0 +1,25 @@
+{
+  "bank": "FED",
+  "date": "2022-09-21",
+  "score": 82,
+  "stance": "extremely hawkish",
+  "hawkish_phrases": [
+    "inflation remained unacceptably high and well above the Committee's longer-run goal of 2 percent",
+    "Many participants noted that...they had raised their assessment of the path of the federal funds rate that would likely be needed",
+    "the cost of taking too little action to bring down inflation likely outweighed the cost of taking too much action",
+    "once the policy rate had reached a sufficiently restrictive level, it likely would be appropriate to maintain that level for some time",
+    "Several participants underlined the need to maintain a restrictive stance for as long as necessary"
+  ],
+  "dovish_phrases": [
+    "recent indicators had pointed to modest growth in spending and production",
+    "Several participants observed that as policy moved into restrictive territory, risks would become more two-sided",
+    "A few participants noted...the downside risk that the cumulative restraint in aggregate demand would exceed what was required",
+    "it would become appropriate at some point to slow the pace of policy rate increases",
+    "Some participants noted that spending appeared to have held up relatively well"
+  ],
+  "summary": "The FOMC unanimously raised rates by 75 basis points to 3-3.25%, signaled ongoing increases would be appropriate with many participants raising their expected path for rates, emphasized maintaining restrictive policy for some time, and stressed that the cost of doing too little to combat unacceptably high inflation outweighed doing too much.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T16:00:47",
+  "source_file": "FED_2022-09-21.txt",
+  "char_count": 52270
+}

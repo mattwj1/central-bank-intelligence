@@ -1,0 +1,25 @@
+{
+  "bank": "FED",
+  "date": "2016-09-21",
+  "score": 58,
+  "stance": "neutral",
+  "hawkish_phrases": [
+    "the case for an increase in the federal funds rate has strengthened",
+    "postponing policy firming for too long could push the unemployment rate markedly below its longer-run normal rate",
+    "three members preferred to raise the target range for the federal funds rate by 25 basis points at this meeting",
+    "could require the Committee to raise policy interest rates faster and more aggressively later on",
+    "waiting too long to resume the process of policy firming could pose risks to the economic expansion"
+  ],
+  "dovish_phrases": [
+    "with some slack likely remaining in the labor market and inflation continuing to run below the Committee's objective",
+    "decided, for the time being, to wait for further evidence of continued progress toward its objectives",
+    "inflation has continued to run below the Committee's 2 percent longer-run objective",
+    "few signs of emerging inflationary pressures or that progress on inflation had been slow",
+    "a cautious approach to removing accommodation was warranted given the proximity of policy rates to the effective lower bound"
+  ],
+  "summary": "The Committee voted 7-3 to hold rates at 1/4 to 1/2 percent while stating that the case for a rate increase had strengthened but decided to wait for further evidence, with three dissents from George, Mester, and Rosengren preferring an immediate 25bp hike.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:40:22",
+  "source_file": "FED_2016-09-21.txt",
+  "char_count": 71562
+}

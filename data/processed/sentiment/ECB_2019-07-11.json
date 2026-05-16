@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2019-07-11",
+  "score": 28,
+  "stance": "dovish",
+  "hawkish_phrases": [
+    "labour cost pressures continued to strengthen and broaden amid high levels of capacity utilisation and tightening labour markets",
+    "underlying inflation was expected to increase over the medium term",
+    "further employment gains and increasing wages continued to underpin the resilience of the euro area economy",
+    "the point was made that such findings warranted further analysis and that this assessment might not hold for lower policy rates",
+    "the risk of recession was low"
+  ],
+  "dovish_phrases": [
+    "the balance of risks remained tilted to the downside",
+    "inflation was still projected to reach only 1.6% in 2021, which was seen to remain some distance away from the Governing Council's inflation aim",
+    "measures of underlying inflation remained generally muted",
+    "stand ready to ease the monetary policy stance further by adjusting all of its instruments",
+    "market-based measures of inflation expectations had further declined"
+  ],
+  "summary": "The Governing Council held rates unchanged at 0.00% (MRO), 0.25% (lending), and -0.40% (deposit) with unanimous support, but extended forward guidance to keep rates at present levels at least through the first half of 2020 and set favourable TLTRO III pricing, signaling clear easing bias as inflation remained projected to reach only 1.6% in 2021 with downside risks prevailing.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-17T20:50:25",
+  "source_file": "ECB_2019-07-11.txt",
+  "char_count": 36586
+}

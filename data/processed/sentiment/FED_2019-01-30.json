@@ -1,0 +1,25 @@
+{
+  "bank": "FED",
+  "date": "2019-01-30",
+  "score": 38,
+  "stance": "dovish",
+  "hawkish_phrases": [
+    "labor market conditions continued to strengthen",
+    "economic activity had been rising at a solid rate",
+    "inflation had remained near 2 percent",
+    "tightening in national or District labor market conditions",
+    "sustained expansion of economic activity, strong labor market conditions, and inflation near the Committee's symmetric 2 percent objective as the most likely outcomes"
+  ],
+  "dovish_phrases": [
+    "be patient as it determines what future adjustments to the target range for the federal funds rate may be appropriate",
+    "some risks to the downside had increased",
+    "financial conditions had tightened since September",
+    "global economic and financial developments and muted inflation pressures",
+    "the economic outlook had become more uncertain"
+  ],
+  "summary": "The Committee unanimously voted to hold rates at 2.25-2.5% and replaced forward guidance indicating 'further gradual increases' with language emphasizing patience given global developments and muted inflation pressures, signaling a clear shift toward a more cautious stance.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:47:41",
+  "source_file": "FED_2019-01-30.txt",
+  "char_count": 94360
+}

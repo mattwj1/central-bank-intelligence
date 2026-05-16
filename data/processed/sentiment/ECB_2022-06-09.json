@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2022-06-09",
+  "score": 73,
+  "stance": "hawkish",
+  "hawkish_phrases": [
+    "inflation would remain undesirably elevated for still some time",
+    "core inflation was projected to remain above 2% over the entire horizon",
+    "risks to inflation projections were primarily on the upside",
+    "a larger increment would be appropriate at the September meeting if the medium-term outlook were to persist or deteriorate",
+    "increasing risks of higher inflation becoming more entrenched and persistent"
+  ],
+  "dovish_phrases": [
+    "the war continued to be a significant downside risk to growth",
+    "supply shocks suggested a lengthening, rather than a shortening of the relevant policy horizon",
+    "no second-round effects or wage-price spirals could be observed",
+    "most measures of longer-term inflation expectations appeared to be still broadly anchored",
+    "medium-term orientation of the ECB's monetary policy strategy and with the prevailing uncertainty on the growth outlook"
+  ],
+  "summary": "The Governing Council unanimously decided to end net asset purchases as of 1 July and announced its intention to raise rates by 25 basis points in July, signaling a larger increment would be appropriate in September if the medium-term inflation outlook persists or deteriorates, with inflation projected at 6.8% in 2022, 3.5% in 2023, and 2.1% in 2024, with risks tilted to the upside.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-17T21:00:05",
+  "source_file": "ECB_2022-06-09.txt",
+  "char_count": 76493
+}

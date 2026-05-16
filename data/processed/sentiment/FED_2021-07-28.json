@@ -1,0 +1,25 @@
+{
+  "bank": "FED",
+  "date": "2021-07-28",
+  "score": 58,
+  "stance": "neutral",
+  "hawkish_phrases": [
+    "Most participants remarked that this standard had been achieved with respect to the price-stability goal",
+    "most participants noted that, provided that the economy were to evolve broadly as they anticipated, they judged that it could be appropriate to start reducing the pace of asset purchases this year",
+    "Various participants commented that economic and financial conditions would likely warrant a reduction in coming months",
+    "Many participants saw potential benefits in a pace of tapering that would end net asset purchases before the conditions currently specified in the Committee's forward guidance on the federal funds rate were likely to be met",
+    "Some participants suggested that it would be prudent for the Committee to prepare for starting to reduce its pace of asset purchases relatively soon, in light of the risk that the recent high inflation readings could prove to be more persistent"
+  ],
+  "dovish_phrases": [
+    "Most participants judged that the Committee's standard of 'substantial further progress' toward the maximum-employment goal had not yet been met",
+    "Several participants indicated, however, that a reduction in the pace of asset purchases was more likely to become appropriate early next year because they saw prevailing conditions in the labor market as not being close to meeting the Committee's 'substantial further progress' standard",
+    "Several participants emphasized that there was considerable uncertainty about the likely resolution of the labor market shortages and supply bottlenecks",
+    "a few other participants suggested that preparations for reducing the pace of asset purchases should encompass the possibility that the reductions might not occur for some time",
+    "Several participants emphasized that an announcement of a reduction in the Committee's pace of asset purchases should not be interpreted as the beginning of a predetermined course for raising the federal funds rate"
+  ],
+  "summary": "The Committee unanimously held rates at 0-0.25% and maintained asset purchases at $80 billion Treasuries and $40 billion MBS per month, with most participants judging that tapering could be appropriate later in 2021 given progress toward price stability, though the employment goal had not yet been met.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:57:00",
+  "source_file": "FED_2021-07-28.txt",
+  "char_count": 70455
+}

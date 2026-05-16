@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2023-12-14",
+  "score": 58,
+  "stance": "neutral",
+  "hawkish_phrases": [
+    "maintaining a sufficiently restrictive stance",
+    "domestic inflation remained elevated",
+    "wage growth was still strong...unit labour costs had been growing at a record pace of 6.6%",
+    "too early to be confident that the task had been accomplished",
+    "services inflation remained strong...momentum in services inflation, while declining, remained strong"
+  ],
+  "dovish_phrases": [
+    "headline inflation falling to 2.4%, from 2.9% in October",
+    "increased confidence that inflation would be brought back towards the 2% target in 2025",
+    "all three elements of the reaction function were moving in the right direction",
+    "risks to economic growth remained tilted to the downside",
+    "measures of inflation momentum...had essentially been back at target in November"
+  ],
+  "summary": "The Governing Council unanimously held all three key interest rates unchanged, maintaining a sufficiently restrictive stance with increased confidence that inflation would return to target in 2025, while commencing a measured tapering of PEPP reinvestments starting mid-2024.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-17T21:05:40",
+  "source_file": "ECB_2023-12-14.txt",
+  "char_count": 65449
+}

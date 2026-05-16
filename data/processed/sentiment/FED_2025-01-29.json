@@ -1,0 +1,25 @@
+{
+  "bank": "FED",
+  "date": "2025-01-29",
+  "score": 62,
+  "stance": "hawkish",
+  "hawkish_phrases": [
+    "inflation remained somewhat elevated",
+    "many participants emphasized that additional evidence of continued disinflation would be needed",
+    "a majority of participants observed that the current high degree of uncertainty made it appropriate for the Committee to take a careful approach in considering additional adjustments",
+    "Many participants noted that the Committee could hold the policy rate at a restrictive level if the economy remained strong and inflation remained elevated",
+    "participants generally pointed to upside risks to the inflation outlook"
+  ],
+  "dovish_phrases": [
+    "several participants noted that cumulative inflation over the past 3, 6, or 9 months showed greater progress than 12-month measures",
+    "month-over-month inflation readings in November and December had exhibited notable progress",
+    "Participants anticipated that under appropriate monetary policy, conditions in the labor market would likely remain solid",
+    "policy could be eased if labor market conditions deteriorated, economic activity faltered, or inflation returned to 2 percent more quickly than anticipated",
+    "A few participants noted that the current target range for the federal funds rate may not be far above its neutral level"
+  ],
+  "summary": "The Committee unanimously held rates at 4.25-4.50%, emphasizing that inflation remains somewhat elevated, indicating they would need to see further progress on inflation before making additional adjustments, with the vast majority viewing risks as roughly balanced but many noting upside risks to inflation and reduced downside risks to employment justify a careful approach to further rate changes.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T16:07:49",
+  "source_file": "FED_2025-01-29.txt",
+  "char_count": 55027
+}

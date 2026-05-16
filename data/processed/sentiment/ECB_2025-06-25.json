@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2025-06-25",
+  "score": 50,
+  "stance": "neutral",
+  "hawkish_phrases": [
+    "appropriately forceful or persistent monetary policy action in response to large, sustained deviations of inflation from the target in either direction",
+    "the recent high-inflation period had shown that a forceful reaction was also needed when inflation rose above target",
+    "the Governing Council had been forced to raise rates very sharply to compensate for a delay in starting the tightening cycle",
+    "it would have been desirable to withdraw accommodation earlier and raise rates more gradually",
+    "the bar for large-scale QE needed to be higher in future"
+  ],
+  "dovish_phrases": [
+    "the economy had entered a period where the risks to medium-term inflation are two-sided",
+    "uncertainty that was both of a different nature and greater than before",
+    "importance of avoiding deviations becoming entrenched through de-anchored inflation expectations in either direction",
+    "the existence of an effective lower bound on policy rates",
+    "ensuring a soft landing"
+  ],
+  "summary": "The Governing Council unanimously approved an updated monetary policy strategy statement with no policy decision taken, emphasizing a genuinely two-sided approach to inflation risks in an environment of high uncertainty, with balanced language regarding forceful responses to deviations in either direction.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-17T21:10:56",
+  "source_file": "ECB_2025-06-25.txt",
+  "char_count": 18709
+}

@@ -1,0 +1,25 @@
+{
+  "bank": "FED",
+  "date": "2021-11-03",
+  "score": 43,
+  "stance": "neutral",
+  "hawkish_phrases": [
+    "Various participants noted that the Committee should be prepared to adjust the pace of asset purchases and raise the target range for the federal funds rate sooner than participants currently anticipated if inflation continued to run higher than levels consistent with the Committee's objectives.",
+    "Some participants suggested that reducing the pace of net asset purchases by more than $15 billion each month could be warranted so that the Committee would be in a better position to make adjustments to the target range for the federal funds rate, particularly in light of inflation pressures.",
+    "Many participants pointed to considerations that might suggest that elevated inflation could prove more persistent.",
+    "A number of participants discussed the risk that, in light of recent elevated levels of inflation, the public's longer-term expectations of inflation might increase to a level above that consistent with the Committee's longer-run inflation objective.",
+    "Several participants cited upside risks to inflation, including those associated with strong demand for goods and a tight labor market."
+  ],
+  "dovish_phrases": [
+    "The Committee decided to keep the target range for the federal funds rate at 0 to 1/4 percent and expects it will be appropriate to maintain this target range until labor market conditions have reached levels consistent with the Committee's assessments of maximum employment.",
+    "Participants noted that beginning to scale back the pace of net asset purchases was not intended to convey any direct signal regarding adjustments to the target range for the federal funds rate.",
+    "The Federal Reserve's ongoing purchases and holdings of securities will continue to foster smooth market functioning and accommodative financial conditions.",
+    "A number of participants stressed that a patient attitude toward incoming data remained appropriate to allow for careful evaluation of evolving supply chain developments.",
+    "Some other participants, however, remarked that although inflationary pressures were lasting longer than anticipated, those pressures continued to reflect the same pandemic-related imbalances and would likely abate when supply constraints eased."
+  ],
+  "summary": "The Committee unanimously decided to maintain the federal funds rate at 0-0.25% while beginning tapering ($10B Treasury, $5B MBS monthly reductions), with emphasis on maintaining flexibility but inflation concerns balanced by expectations of transitory pressures.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:57:51",
+  "source_file": "FED_2021-11-03.txt",
+  "char_count": 55729
+}

@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2015-08-13",
+  "score": 42,
+  "stance": "neutral",
+  "hawkish_phrases": [
+    "risks and vulnerabilities remained, in particular related to geopolitical factors",
+    "banks' lower risk tolerance appeared to work somewhat against further improvements in credit provision",
+    "recent developments in fixed income markets had prompted a slight deterioration in the conditions of debt financing",
+    "balance of risks to the economic outlook for the euro area was seen to remain on the downside",
+    "longer-term inflation expectations...were still \u2013 across most horizons \u2013 well below past levels"
+  ],
+  "dovish_phrases": [
+    "stand ready to use all available tools within its mandate, if necessary",
+    "respond to an unwarranted tightening of the monetary policy stance or a material change in the medium-term outlook for price stability",
+    "the recovery in the euro area was expected to remain moderate and gradual, which was considered disappointing",
+    "consumer price inflation had remained unusually low",
+    "credit growth gradually improving further, although it remained subdued overall"
+  ],
+  "summary": "The Governing Council unanimously held rates unchanged (main refinancing at 0.05%, deposit at -0.20%) and maintained its \u20ac60 billion per month asset purchase programme through September 2016, signaling readiness to use all tools if unwarranted tightening or material change in the inflation outlook occurs, while viewing the recovery as proceeding as expected but with downside risks remaining.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-17T20:40:56",
+  "source_file": "ECB_2015-08-13.txt",
+  "char_count": 47559
+}

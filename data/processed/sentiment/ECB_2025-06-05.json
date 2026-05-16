@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2025-06-05",
+  "score": 28,
+  "stance": "dovish",
+  "hawkish_phrases": [
+    "a few members saw a case for keeping interest rates at their current levels",
+    "domestic inflation remained high and there might be new upward pressure on underlying inflation over the medium term \u2013 from both tariffs and fiscal policy",
+    "services inflation remained above levels compatible with a sustained return to the inflation target",
+    "one member, who upheld a dissenting view",
+    "firms' profit margins had been squeezed for some time, which increased the likelihood of cost-push shocks being passed through to prices"
+  ],
+  "dovish_phrases": [
+    "inflation was currently at around the 2% medium-term target",
+    "inflation projected to fall below the target in 2026 before returning to target in 2027",
+    "the risk of undershooting the inflation target for a prolonged period",
+    "lower energy prices and a stronger euro would continue to put downward pressure on inflation in the near term",
+    "most measures of underlying inflation suggested that inflation would settle at around the 2% medium-term target on a sustained basis"
+  ],
+  "summary": "The Governing Council cut rates by 25 basis points to 2.0% with almost all members supporting and one dissenting, as inflation stood at target but was projected to undershoot temporarily in 2026 before returning to 2% in 2027.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-17T21:10:48",
+  "source_file": "ECB_2025-06-05.txt",
+  "char_count": 68570
+}

@@ -1,0 +1,25 @@
+{
+  "bank": "FED",
+  "date": "2021-04-28",
+  "score": 33,
+  "stance": "dovish",
+  "hawkish_phrases": [
+    "A number of participants suggested that if the economy continued to make rapid progress toward the Committee's goals, it might be appropriate at some point in upcoming meetings to begin discussing a plan for adjusting the pace of asset purchases",
+    "Some participants mentioned upside risks around the inflation outlook that could arise if temporary factors influencing inflation turned out to be more persistent than expected",
+    "A couple of participants commented on the risks of inflation pressures building up to unwelcome levels before they become sufficiently evident to induce a policy reaction",
+    "Several participants noted that risk appetite in capital markets was elevated, as equity valuations had risen further, IPO activity remained high, and risk spreads on corporate bonds were at the bottom of their historical distribution",
+    "A number of participants remarked that supply chain bottlenecks and input shortages may not be resolved quickly and, if so, these factors could put upward pressure on prices beyond this year"
+  ],
+  "dovish_phrases": [
+    "The economy remained far from the Committee's maximum-employment and price-stability goals",
+    "Payroll employment was 8.4 million jobs below its pre-pandemic level",
+    "It would likely be some time until the economy had made substantial further progress toward the Committee's maximum-employment and price-stability goals",
+    "The Committee expects to maintain an accommodative stance of monetary policy until these outcomes are achieved",
+    "After the transitory effects of these factors fade, participants generally expected measured inflation to ease"
+  ],
+  "summary": "The Committee unanimously held rates at 0-0.25% and maintained asset purchases at $80 billion Treasury and $40 billion MBS per month, with a clear dovish bias acknowledging the economy remained far from goals despite strengthening activity, while noting inflation increases were largely transitory.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:56:07",
+  "source_file": "FED_2021-04-28.txt",
+  "char_count": 58933
+}

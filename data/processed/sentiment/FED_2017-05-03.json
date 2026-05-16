@@ -1,0 +1,25 @@
+{
+  "bank": "FED",
+  "date": "2017-05-03",
+  "score": 62,
+  "stance": "hawkish",
+  "hawkish_phrases": [
+    "it would soon be appropriate for the Committee to take another step in removing some policy accommodation",
+    "the Committee might need to consider a somewhat more rapid removal of monetary accommodation",
+    "the unemployment rate had reached or fallen below levels that participants judged likely to be normal over the longer run",
+    "a couple of participants expressed concern that a substantial undershooting of the longer-run normal rate of unemployment could pose an appreciable upside risk to inflation",
+    "Nearly all policymakers indicated that as long as the economy and the path of the federal funds rate evolved as currently expected, it likely would be appropriate to begin reducing the Federal Reserve's securities holdings this year"
+  ],
+  "dovish_phrases": [
+    "Members generally judged that it would be prudent to await additional evidence indicating that the recent slowing in the pace of economic activity had been transitory",
+    "readings on headline and core PCE price inflation in March had come in lower than expected",
+    "several others continued to see downside risks to the inflation outlook",
+    "the public's longer-term inflation expectations may have fallen somewhat",
+    "the Committee viewed the slowing in growth during the first quarter as likely to be transitory"
+  ],
+  "summary": "The FOMC unanimously held the target range at 3/4 to 1 percent, with most participants judging it would soon be appropriate to resume removing accommodation and nearly all indicating balance sheet reduction would likely begin this year if the economy evolved as expected.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:42:22",
+  "source_file": "FED_2017-05-03.txt",
+  "char_count": 56631
+}

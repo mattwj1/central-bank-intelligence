@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2017-11-23",
+  "score": 38,
+  "stance": "dovish",
+  "hawkish_phrases": [
+    "growing confidence in the gradual convergence of inflation towards the Governing Council's aim",
+    "increasingly robust and broad-based economic expansion",
+    "upside risks to activity associated with the strong cyclical momentum",
+    "robust growth momentum, very favourable financial market and borrowing conditions, dissipated deflation risks",
+    "some further assessment of the CSPP's impact on market functioning and pricing should be carried out"
+  ],
+  "dovish_phrases": [
+    "inflation developments still remained subdued",
+    "measures of underlying inflation had yet to show more convincing signs of a sustained upward trend",
+    "convergence of inflation towards the Governing Council's aim remained conditional on a substantial degree of monetary policy accommodation",
+    "ample degree of monetary stimulus was still needed",
+    "extended period of time after the end of the net asset purchases"
+  ],
+  "summary": "The Governing Council decided to reduce monthly asset purchases from \u20ac60 billion to \u20ac30 billion starting January 2018, extending the programme for nine months until September 2018 or beyond if necessary, maintaining all policy rates unchanged and forward guidance on rates, reflecting growing confidence in the economic expansion but acknowledging that inflation dynamics remained subdued and required substantial continued accommodation.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-17T20:46:55",
+  "source_file": "ECB_2017-11-23.txt",
+  "char_count": 51053
+}

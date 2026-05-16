@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2019-02-21",
+  "score": 38,
+  "stance": "dovish",
+  "hawkish_phrases": [
+    "domestic cost pressures had increased",
+    "labour cost pressures were continuing to strengthen and broaden amid high levels of capacity utilisation and tightening labour markets",
+    "underlying inflation was expected to increase over the medium term",
+    "mark-ups could not be squeezed indefinitely",
+    "significant monetary policy stimulus remained essential"
+  ],
+  "dovish_phrases": [
+    "incoming data had continued to be weaker than expected",
+    "the risks surrounding the euro area growth outlook had moved to the downside",
+    "measures of underlying inflation remained muted",
+    "the near-term growth momentum was likely to be weaker than previously anticipated",
+    "expectations of a first ECB deposit facility rate increase had shifted from September 2019 to April 2020"
+  ],
+  "summary": "The ECB held rates unchanged with unanimous agreement, reconfirmed forward guidance expecting rates to remain at present levels at least through summer 2019, but acknowledged weaker-than-expected incoming data and explicitly stated that risks to the growth outlook had moved to the downside, creating a mildly dovish bias despite confidence in medium-term inflation convergence.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-17T20:49:39",
+  "source_file": "ECB_2019-02-21.txt",
+  "char_count": 34890
+}

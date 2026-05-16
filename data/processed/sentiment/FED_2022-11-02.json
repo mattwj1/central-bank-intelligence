@@ -1,0 +1,25 @@
+{
+  "bank": "FED",
+  "date": "2022-11-02",
+  "score": 78,
+  "stance": "hawkish",
+  "hawkish_phrases": [
+    "inflation remained well above the Committee's longer-run goal of 2 percent and the recent data on inflation provided very few signs that inflation pressures were abating",
+    "ongoing increases in the target range for the federal funds rate would be appropriate in order to attain a stance of monetary policy sufficiently restrictive to return inflation to 2 percent over time",
+    "their assessment of the ultimate level of the federal funds rate that would be necessary to achieve the Committee's goals was somewhat higher than they had previously expected",
+    "purposefully moving to a more restrictive policy stance was consistent with risk-management considerations",
+    "The Committee anticipates that ongoing increases in the target range will be appropriate in order to attain a stance of monetary policy that is sufficiently restrictive"
+  ],
+  "dovish_phrases": [
+    "a substantial majority of participants judged that a slowing in the pace of increase would likely soon be appropriate",
+    "A slower pace in these circumstances would better allow the Committee to assess progress toward its goals",
+    "Some participants observed that there had been an increase in the risk that the cumulative policy restraint would exceed what was required to bring inflation back to 2 percent",
+    "Several participants commented that continued rapid policy tightening increased the risk of instability or dislocations in the financial system",
+    "In determining the pace of future increases in the target range, the Committee will take into account the cumulative tightening of monetary policy, the lags with which monetary policy affects economic activity and inflation"
+  ],
+  "summary": "The FOMC unanimously raised rates by 75 basis points to 3.75-4.00%, signaling ongoing increases would be appropriate to achieve a sufficiently restrictive stance, though a substantial majority judged slowing the pace of increases would likely soon be appropriate given cumulative tightening and policy lags.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T16:01:25",
+  "source_file": "FED_2022-11-02.txt",
+  "char_count": 54218
+}

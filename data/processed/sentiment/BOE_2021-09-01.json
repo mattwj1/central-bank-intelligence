@@ -1,0 +1,25 @@
+{
+  "bank": "BOE",
+  "date": "2021-09-01",
+  "score": 62,
+  "stance": "hawkish",
+  "hawkish_phrases": [
+    "some modest tightening of monetary policy over the forecast period was likely to be necessary",
+    "Some developments during the intervening period appear to have strengthened that case",
+    "CPI inflation was projected to rise temporarily in the near term, to 4% in 2021 Q4",
+    "inflationary pressures were likely to persist",
+    "inflation was likely to remain above the 2% target in the medium term"
+  ],
+  "dovish_phrases": [
+    "there was a high option value in waiting for that additional information before deciding if and when a tightening in monetary policy might be warranted",
+    "it remained likely that inflation would fall back in the medium term",
+    "GDP remained well below its medium-term potential level",
+    "current elevated global cost pressures will prove transitory",
+    "uncertainty around the outlook for the labour market had increased"
+  ],
+  "summary": "The MPC voted unanimously to hold Bank Rate at 0.1%, but voted 7-2 to continue asset purchases with two members preferring to stop the programme early, citing persistent inflation risks and tightening labour markets, while the majority judged that considerable labour market uncertainty warranted waiting despite strengthened signals that modest tightening would likely be necessary.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:30:13",
+  "source_file": "BOE_2021-09-01.txt",
+  "char_count": 56292
+}

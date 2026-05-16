@@ -1,0 +1,25 @@
+{
+  "bank": "FED",
+  "date": "2023-05-03",
+  "score": 72,
+  "stance": "hawkish",
+  "hawkish_phrases": [
+    "Inflation remains elevated",
+    "The Committee remains highly attentive to inflation risks",
+    "additional policy firming would likely be warranted at future meetings",
+    "upside risks to the inflation outlook remained a key factor shaping the policy outlook",
+    "declines in inflation, particularly for measures of core inflation, had been slower than they had expected"
+  ],
+  "dovish_phrases": [
+    "Tighter credit conditions for households and businesses are likely to weigh on economic activity, hiring, and inflation",
+    "the extent to which additional increases in the target range may be appropriate after this meeting had become less certain",
+    "Several participants noted that if the economy evolved along the lines of their current outlooks, then further policy firming after this meeting may not be necessary",
+    "downside risks to growth and upside risks to unemployment had increased",
+    "the staff forecast prepared for the May FOMC meeting continued to assume...would lead to a mild recession starting later this year"
+  ],
+  "summary": "The Committee unanimously voted to raise the target range by 25 basis points to 5.00-5.25 percent but signaled heightened uncertainty about future rate increases, expressing that additional tightening 'may be appropriate' (softer language than prior meetings) while remaining highly attentive to inflation risks.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T16:02:55",
+  "source_file": "FED_2023-05-03.txt",
+  "char_count": 55069
+}

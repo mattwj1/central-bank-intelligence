@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2018-11-22",
+  "score": 62,
+  "stance": "hawkish",
+  "hawkish_phrases": [
+    "subject to incoming data confirming the ECB's medium-term inflation outlook \u2013 net asset purchases would be discontinued at the end of December 2018",
+    "underlying strength of the euro area economy and increased evidence of building wage pressures continued to support confidence that the sustained convergence of inflation to the Governing Council's aim would proceed",
+    "domestic cost pressures were strengthening amid high levels of capacity utilisation and tightening labour markets",
+    "wage growth had continued to pick up in line with expectations, reflecting the tightening labour market and the reduction of slack",
+    "euro area wage growth had accelerated to 2.3% in the second quarter, from 1.9% in the previous quarter"
+  ],
+  "dovish_phrases": [
+    "Significant monetary policy stimulus was still needed to support the further build-up of domestic price pressures",
+    "measures of underlying inflation remained generally muted",
+    "HICP inflation excluding food and energy had remained stable, at 0.9%",
+    "incoming data, while somewhat weaker than expected",
+    "patience, prudence and persistence with regard to monetary policy remained warranted"
+  ],
+  "summary": "The Governing Council held all three policy rates unchanged with unanimous agreement to end net asset purchases in December 2018 subject to data confirmation, maintaining a cautiously hawkish bias as they affirmed the wind-down of QE despite weaker incoming data and muted underlying inflation, supported by confidence in building wage pressures and the ongoing economic expansion.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-17T20:48:59",
+  "source_file": "ECB_2018-11-22.txt",
+  "char_count": 33394
+}

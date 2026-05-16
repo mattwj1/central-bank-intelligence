@@ -1,0 +1,25 @@
+{
+  "bank": "BOE",
+  "date": "2022-03-01",
+  "score": 73,
+  "stance": "hawkish",
+  "hawkish_phrases": [
+    "some further modest tightening in monetary policy may be appropriate in the coming months",
+    "Given the current tightness of the labour market, continuing signs of robust domestic cost and price pressures, and the risk that those pressures will persist",
+    "inflation is expected to increase further in coming months, to around 8% in 2022 Q2",
+    "Medium-term UK inflation compensation measures in financial markets had increased further above their averages of the past decade",
+    "risk that wages and prices would not be set in a manner consistent with inflation returning to the 2% target in the medium term"
+  ],
+  "dovish_phrases": [
+    "the very elevated levels of global energy and tradable goods prices...would necessarily weigh further on UK real aggregate income and spending. This is something monetary policy is unable to prevent",
+    "the impact of energy prices on real aggregate income was now likely to be materially larger than implied by the projections in the February Report, consistent with a weaker outlook for growth and employment",
+    "there were risks on both sides of that judgement depending on how medium-term prospects for inflation evolve",
+    "Consumer confidence had, however, fallen in response to the squeeze on real household disposable incomes",
+    "very material negative impacts of higher commodity prices on real household incomes and activity"
+  ],
+  "summary": "The MPC voted 8-1 to increase Bank Rate by 0.25 percentage points to 0.75%, with forward guidance indicating some further modest tightening may be appropriate in coming months given tight labour markets and inflation risks, despite recognizing significant drags on real incomes from energy price shocks.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:31:18",
+  "source_file": "BOE_2022-03-01.txt",
+  "char_count": 46173
+}

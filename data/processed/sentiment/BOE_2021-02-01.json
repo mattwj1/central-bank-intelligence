@@ -1,0 +1,24 @@
+{
+  "bank": "BOE",
+  "date": "2021-02-01",
+  "score": 28,
+  "stance": "dovish",
+  "hawkish_phrases": [
+    "CPI inflation is expected to rise quite sharply towards the 2% target in the spring",
+    "Spare capacity in the economy is eliminated as activity picks up during 2021",
+    "CPI inflation is projected to be close to 2% over the second and third years",
+    "Average Weekly Earnings growth has been notably stronger than expected"
+  ],
+  "dovish_phrases": [
+    "If the outlook for inflation weakens, the Committee stands ready to take whatever additional action is necessary",
+    "The Committee does not intend to tighten monetary policy at least until there is clear evidence that significant progress is being made in eliminating spare capacity",
+    "A further increase in unemployment is projected over the next few quarters",
+    "GDP is expected to fall by around 4% in 2021 Q1",
+    "UK GDP...to a level around 8% lower than in 2019 Q4"
+  ],
+  "summary": "The MPC voted unanimously to maintain Bank Rate at 0.1% and asset purchases at \u00a3895 billion, with clear forward guidance that it will not tighten policy until spare capacity is eliminated and the 2% inflation target is sustainably achieved, while standing ready to ease further if needed.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:29:27",
+  "source_file": "BOE_2021-02-01.txt",
+  "char_count": 5711
+}

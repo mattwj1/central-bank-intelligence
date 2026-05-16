@@ -1,0 +1,25 @@
+{
+  "bank": "FED",
+  "date": "2022-03-16",
+  "score": 78,
+  "stance": "hawkish",
+  "hawkish_phrases": [
+    "Many participants noted that\u2014with inflation well above the Committee's objective, inflationary risks to the upside, and the federal funds rate well below participants' estimates of its longer-run level\u2014they would have preferred a 50 basis point increase",
+    "Many participants noted that one or more 50 basis point increases in the target range could be appropriate at future meetings, particularly if inflation pressures remained elevated or intensified",
+    "participants judged that it would be appropriate to move the stance of monetary policy toward a neutral posture expeditiously",
+    "depending on economic and financial developments, a move to a tighter policy stance could be warranted",
+    "elevated inflation had continued to broaden from goods into services, especially rents, and into sectors that had not yet experienced large price increases"
+  ],
+  "dovish_phrases": [
+    "in light of greater near-term uncertainty associated with Russia's invasion of Ukraine, they judged that a 25 basis point increase would be appropriate at this meeting",
+    "the invasion and related events were likely to create additional upward pressure on inflation and weigh on economic activity",
+    "downside risks to the outlook, including risks associated with the Russian invasion, a broad tightening in global financial conditions",
+    "longer-term measures of inflation expectations from households, professional forecasters, and market participants still appeared to remain well anchored",
+    "the Committee would need to be prepared to adjust the stance of monetary policy in response to the evolving economic outlook"
+  ],
+  "summary": "The Committee raised the target range for the federal funds rate by 25 basis points to 1/4 to 1/2 percent with one dissent (Bullard preferring 50bp), signaled ongoing increases would be appropriate and expeditious movement toward neutral, and indicated balance sheet runoff would likely begin in May amid elevated inflation and tight labor markets.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:59:36",
+  "source_file": "FED_2022-03-16.txt",
+  "char_count": 57849
+}

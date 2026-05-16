@@ -1,0 +1,25 @@
+{
+  "bank": "FED",
+  "date": "2026-03-18",
+  "score": 58,
+  "stance": "neutral",
+  "hawkish_phrases": [
+    "the vast majority of participants noted that progress toward the Committee's 2 percent objective could be slower than previously expected and judged that the risk of inflation running persistently above the Committee's objective had increased",
+    "Some participants judged that there was a strong case for a two-sided description of the Committee's future interest rate decisions in the postmeeting statement, reflecting the possibility that upward adjustments to the target range for the federal funds rate could be appropriate if inflation were to remain at above-target levels",
+    "Many participants pointed to the risk of inflation remaining elevated for longer than expected amid a persistent increase in oil prices, which could call for rate increases",
+    "Some participants highlighted the possibility that, after several years of above-target inflation, longer-term inflation expectations could become more sensitive to energy price increases",
+    "the rate of increase in core goods prices remained well above the pace likely to be consistent with the sustainable achievement of the Committee's inflation objective"
+  ],
+  "dovish_phrases": [
+    "the vast majority of participants judged that risks to the employment side of the mandate were skewed to the downside",
+    "many participants cautioned that, in the current situation of low rates of net job creation, labor market conditions appeared vulnerable to adverse shocks",
+    "One participant preferred to lower the target range for the federal funds rate 25 basis points, expressing the concern that the current stance of policy remained restrictive and was contributing to weak labor demand",
+    "Many participants judged that, in time, it would likely become appropriate to lower the target range for the federal funds rate if inflation were to decline in line with their expectations",
+    "most participants raised the concern that a protracted conflict in the Middle East could lead to a further softening in labor market conditions, which could warrant additional rate cuts"
+  ],
+  "summary": "The Committee voted 11-1 to hold rates at 3.5-3.75%, with one dissent preferring a 25bp cut, amid elevated two-sided risks from Middle East conflict creating both upside inflation risks and downside employment risks with some members noting rate hikes could be appropriate if inflation persists.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-15T00:34:39",
+  "source_file": "FED_2026-03-18.txt",
+  "char_count": 40511
+}

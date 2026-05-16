@@ -1,0 +1,25 @@
+{
+  "bank": "BOE",
+  "date": "2017-05-01",
+  "score": 68,
+  "stance": "hawkish",
+  "hawkish_phrases": [
+    "monetary policy could need to be tightened by a somewhat greater extent over the forecast period",
+    "inflation is forecast to remain above the MPC's target throughout the forecast period",
+    "there are limits to the extent to which above-target inflation can be tolerated",
+    "In the final year of the forecast, however, the output gap closes and inflation rises slightly further above the target",
+    "Kristin Forbes considered it appropriate to increase Bank Rate by 25 basis points"
+  ],
+  "dovish_phrases": [
+    "Aggregate demand slowed markedly in 2017 Q1",
+    "consumption growth will be slower in the near term than previously anticipated",
+    "wage growth has been notably weaker than expected",
+    "Attempting to offset fully the effect of weaker sterling on inflation would be achievable only at the cost of higher unemployment",
+    "shorter-term UK interest rates fell"
+  ],
+  "summary": "The MPC voted 7-1 to hold Bank Rate at 0.25% with one dissenter (Forbes) voting for a 25bp hike, and provided explicit forward guidance that policy could need to be tightened by a somewhat greater extent than market expectations, signaling a clear hawkish bias despite the hold.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:25:49",
+  "source_file": "BOE_2017-05-01.txt",
+  "char_count": 6999
+}

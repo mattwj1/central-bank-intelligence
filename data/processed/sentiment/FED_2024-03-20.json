@@ -1,0 +1,25 @@
+{
+  "bank": "FED",
+  "date": "2024-03-20",
+  "score": 62,
+  "stance": "hawkish",
+  "hawkish_phrases": [
+    "did not expect it would be appropriate to reduce the target range until they had gained greater confidence that inflation was moving sustainably toward 2 percent",
+    "recent data had not increased their confidence that inflation was moving sustainably down to 2 percent",
+    "the two most recent monthly readings on core and headline inflation had been firmer than expected",
+    "remained highly attentive to inflation risks",
+    "the risks of easing policy too quickly, which could stall or even reverse progress in returning inflation to the Committee's 2 percent inflation objective"
+  ],
+  "dovish_phrases": [
+    "almost all participants judged that it would be appropriate to move policy to a less restrictive stance at some point this year",
+    "participants judged that the policy rate was likely at its peak for this tightening cycle",
+    "significant progress had been made over the past year toward the Committee's 2 percent inflation objective",
+    "demand and supply in the labor market were continuing to come into better balance",
+    "the risks of maintaining a restrictive stance for too long, which could unduly weaken economic activity and employment"
+  ],
+  "summary": "The Committee unanimously voted to hold the federal funds rate at 5.25-5.5 percent, maintaining a restrictive stance with emphasis that cuts would not occur until gaining greater confidence inflation is moving sustainably toward 2 percent, though almost all participants expected some policy easing later in 2024 if conditions evolved as expected.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T16:05:12",
+  "source_file": "FED_2024-03-20.txt",
+  "char_count": 48964
+}

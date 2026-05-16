@@ -1,0 +1,25 @@
+{
+  "bank": "FED",
+  "date": "2017-07-26",
+  "score": 58,
+  "stance": "neutral",
+  "hawkish_phrases": [
+    "labor market had already reached full employment and was projected to tighten further",
+    "a delay in gradually removing policy accommodation could result in an overshooting of the Committee's inflation objective",
+    "easing in financial conditions that had developed since the Committee's policy normalization process was initiated",
+    "the stance of monetary policy remains accommodative",
+    "Committee expects to begin implementing its balance sheet normalization program relatively soon"
+  ],
+  "dovish_phrases": [
+    "inflation on a 12-month basis had declined and were running below 2 percent",
+    "some participants expressed concern about the recent decline in inflation",
+    "the Committee could afford to be patient under current circumstances in deciding when to increase the federal funds rate further",
+    "several indicated that the risks to the inflation outlook could be tilted to the downside",
+    "the Committee is monitoring inflation developments closely"
+  ],
+  "summary": "The Committee unanimously voted to hold the federal funds rate at 1 to 1-1/4 percent with a mildly hawkish bias, signaling balance sheet normalization would begin relatively soon while expressing concern about below-target inflation and monitoring it closely.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:43:07",
+  "source_file": "FED_2017-07-26.txt",
+  "char_count": 49700
+}

@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2017-05-18",
+  "score": 42,
+  "stance": "neutral",
+  "hawkish_phrases": [
+    "downside risks to growth had further diminished",
+    "risks to euro area activity were moving towards a more balanced configuration",
+    "the risk of deflation and of an unanchoring of inflation expectations had almost completely disappeared",
+    "some members considered that the risks to real GDP could now be characterised as broadly balanced",
+    "recourse to these options for providing further accommodation was becoming less likely"
+  ],
+  "dovish_phrases": [
+    "underlying price pressures remained subdued",
+    "underlying inflation was expected to rise only slowly over the medium term",
+    "there had not been any significant increase in wage growth, despite the declining output gap",
+    "signs for a sustained adjustment in inflation had not strengthened",
+    "the outlook for inflation remained fragile"
+  ],
+  "summary": "The Governing Council held all policy rates unchanged (including deposit facility at -0.40%) and confirmed asset purchases at \u20ac60 billion per month through end-2017, maintaining existing forward guidance with easing bias, while acknowledging improved growth momentum and diminishing downside risks but emphasizing that underlying inflation remained subdued and the inflation path still conditional on substantial monetary accommodation.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-17T20:45:40",
+  "source_file": "ECB_2017-05-18.txt",
+  "char_count": 37455
+}

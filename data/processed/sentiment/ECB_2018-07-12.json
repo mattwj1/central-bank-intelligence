@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2018-07-12",
+  "score": 42,
+  "stance": "neutral",
+  "hawkish_phrases": [
+    "inflation was expected to pick up towards the end of the year and to increase gradually thereafter",
+    "domestic cost pressures and wages were strengthening",
+    "high levels of capacity utilisation, labour market tightness and rising wage growth",
+    "risks related to global factors, including the threat of increased protectionism, had become more prominent",
+    "substantial progress had been made"
+  ],
+  "dovish_phrases": [
+    "expected the key ECB interest rates to remain at their present levels at least through the summer of 2019",
+    "significant monetary policy stimulus was still needed",
+    "monetary policy had to remain patient, prudent and persistent",
+    "measures of underlying inflation remained generally muted",
+    "downside risks to the short-term growth outlook"
+  ],
+  "summary": "The Governing Council unanimously held rates at 0.00% (main refinancing) and announced a taper path for asset purchases (\u20ac30bn through September, \u20ac15bn through December, then end), while introducing enhanced forward guidance that rates would remain at present levels at least through summer 2019, reflecting substantial progress on inflation convergence but emphasizing the need for continued patience and significant ongoing stimulus.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-17T20:48:14",
+  "source_file": "ECB_2018-07-12.txt",
+  "char_count": 42578
+}

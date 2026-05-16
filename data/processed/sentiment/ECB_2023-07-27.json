@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2023-07-27",
+  "score": 73,
+  "stance": "hawkish",
+  "hawkish_phrases": [
+    "key ECB interest rates would be set at sufficiently restrictive levels for as long as necessary",
+    "domestic price pressures, including from rising wages and still robust profit margins, were becoming an increasingly important driver of inflation",
+    "underlying inflation remained high overall",
+    "before deciding to stop the tightening cycle, the Governing Council needed clearer signs of whether inflation would converge to target",
+    "it was preferable to tighten monetary policy further than to not tighten it enough"
+  ],
+  "dovish_phrases": [
+    "near-term economic outlook for the euro area had deteriorated",
+    "downside risks to growth",
+    "risks of stronger transmission than expected were elevated",
+    "overtightening would not help bring inflation sustainably to the 2% target if it later led to inflation undershooting",
+    "concerns were expressed that further inflation data for the coming months were required"
+  ],
+  "summary": "The ECB Governing Council unanimously raised the three key interest rates by 25 basis points, maintaining that rates would be set at sufficiently restrictive levels for as long as necessary while emphasizing data-dependence and explicitly keeping September options open without signaling either a pause or further hikes.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-17T21:03:52",
+  "source_file": "ECB_2023-07-27.txt",
+  "char_count": 70598
+}

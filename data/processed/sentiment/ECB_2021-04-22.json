@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2021-04-22",
+  "score": 32,
+  "stance": "dovish",
+  "hawkish_phrases": [
+    "risks to wider financing conditions remained",
+    "the rise recorded earlier in the year in these key indicators in the upstream segment of the transmission chain still posed a risk",
+    "credit standards for loans to firms had tightened for the third consecutive quarter",
+    "risks to this outlook could be assessed as tilted to the upside",
+    "market interest rates still stood at higher levels than those prevailing in December"
+  ],
+  "dovish_phrases": [
+    "continue to conduct net asset purchases under the PEPP...at a significantly higher pace than during the first few months of the year",
+    "underlying price pressures remained subdued in the context of significant economic slack and still weak demand",
+    "Ample monetary policy support remained crucial beyond the pandemic period",
+    "expected the key ECB interest rates to remain at their present or lower levels",
+    "Markets were not pricing in any changes in the deposit facility rate until the first quarter of 2024"
+  ],
+  "summary": "The Governing Council held all policy rates unchanged and reconfirmed continuation of significantly higher PEPP purchase pace, maintaining very accommodative stance amid subdued underlying inflation and significant slack despite short-term headline inflation volatility.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-17T20:56:01",
+  "source_file": "ECB_2021-04-22.txt",
+  "char_count": 39868
+}

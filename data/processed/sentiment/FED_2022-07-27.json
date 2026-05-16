@@ -1,0 +1,25 @@
+{
+  "bank": "FED",
+  "date": "2022-07-27",
+  "score": 78,
+  "stance": "hawkish",
+  "hawkish_phrases": [
+    "inflation remained elevated, reflecting supply and demand imbalances related to the pandemic, higher food and energy prices, and broader price pressures",
+    "moving to a restrictive stance of policy was required to meet the Committee's legislative mandate",
+    "participants judged that, once the policy rate had reached a sufficiently restrictive level, it likely would be appropriate to maintain that level for some time",
+    "a significant risk facing the Committee was that elevated inflation could become entrenched if the public began to question the Committee's resolve",
+    "the Committee was strongly committed to returning inflation to its 2 percent objective"
+  ],
+  "dovish_phrases": [
+    "recent indicators of spending and production had softened",
+    "there was also a risk that the Committee could tighten the stance of policy by more than necessary to restore price stability",
+    "some tentative signs of a softening outlook for the labor market",
+    "participants judged that, as the stance of monetary policy tightened further, it likely would become appropriate at some point to slow the pace of policy rate increases",
+    "the risks to the outlook for real GDP growth as primarily being to the downside"
+  ],
+  "summary": "The Committee unanimously raised the federal funds rate by 75 basis points to 2.25-2.50 percent, anticipating ongoing increases to reach a restrictive stance, with inflation remaining far above target and members strongly committed to returning inflation to 2 percent despite softening activity indicators.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T16:00:38",
+  "source_file": "FED_2022-07-27.txt",
+  "char_count": 57112
+}

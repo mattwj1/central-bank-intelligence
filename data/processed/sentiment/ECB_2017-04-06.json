@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2017-04-06",
+  "score": 42,
+  "stance": "neutral",
+  "hawkish_phrases": [
+    "risks to euro area activity had become more balanced, while remaining tilted to the downside",
+    "the risk of deflation and of an unanchoring of inflation expectations had largely disappeared",
+    "removing the downward bias regarding interest rates would be in line with a gradual and cautious adjustment",
+    "deflationary risks had largely disappeared",
+    "negative scenarios, which could trigger further monetary policy action, were assessed to have become less likely"
+  ],
+  "dovish_phrases": [
+    "a very substantial degree of monetary accommodation continued to be needed",
+    "underlying inflation pressures had remained subdued and signs of a convincing upward trend were still lacking",
+    "measures of underlying inflation remained low and were expected to rise only gradually over the medium term",
+    "one could not be sufficiently confident that inflation would converge towards levels consistent with the Governing Council's aim in a durable and self-sustaining manner",
+    "patience and maintaining a steady hand remained warranted at the current meeting"
+  ],
+  "summary": "The Governing Council held rates unchanged with continued asset purchases at \u20ac60bn monthly from April, maintaining full forward guidance including easing bias, while acknowledging the recovery was firming and deflationary risks had largely disappeared but judging underlying inflation pressures remained too subdued to warrant any policy adjustment.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-17T20:45:13",
+  "source_file": "ECB_2017-04-06.txt",
+  "char_count": 45991
+}

@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2020-04-30",
+  "score": 18,
+  "stance": "extremely dovish",
+  "hawkish_phrases": [
+    "risk of 'fiscal dominance' and that the programme had to be executed carefully in order not to encourage irresponsible behaviour on the part of governments",
+    "a concern was expressed that lowering the minimum rate in the TLTRO III operations to 50 basis points below the deposit facility rate could open up the possibility for banks to obtain funds",
+    "government debt issuance and the evolution of structural deficits had to be monitored closely",
+    "market-based measures of interest rate expectations were consistent with survey evidence, signalling no significant expectations of further cuts in the deposit facility rate",
+    "credit standards for loans to firms had tightened slightly, while credit standards for loans to households had tightened more strongly"
+  ],
+  "dovish_phrases": [
+    "euro area GDP could fall by between 5% and 12% this year",
+    "fully prepared to increase the size of the PEPP and adjust its composition, by as much as necessary and for as long as needed",
+    "market-based indicators of longer-term inflation expectations had remained at depressed levels",
+    "reduce the interest rate on TLTRO III operations during the period from June 2020 to June 2021 to 50 basis points below the average interest rate",
+    "significant risk of deflation or very low inflation in the coming years"
+  ],
+  "summary": "The Governing Council held rates unchanged while significantly easing TLTRO III terms (cutting rates to 50bp below MRO and potentially 50bp below DFR for qualifying counterparties) and introducing new PELTROs, amid unprecedented GDP contraction scenarios of 5-12% for 2020, deflation risks, and a commitment to increase PEPP size as much as necessary.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-17T20:52:58",
+  "source_file": "ECB_2020-04-30.txt",
+  "char_count": 48655
+}

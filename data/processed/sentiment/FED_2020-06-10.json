@@ -1,0 +1,25 @@
+{
+  "bank": "FED",
+  "date": "2020-06-10",
+  "score": 12,
+  "stance": "extremely dovish",
+  "hawkish_phrases": [
+    "policies that effectively committed the Committee to maintaining very low interest rates for a long time could ultimately pose significant risks to financial stability",
+    "A few participants questioned the desirability of large-scale asset purchases following the current purchases to support market functioning",
+    "constraints on the effectiveness of asset purchases in the current environment",
+    "large-scale asset purchases could...have potentially adverse implications for financial stability",
+    "declines in the neutral rate of interest and in term premiums over the past decade...would likely act as constraints on the effectiveness of asset purchases"
+  ],
+  "dovish_phrases": [
+    "maintain this target range until they were confident that the economy had weathered recent events and was on track to achieve the Committee's maximum-employment and price-stability goals",
+    "the economy is likely to need support from highly accommodative monetary policy for some time",
+    "the Committee would have to maintain highly accommodative financial conditions for many years to quicken meaningfully the recovery from the current severe downturn",
+    "forward guidance tied to inflation outcomes that could possibly entail a modest temporary overshooting of the Committee's longer-run inflation goal",
+    "the ongoing public health crisis will weigh heavily on economic activity, employment, and inflation in the near term and poses considerable risks to the economic outlook over the medium term"
+  ],
+  "summary": "The Committee unanimously voted to maintain the target range at 0-1/4 percent with strong forward guidance to hold until confident the economy has weathered recent events, emphasizing tremendous downside risks from the coronavirus crisis and committing to support the economy with its full range of tools for an extended period.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:53:17",
+  "source_file": "FED_2020-06-10.txt",
+  "char_count": 67149
+}

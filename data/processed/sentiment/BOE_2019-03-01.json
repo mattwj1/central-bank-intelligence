@@ -1,0 +1,25 @@
+{
+  "bank": "BOE",
+  "date": "2019-03-01",
+  "score": 58,
+  "stance": "neutral",
+  "hawkish_phrases": [
+    "ongoing tightening of monetary policy over the forecast period, at a gradual pace and to a limited extent, would be appropriate",
+    "The labour market remains tight and annual pay growth...has remained around 3\u00bd%",
+    "growth in unit wage costs has also risen",
+    "excess demand built over the second half of the forecast period",
+    "CPI inflation rose slightly to 1.9% in February and is expected to remain close to the 2% target"
+  ],
+  "dovish_phrases": [
+    "a weaker near-term outlook was expected to lead to a small margin of slack opening up this year",
+    "The broad-based softening in global GDP and trade growth has continued",
+    "Brexit uncertainties also continue to weigh on confidence and short-term economic activity, notably business investment",
+    "Global financial conditions have eased, in part supported by announcements of more accommodative policies in some major economies",
+    "other indicators of domestically generated inflation have remained modest"
+  ],
+  "summary": "The MPC voted unanimously to hold Bank Rate at 0.75% with a mildly hawkish bias, stating that ongoing gradual tightening would be appropriate if the economy develops in line with projections showing excess demand building over the forecast period.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:27:36",
+  "source_file": "BOE_2019-03-01.txt",
+  "char_count": 4774
+}

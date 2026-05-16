@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2026-02-05",
+  "score": 52,
+  "stance": "neutral",
+  "hawkish_phrases": [
+    "inflation should stabilise at our two per cent target in the medium term",
+    "The economy remains resilient in a challenging global environment",
+    "credit standards for business loans tightened again",
+    "inflation could turn out to be higher if there were a persistent upward shift in energy prices",
+    "services inflation might come down later than expected"
+  ],
+  "dovish_phrases": [
+    "Inflation declined to 1.7 per cent in January, from 2.0 per cent in December",
+    "supportive effects of our past interest rate cuts are underpinning growth",
+    "Negotiated wage growth and forward-looking indicators point to a continued moderation in labour costs",
+    "Market rates have come down since our last meeting",
+    "Inflation could turn out to be lower if tariffs reduce demand for euro area exports by more than expected"
+  ],
+  "summary": "The Governing Council unanimously held all three key rates unchanged at 2.00% (deposit facility), with a genuinely balanced outlook emphasizing both resilience and uncertainty, maintaining a data-dependent meeting-by-meeting approach without pre-committing to any rate path.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-14T23:42:27",
+  "source_file": "ECB_2026-02-05.txt",
+  "char_count": 11500
+}

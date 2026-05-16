@@ -1,0 +1,25 @@
+{
+  "bank": "BOE",
+  "date": "2019-05-01",
+  "score": 58,
+  "stance": "neutral",
+  "hawkish_phrases": [
+    "ongoing tightening of monetary policy over the forecast period...would be appropriate",
+    "excess demand begins to build...rises above 1% of potential output by the end of the forecast period",
+    "CPI inflation picks up to above the 2% target in two years' time and is still rising",
+    "unit labour cost growth has strengthened to rates that are above historical averages",
+    "domestic inflationary pressures are expected to firm"
+  ],
+  "dovish_phrases": [
+    "path for Bank Rate that rises to around 1% by the end of the forecast period, lower than in the February Report",
+    "CPI inflation was 1.9% in March and is expected to be slightly further below the MPC's 2% target",
+    "the current stance of monetary policy is appropriate",
+    "the underlying pace of GDP growth appears...marginally below potential",
+    "there is currently a small margin of excess supply in the economy"
+  ],
+  "summary": "The MPC voted unanimously to hold Bank Rate at 0.75%, with guidance for ongoing gradual tightening over the forecast period but a lower rate path than February, reflecting building excess demand and above-target inflation projections despite current slack.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:27:44",
+  "source_file": "BOE_2019-05-01.txt",
+  "char_count": 5548
+}

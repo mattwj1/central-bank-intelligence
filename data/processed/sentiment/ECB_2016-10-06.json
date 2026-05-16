@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2016-10-06",
+  "score": 42,
+  "stance": "neutral",
+  "hawkish_phrases": [
+    "underlying price pressures continued to lack a convincing upward trend and remained an ongoing source of concern",
+    "the projected path of inflation remained conditional on exceptionally supportive financing conditions",
+    "the Governing Council's ability to act if needed",
+    "potential revisions of the parameters had to take due consideration of their effectiveness from a monetary policy perspective",
+    "risks to the growth outlook were assessed to remain tilted to the downside"
+  ],
+  "dovish_phrases": [
+    "key ECB interest rates to remain at present or lower levels for an extended period of time",
+    "monthly asset purchases of \u20ac80 billion were intended to run until the end of March 2017, or beyond, if necessary",
+    "downside risks remained",
+    "members widely agreed that policy action at the present meeting was not warranted",
+    "determined to preserve the very substantial degree of monetary accommodation"
+  ],
+  "summary": "The Governing Council held all policy rates unchanged (main refinancing at 0.00%, deposit facility at -0.40%) with unanimous agreement that no action was warranted, confirming \u20ac80 billion monthly purchases through at least March 2017 while emphasizing readiness to act if needed amid continued concerns about weak underlying inflation and downside risks.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-17T20:43:59",
+  "source_file": "ECB_2016-10-06.txt",
+  "char_count": 42211
+}

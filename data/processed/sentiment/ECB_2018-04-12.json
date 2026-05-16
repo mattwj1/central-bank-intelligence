@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2018-04-12",
+  "score": 58,
+  "stance": "neutral",
+  "hawkish_phrases": [
+    "removing the 'easing bias' attached to the APP",
+    "financial conditions had tightened somewhat amid volatility in equity and foreign exchange markets",
+    "measures of underlying inflation remained subdued and had yet to show convincing signs of a sustained upward trend",
+    "the evidence for a sustained rise in inflation towards levels consistent with the Governing Council's inflation aim was still not sufficient",
+    "prudence, patience and persistence with regard to monetary policy remained warranted"
+  ],
+  "dovish_phrases": [
+    "the interest rate on the main refinancing operations and the interest rates on the marginal lending facility and the deposit facility would remain unchanged at 0.00%, 0.25% and -0.40% respectively",
+    "The Governing Council continued to expect the key ECB interest rates to remain at their present levels for an extended period of time, and well past the horizon of the net asset purchases",
+    "net asset purchases, at the current monthly pace of \u20ac30 billion, were intended to run until the end of September 2018, or beyond, if necessary",
+    "an ample degree of monetary policy accommodation remained necessary",
+    "The Eurosystem would reinvest the principal payments from maturing securities purchased under the APP for an extended period of time"
+  ],
+  "summary": "The Governing Council held rates unchanged at 0.00%/-0.40% and confirmed \u20ac30 billion monthly asset purchases through at least September 2018, but removed the APP easing bias citing increased confidence in the inflation outlook, though underlying inflation remained subdued and required continued patience and persistence.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-17T20:47:37",
+  "source_file": "ECB_2018-04-12.txt",
+  "char_count": 36337
+}

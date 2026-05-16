@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2015-07-02",
+  "score": 42,
+  "stance": "neutral",
+  "hawkish_phrases": [
+    "inflation had continued on an upward path and inflation expectations remained broadly unchanged",
+    "annual HICP inflation had risen to 0.3% in May 2015, the first positive rate since late 2014",
+    "HICP inflation excluding food and energy had also increased, from 0.6% in April to 0.9% in May",
+    "the euro had appreciated against other major currencies over the period",
+    "the recent reversal was a correction driven mainly by technical factors"
+  ],
+  "dovish_phrases": [
+    "outlook for euro area growth and inflation remained conditional on the full implementation of all the monetary policy measures in place",
+    "Risks to the economic recovery therefore remained on the downside",
+    "there was still considerable slack in the euro area economy",
+    "the economic recovery still faced headwinds related to the necessary balance sheet adjustments",
+    "it was, nonetheless, too early to declare them a success"
+  ],
+  "summary": "The Governing Council unanimously held all key interest rates unchanged (main refinancing at 0.05%, deposit facility at -0.20%) and reaffirmed its intention to carry out asset purchases of \u20ac60 billion per month until the end of September 2016, maintaining a steady monetary policy course while looking through recent financial market volatility, despite acknowledging that downside risks to the recovery remained and the outlook was conditional on full implementation of existing measures.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-17T20:40:46",
+  "source_file": "ECB_2015-07-02.txt",
+  "char_count": 41916
+}

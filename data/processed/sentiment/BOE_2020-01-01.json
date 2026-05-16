@@ -1,0 +1,25 @@
+{
+  "bank": "BOE",
+  "date": "2020-01-01",
+  "score": 42,
+  "stance": "neutral",
+  "hawkish_phrases": [
+    "unit labour costs have continued to grow at rates above those consistent with meeting the inflation target in the medium term",
+    "some modest tightening of policy may be needed to maintain inflation sustainably at the target",
+    "a margin of excess demand builds thereafter",
+    "strengthening domestic price pressures",
+    "inflation rises slightly above it by the end of the forecast period"
+  ],
+  "dovish_phrases": [
+    "Policy may need to reinforce the expected recovery in UK GDP growth",
+    "CPI inflation fell to 1.3% in December, core CPI inflation declined to 1.4%",
+    "there has been a somewhat greater margin of spare capacity in the economy over recent years",
+    "should indicators of domestic prices remain relatively weak",
+    "CPI inflation is projected to remain below the MPC's 2% target throughout this year and much of 2021"
+  ],
+  "summary": "The MPC voted 7-2 to hold Bank Rate at 0.75%, with guidance indicating policy may need to reinforce recovery if positive signals don't sustain, but also noting modest tightening may be needed further ahead if the economy recovers as projected.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:28:27",
+  "source_file": "BOE_2020-01-01.txt",
+  "char_count": 5839
+}

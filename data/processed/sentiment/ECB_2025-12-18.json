@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2025-12-18",
+  "score": 58,
+  "stance": "neutral",
+  "hawkish_phrases": [
+    "Inflation has been revised up for 2026, mainly because staff now expect services inflation to decline more slowly",
+    "Services inflation rose to 3.4 per cent in October and 3.5 per cent in November",
+    "Compensation per employee rose at an annual rate of 4.0 per cent. This was more than expected in the September staff projections",
+    "A slower reduction in wage pressures could delay the decline in services inflation",
+    "Market rates have increased since our last meeting"
+  ],
+  "dovish_phrases": [
+    "inflation should stabilise at the 2% target in the medium term",
+    "Staff expect it to stay below 2 per cent on average in 2026 and 2027",
+    "Inflation could turn out to be lower if the rise in US tariffs reduces demand for euro area exports",
+    "labour demand cooled further, with the job vacancy rate at its lowest level since the pandemic",
+    "An improvement in confidence could stimulate private spending"
+  ],
+  "summary": "The Governing Council held rates unchanged at 2.00% (deposit facility) with no vote split disclosed, maintaining a mildly hawkish stance due to upward inflation revisions for 2026, sticky services inflation at 3.5%, and wage growth exceeding expectations, despite guidance remaining data-dependent with no pre-commitment to a rate path.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-14T23:42:18",
+  "source_file": "ECB_2025-12-18.txt",
+  "char_count": 12719
+}

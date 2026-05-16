@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2024-10-17",
+  "score": 32,
+  "stance": "dovish",
+  "hawkish_phrases": [
+    "Domestic inflation remained high, as wages were still rising at an elevated pace",
+    "services inflation was still hovering at rates around 4%",
+    "it was too early to declare victory in terms of a timely and sustainable return to target",
+    "financing conditions remained restrictive",
+    "keep policy rates sufficiently restrictive for as long as necessary"
+  ],
+  "dovish_phrases": [
+    "incoming information on inflation showed that the disinflationary process was well on track",
+    "Indicators of economic activity had surprised somewhat to the downside",
+    "headline inflation had fallen further to its lowest level since April 2021",
+    "inflation was expected to decline to target in the course of 2025",
+    "the risks from cutting at the present meeting and potentially being too early were lower than the risks of waiting and potentially acting too late"
+  ],
+  "summary": "The ECB cut rates by 25 basis points unanimously in October 2024, citing well-tracked disinflation and weaker-than-expected economic activity, with risk management considerations supporting action now over waiting, though noting domestic inflation and wages remain elevated.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-17T21:08:17",
+  "source_file": "ECB_2024-10-17.txt",
+  "char_count": 55099
+}

@@ -1,0 +1,23 @@
+{
+  "bank": "BOE",
+  "date": "2020-11-01",
+  "score": 18,
+  "stance": "extremely dovish",
+  "hawkish_phrases": [
+    "a small degree of excess demand emerges over the second half of the forecast period",
+    "inflation is projected to be 2% in two years' time",
+    "rising quite sharply towards the target"
+  ],
+  "dovish_phrases": [
+    "a further easing of monetary policy is warranted",
+    "increase the target stock of purchased UK government bonds by an additional \u00a3150 billion",
+    "If the outlook for inflation weakens, the Committee stands ready to take whatever additional action is necessary",
+    "The Committee does not intend to tighten monetary policy at least until there is clear evidence that significant progress is being made in eliminating spare capacity",
+    "the risks around the GDP projection are judged to be skewed to the downside"
+  ],
+  "summary": "The MPC voted unanimously to hold Bank Rate at 0.1% and increase asset purchases by \u00a3150 billion to \u00a3875 billion total, with explicit forward guidance stating readiness for additional easing and no tightening until spare capacity is eliminated and 2% inflation achieved sustainably.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:29:12",
+  "source_file": "BOE_2020-11-01.txt",
+  "char_count": 6407
+}

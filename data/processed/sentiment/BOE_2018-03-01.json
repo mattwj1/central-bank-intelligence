@@ -1,0 +1,24 @@
+{
+  "bank": "BOE",
+  "date": "2018-03-01",
+  "score": 68,
+  "stance": "hawkish",
+  "hawkish_phrases": [
+    "a small margin of excess demand was projected to emerge by early 2020 and build thereafter",
+    "an ongoing tightening of monetary policy over the forecast period will be appropriate",
+    "The steady absorption of slack has reduced the degree to which it is appropriate for the MPC to accommodate an extended period of inflation above the target",
+    "Inflation remained above the 2% target in the second and third years of the MPC's central projection",
+    "pay growth will rise further in response to the tightening labour market"
+  ],
+  "dovish_phrases": [
+    "any future increases in Bank Rate are likely to be at a gradual pace and to a limited extent",
+    "GDP was expected to grow by around 1\u00be% per year on average over the forecast period. While modest by historical standards",
+    "CPI inflation fell from 3.0% in January to 2.7% in February",
+    "Inflation is expected to ease further in the short term"
+  ],
+  "summary": "The MPC voted 7-2 to hold Bank Rate at 0.5%, with explicit forward guidance that ongoing tightening over the forecast period will be appropriate to address projected excess demand and above-target inflation.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:26:40",
+  "source_file": "BOE_2018-03-01.txt",
+  "char_count": 5018
+}

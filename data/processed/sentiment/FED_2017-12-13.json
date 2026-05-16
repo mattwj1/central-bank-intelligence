@@ -1,0 +1,25 @@
+{
+  "bank": "FED",
+  "date": "2017-12-13",
+  "score": 72,
+  "stance": "hawkish",
+  "hawkish_phrases": [
+    "raise the target range for the federal funds rate to 1-1/4 to 1-1/2 percent",
+    "the stance of monetary policy remains accommodative, thereby supporting strong labor market conditions",
+    "labor market had continued to strengthen and that economic activity had been rising at a solid rate",
+    "continued low interest rates risked financial instability in the future, or that the labor market was increasingly tight",
+    "expects that economic conditions will evolve in a manner that will warrant gradual increases in the federal funds rate"
+  ],
+  "dovish_phrases": [
+    "inflation on a 12-month basis is expected to remain somewhat below 2 percent in the near term",
+    "both overall inflation and inflation for items other than food and energy have declined this year and are running below 2 percent",
+    "several participants observed that survey-based measures of inflation expectations or market-based measures of inflation compensation remained low",
+    "some participants expressed concern that persistently weak inflation may have led to a decline in longer-term inflation expectations",
+    "Two members preferred to leave the target range at 1 to 1-1/4 percent"
+  ],
+  "summary": "The FOMC raised the target range for the federal funds rate by 25bp to 1.25-1.50% with two dissents (Evans and Kashkari preferring to hold), citing continued strong labor market conditions and solid economic growth while explicitly committing to gradual further increases despite inflation remaining below 2%.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:44:26",
+  "source_file": "FED_2017-12-13.txt",
+  "char_count": 49330
+}

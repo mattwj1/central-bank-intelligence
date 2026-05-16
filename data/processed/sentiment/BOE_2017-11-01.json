@@ -1,0 +1,25 @@
+{
+  "bank": "BOE",
+  "date": "2017-11-01",
+  "score": 73,
+  "stance": "hawkish",
+  "hawkish_phrases": [
+    "The steady erosion of slack has reduced the degree to which it is appropriate for the MPC to accommodate an extended period of inflation above the target",
+    "Unemployment has fallen to a 42-year low and the MPC judges that the level of remaining slack is limited",
+    "CPI inflation rose to 3.0% in September",
+    "the MPC now judges it appropriate to tighten modestly the stance of monetary policy",
+    "domestic inflationary pressures gradually pick up as spare capacity is absorbed"
+  ],
+  "dovish_phrases": [
+    "any future increases in Bank Rate would be expected to be at a gradual pace and to a limited extent",
+    "Monetary policy continues to provide significant support to jobs and activity",
+    "Consumption growth remains sluggish in the near term",
+    "Business investment is being affected by uncertainties around Brexit",
+    "inflation is expected to fall back over the next year"
+  ],
+  "summary": "The MPC voted 7-2 to increase Bank Rate by 25bp to 0.50%, judging it appropriate to tighten modestly given erosion of slack and inflation above target, but signaling future increases would be gradual and limited.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:26:19",
+  "source_file": "BOE_2017-11-01.txt",
+  "char_count": 6291
+}

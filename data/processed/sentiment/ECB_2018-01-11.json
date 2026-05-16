@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2018-01-11",
+  "score": 42,
+  "stance": "neutral",
+  "hawkish_phrases": [
+    "gap appeared to be emerging between favourable economic conditions and a policy stance that remained in a crisis configuration",
+    "an unchanged monetary policy setting would become increasingly expansionary",
+    "further easing of financial conditions was not regarded as warranted",
+    "communication needed to evolve gradually in step with improving economic data",
+    "the relative importance of the forward guidance on policy rates would increase"
+  ],
+  "dovish_phrases": [
+    "patience and persistence remained essential",
+    "underlying price pressures remained muted overall",
+    "measures of underlying inflation had retreated slightly",
+    "convergence remained contingent on continued support provided by the full range of the ECB's monetary policy measures",
+    "caution remained warranted and that the projected upward path for inflation was subject to considerable uncertainty"
+  ],
+  "summary": "The Governing Council held rates unchanged and confirmed the October 2017 APP recalibration (net purchases at \u20ac60bn until December 2017, then \u20ac30bn from January 2018), with unanimous agreement to maintain all forward guidance despite significantly upgraded growth projections, emphasizing increased confidence in inflation convergence while stressing that underlying inflation remained muted and ample accommodation was still necessary.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-17T20:47:06",
+  "source_file": "ECB_2018-01-11.txt",
+  "char_count": 40593
+}

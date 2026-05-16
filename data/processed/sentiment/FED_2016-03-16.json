@@ -1,0 +1,25 @@
+{
+  "bank": "FED",
+  "date": "2016-03-16",
+  "score": 42,
+  "stance": "neutral",
+  "hawkish_phrases": [
+    "economy apparently near full employment",
+    "some data had suggested a firming of underlying inflation trends",
+    "postponing the removal of accommodation could increase financial distortions",
+    "federal funds rate is likely to remain, for some time, below levels that are expected to prevail in the longer run",
+    "Inflation picked up in recent months"
+  ],
+  "dovish_phrases": [
+    "global economic and financial developments continue to pose risks",
+    "inflation continued to run below the Committee's 2 percent longer-run objective",
+    "market-based measures of inflation compensation remain low",
+    "Several members expressed concern that longer-run inflation expectations may have declined",
+    "many participants expressed the view that a somewhat lower path for the federal funds rate than they had projected in December now seemed most likely"
+  ],
+  "summary": "The Committee voted 9-1 to hold the federal funds rate at 1/4 to 1/2 percent with George dissenting in favor of a 25bp hike, maintaining a cautious stance amid global risks and inflation below target despite labor market strength.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:38:35",
+  "source_file": "FED_2016-03-16.txt",
+  "char_count": 51300
+}

@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2016-01-14",
+  "score": 38,
+  "stance": "dovish",
+  "hawkish_phrases": [
+    "some members did not see sufficient evidence in support of a recalibration of monetary policy at the current meeting",
+    "more time should be given for them to unfold their full effect",
+    "purchases of sovereign debt...should be kept in reserve as a contingency measure in case of extremely adverse developments",
+    "some members expressed a preference...for limiting policy action at the current meeting to a cut in the deposit facility rate",
+    "risks to the growth outlook were seen as remaining on the downside"
+  ],
+  "dovish_phrases": [
+    "the degree of monetary policy accommodation would need to be re-examined",
+    "cut the interest rate on the deposit facility by 10 basis points to -0.30%",
+    "extend the intended horizon of the APP until the end of March 2017, or beyond, if necessary",
+    "reinvest the principal payments on the securities purchased under the APP as they matured, for as long as necessary",
+    "downside risks to both the growth and inflation outlook continued to prevail"
+  ],
+  "summary": "The ECB cut the deposit facility rate by 10bp to -0.30% and extended the APP to March 2017, but the decision was met with dissent from some members who saw insufficient evidence for further accommodation, resulting in a mildly dovish stance with meaningful hawkish pushback.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-17T20:41:47",
+  "source_file": "ECB_2016-01-14.txt",
+  "char_count": 58001
+}

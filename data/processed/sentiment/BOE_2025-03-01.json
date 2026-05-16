@@ -1,0 +1,25 @@
+{
+  "bank": "BOE",
+  "date": "2025-03-01",
+  "score": 62,
+  "stance": "hawkish",
+  "hawkish_phrases": [
+    "Monetary policy will need to continue to remain restrictive for sufficiently long until the risks to inflation returning sustainably to the 2% target in the medium term have dissipated further",
+    "more persistence in domestic wages and prices, including from second-round effects related to the near-term increase in CPI inflation, this would warrant a relatively tighter monetary policy path",
+    "Domestic price and wage pressures are moderating, but remain somewhat elevated",
+    "CPI inflation is still projected to rise to around 3\u00be% in 2025 Q3",
+    "there was no presumption that monetary policy was on a pre-set path over the next few meetings"
+  ],
+  "dovish_phrases": [
+    "Should there be greater or longer-lasting weakness in demand relative to supply, this could push down on inflationary pressures, warranting a less restrictive path of Bank Rate",
+    "business survey indicators generally continued to suggest weakness in growth and particularly in employment intentions",
+    "Some indicators of employment intentions had deteriorated markedly, to levels consistent with shrinking employment",
+    "a gradual and careful approach to the further withdrawal of monetary policy restraint is appropriate",
+    "The underlying disinflationary process was expected to continue"
+  ],
+  "summary": "The MPC voted 8-1 to hold Bank Rate at 4.5%, with one dissenter preferring a 25bp cut, maintaining a restrictive stance while emphasizing inflation persistence risks and the need for policy to remain restrictive for sufficiently long, despite acknowledging weakness in growth and employment.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:37:12",
+  "source_file": "BOE_2025-03-01.txt",
+  "char_count": 34191
+}

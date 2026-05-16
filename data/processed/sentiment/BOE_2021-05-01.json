@@ -1,0 +1,25 @@
+{
+  "bank": "BOE",
+  "date": "2021-05-01",
+  "score": 22,
+  "stance": "dovish",
+  "hawkish_phrases": [
+    "inflation is projected to rise to close to the target in the near term",
+    "CPI inflation rises temporarily above the 2% target towards the end of 2021",
+    "a temporary period of excess demand",
+    "Spare capacity is eliminated as activity picks up during 2021",
+    "inflation returns to around 2% in the medium term"
+  ],
+  "dovish_phrases": [
+    "The Committee does not intend to tighten monetary policy at least until there is clear evidence that significant progress is being made in eliminating spare capacity",
+    "there is judged to be spare capacity in the economy at present",
+    "it is likely that labour market slack has remained higher than implied by this measure",
+    "will take whatever action is necessary to achieve its remit",
+    "These transitory developments should have few direct implications for inflation over the medium term"
+  ],
+  "summary": "The MPC unanimously voted to maintain Bank Rate at 0.1% and asset purchases at \u00a3895 billion, with explicit forward guidance that it does not intend to tighten policy until there is clear evidence of eliminating spare capacity and achieving the 2% inflation target sustainably.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:29:41",
+  "source_file": "BOE_2021-05-01.txt",
+  "char_count": 6990
+}

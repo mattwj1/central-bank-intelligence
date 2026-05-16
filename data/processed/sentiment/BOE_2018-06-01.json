@@ -1,0 +1,25 @@
+{
+  "bank": "BOE",
+  "date": "2018-06-01",
+  "score": 68,
+  "stance": "hawkish",
+  "hawkish_phrases": [
+    "an ongoing tightening of monetary policy over the forecast period would be appropriate",
+    "a small margin of excess demand was projected to emerge by early 2020",
+    "domestic cost pressures will continue to firm gradually",
+    "Most indicators of pay growth have picked up over the past year and the labour market remains tight",
+    "CPI inflation was 2.4% in May"
+  ],
+  "dovish_phrases": [
+    "For the majority of members, an increase in Bank Rate was not required at this meeting",
+    "any future increases in Bank Rate are likely to be at a gradual pace and to a limited extent",
+    "the Committee has noted that it could lower it further if required",
+    "GDP was expected to grow by around 1\u00be% per year on average over the forecast",
+    "modest by historical standards"
+  ],
+  "summary": "The MPC voted 6-3 to hold Bank Rate at 0.5%, with the majority holding despite three hawkish dissents and clear guidance that ongoing tightening would be appropriate to return inflation sustainably to target.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:26:54",
+  "source_file": "BOE_2018-06-01.txt",
+  "char_count": 6085
+}

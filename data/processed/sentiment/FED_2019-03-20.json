@@ -1,0 +1,25 @@
+{
+  "bank": "FED",
+  "date": "2019-03-20",
+  "score": 42,
+  "stance": "neutral",
+  "hawkish_phrases": [
+    "strong labor market conditions",
+    "unemployment rate had remained low",
+    "core PCE price inflation was close to 2 percent",
+    "inflation for items other than food and energy remained near 2 percent",
+    "several participants noted that their views of the appropriate target range for the federal funds rate could shift in either direction"
+  ],
+  "dovish_phrases": [
+    "a majority of participants expected that the evolution of the economic outlook and risks to the outlook would likely warrant leaving the target range unchanged for the remainder of the year",
+    "the Committee will be patient as it determines what future adjustments to the target range for the federal funds rate may be appropriate",
+    "growth of economic activity had slowed from its solid rate in the fourth quarter",
+    "muted inflation pressures",
+    "market-based measures of inflation compensation had remained low"
+  ],
+  "summary": "The FOMC unanimously held rates at 2.25-2.50% with a clear dovish bias, stating they would be patient in determining future adjustments given slowing growth, muted inflation pressures, and global uncertainties, with a majority expecting rates to remain unchanged for the remainder of 2019.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:48:30",
+  "source_file": "FED_2019-03-20.txt",
+  "char_count": 64119
+}

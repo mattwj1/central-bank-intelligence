@@ -1,0 +1,25 @@
+{
+  "bank": "FED",
+  "date": "2025-06-18",
+  "score": 58,
+  "stance": "neutral",
+  "hawkish_phrases": [
+    "Inflation remains somewhat elevated",
+    "Some participants saw the most likely appropriate path of monetary policy as involving no reductions in the target range for the federal funds rate this year",
+    "upside risks to inflation remained meaningful in light of factors such as elevated short-term inflation expectations",
+    "Some participants commented that they saw the risk of elevated inflation as remaining more prominent, or as having diminished by less, than risks to employment",
+    "current monetary policy moderately or modestly restrictive"
+  ],
+  "dovish_phrases": [
+    "Most participants assessed that some reduction in the target range for the federal funds rate this year would likely be appropriate",
+    "A couple of participants noted that, if the data evolve in line with their expectations, they would be open to considering a reduction in the target range for the policy rate as soon as at the next meeting",
+    "uncertainty about the economic outlook had diminished",
+    "inflation had eased significantly since its peak in 2022",
+    "A few participants saw risks to the labor market as having become predominant"
+  ],
+  "summary": "The FOMC unanimously held rates at 4.25-4.5% with most participants seeing some rate cuts likely appropriate this year, though uncertainty remains elevated and inflation is still somewhat elevated, creating a mildly hawkish hold with mixed forward guidance.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T16:08:41",
+  "source_file": "FED_2025-06-18.txt",
+  "char_count": 47408
+}

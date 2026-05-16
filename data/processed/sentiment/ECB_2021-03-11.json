@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2021-03-11",
+  "score": 32,
+  "stance": "dovish",
+  "hawkish_phrases": [
+    "the risks surrounding the euro area growth outlook over the medium term had become more balanced",
+    "better prospects for the global economy, which had been bolstered by the sizeable fiscal stimulus",
+    "headline inflation had increased sharply to 0.9% in January and February 2021",
+    "the balance of risk was now shifting and becoming more balanced, or possibly even starting to shift to the upside",
+    "Real GDP growth had been repeatedly underestimated in successive quarters over the past year, pointing to the economy being more resilient than expected"
+  ],
+  "dovish_phrases": [
+    "purchases under the PEPP over the next quarter to be conducted at a significantly higher pace than during the first months of the year",
+    "underlying price pressures remained subdued in the context of weak demand and significant slack in labour and product markets",
+    "the medium-term inflation outlook remained broadly unchanged from the Eurosystem staff projections in December 2020 and below the Governing Council's inflation aim",
+    "the recent tightening of financing conditions was generally seen as premature for the euro area",
+    "ample monetary stimulus remained necessary to preserve favourable financing conditions over the pandemic period"
+  ],
+  "summary": "The Governing Council held key rates unchanged but decided to conduct PEPP purchases over the next quarter at a significantly higher pace than in early 2021, citing the need to prevent premature tightening of financing conditions amid rising bond yields, with medium-term inflation outlook remaining below aim despite near-term transitory increases.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-17T20:55:31",
+  "source_file": "ECB_2021-03-11.txt",
+  "char_count": 52998
+}

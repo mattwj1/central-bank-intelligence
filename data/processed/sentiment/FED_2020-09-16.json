@@ -1,0 +1,25 @@
+{
+  "bank": "FED",
+  "date": "2020-09-16",
+  "score": 28,
+  "stance": "dovish",
+  "hawkish_phrases": [
+    "a couple of participants indicated that highly accommodative financial market conditions could lead to excessive risk-taking and to a buildup of financial imbalances",
+    "these participants were concerned that forward guidance that involved the target range for the federal funds rate remaining at the ELB until employment and inflation criteria were achieved could limit the Committee's flexibility for years",
+    "such guidance could contribute to a buildup of financial imbalances that would make it more difficult for the Committee to achieve its objectives in the future",
+    "President Kaplan dissented because he expects that it will be appropriate to maintain the current target range until the Committee is confident that the economy has weathered recent events and is on track to achieve its maximum employment and price stability goals...but prefers that the Committee retain greater policy rate flexibility",
+    "with longer-term interest rates already very low, there did not appear to be a need for enhanced forward guidance at this juncture or much scope for forward guidance to put additional downward pressure on yields"
+  ],
+  "dovish_phrases": [
+    "expects it will be appropriate to maintain this target range until labor market conditions have reached levels consistent with the Committee's assessments of maximum employment and inflation has risen to 2 percent and is on track to moderately exceed 2 percent for some time",
+    "With inflation running persistently below this longer-run goal, the Committee will aim to achieve inflation moderately above 2 percent for some time so that inflation averages 2 percent over time",
+    "President Kashkari dissented because he prefers that the Committee indicate that it expects to maintain the current target range until core inflation has reached 2 percent on a sustained basis",
+    "most participants expressed concern about the expiration of the enhanced unemployment insurance benefits from the CARES Act and judged that additional fiscal relief would help sustain the recovery in household spending",
+    "the ongoing public health crisis will continue to weigh on economic activity, employment, and inflation in the near term, and poses considerable risks to the economic outlook over the medium term"
+  ],
+  "summary": "The Committee unanimously held rates at 0-0.25% and introduced outcome-based forward guidance stating rates would remain at zero until maximum employment is reached and inflation hits 2% and is on track to moderately exceed it, with two dissents\u2014Kaplan wanting more flexibility and Kashkari preferring stronger inflation commitment\u2014reflecting a dovish hold with explicit easing bias amid pandemic concerns.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:54:09",
+  "source_file": "FED_2020-09-16.txt",
+  "char_count": 66091
+}

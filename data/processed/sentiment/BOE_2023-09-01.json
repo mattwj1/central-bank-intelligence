@@ -1,0 +1,25 @@
+{
+  "bank": "BOE",
+  "date": "2023-09-01",
+  "score": 58,
+  "stance": "neutral",
+  "hawkish_phrases": [
+    "Further tightening in monetary policy would be required if there were evidence of more persistent inflationary pressures",
+    "Annual private sector regular Average Weekly Earnings (AWE) growth increased to 8.1%",
+    "Services CPI inflation rose from 7.2% in June to 7.4% in July",
+    "Monetary policy will need to be sufficiently restrictive for sufficiently long",
+    "a 0.25 percentage point increase in Bank Rate at this meeting was necessary to address the risks of more deeply embedded inflation persistence"
+  ],
+  "dovish_phrases": [
+    "There are increasing signs of some impact of tighter monetary policy on the labour market and on momentum in the real economy",
+    "Bank staff now expect GDP to rise only slightly in 2023 Q3",
+    "Twelve-month CPI inflation fell from 7.9% in June to 6.7% in August, 0.4 percentage points below expectations",
+    "Services CPI inflation declined to 6.8% in August, 0.3 percentage points lower than expected",
+    "the risks of overtightening policy had continued to build, increasing the likelihood of output losses"
+  ],
+  "summary": "The MPC voted 5-4 to hold Bank Rate at 5.25%, with four members preferring a 25bp hike to 5.5%, reflecting a finely balanced decision with mixed signals on inflation persistence but increasing signs of monetary policy impact on activity and the labour market.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:34:50",
+  "source_file": "BOE_2023-09-01.txt",
+  "char_count": 40848
+}

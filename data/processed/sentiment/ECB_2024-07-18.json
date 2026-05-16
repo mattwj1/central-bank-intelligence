@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2024-07-18",
+  "score": 58,
+  "stance": "neutral",
+  "hawkish_phrases": [
+    "domestic price pressures were still high, services inflation was elevated and headline inflation was likely to remain above the target well into next year",
+    "the last mile of disinflation was more challenging and that the task of bringing inflation down sustainably to the 2% target was not yet assured",
+    "services inflation remained the central element shaping the inflation outlook...progress in reducing services inflation appeared to have stalled",
+    "would keep policy rates sufficiently restrictive for as long as necessary to achieve this aim",
+    "current distribution of inflation expectations was still skewed to the upside"
+  ],
+  "dovish_phrases": [
+    "the short-term outlook for growth had deteriorated...weak PMI indicators for manufacturing",
+    "weaker activity was likely to dampen inflation over time",
+    "the inflationary impact of high wage growth had been buffered by profits",
+    "the transmission of monetary policy restriction was likely to have passed its peak",
+    "risks to economic growth were tilted to the downside"
+  ],
+  "summary": "The ECB Governing Council unanimously held all three key policy rates unchanged in July 2024, maintaining a restrictive stance with cautious rhetoric emphasizing persistent domestic price pressures and elevated services inflation despite acknowledging deteriorating growth conditions and gradual disinflation progress.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-17T21:07:34",
+  "source_file": "ECB_2024-07-18.txt",
+  "char_count": 46655
+}

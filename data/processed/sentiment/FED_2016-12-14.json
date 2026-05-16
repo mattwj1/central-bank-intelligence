@@ -1,0 +1,25 @@
+{
+  "bank": "FED",
+  "date": "2016-12-14",
+  "score": 72,
+  "stance": "hawkish",
+  "hawkish_phrases": [
+    "risk of a sizable undershooting of the longer-run normal unemployment rate had increased somewhat",
+    "the Committee might need to raise the federal funds rate more quickly than currently anticipated",
+    "limit the degree of undershooting and stem a potential buildup of inflationary pressures",
+    "Several members noted that if the labor market appeared to be tightening significantly more than expected, it might become necessary to adjust the Committee's communications",
+    "possibility that a less gradual pace of increases could become appropriate"
+  ],
+  "dovish_phrases": [
+    "the stance of monetary policy remained accommodative",
+    "inflation had increased since earlier this year but was still below the Committee's 2 percent longer-run objective",
+    "downside risks to inflation remained",
+    "a moderate undershooting of the longer-run normal unemployment rate could help return inflation to 2 percent",
+    "in light of the current shortfall of inflation from 2 percent"
+  ],
+  "summary": "The Committee unanimously voted to raise the target range for the federal funds rate by 25 basis points to 1/2 to 3/4 percent, with guidance that gradual increases are expected but many participants judging that risks of labor market overshooting have increased and faster rate hikes may be needed.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:41:13",
+  "source_file": "FED_2016-12-14.txt",
+  "char_count": 55534
+}

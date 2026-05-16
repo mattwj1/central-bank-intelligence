@@ -1,0 +1,25 @@
+{
+  "bank": "BOE",
+  "date": "2025-11-01",
+  "score": 42,
+  "stance": "neutral",
+  "hawkish_phrases": [
+    "risks of persistence in inflation, requiring more prolonged monetary policy restriction",
+    "this could stall, as they placed particular weight on the risk of higher inflation expectations or structural shifts",
+    "I continue to believe inflation risks are to the upside and worry that the disinflationary process has slowed",
+    "structural changes in price and wage-setting behaviour have generated stronger intrinsic inflation persistence",
+    "wage growth may plateau"
+  ],
+  "dovish_phrases": [
+    "If progress on disinflation continues, Bank Rate is likely to continue on a gradual downward path",
+    "risk to medium-term inflation from weaker demand more apparent, such that overall the risks are now more balanced",
+    "Underlying disinflation is being underpinned by subdued economic growth and building slack in the labour market",
+    "policy is already significantly over-restrictive, which could unduly damage activity and possibly lead to an undershoot in inflation",
+    "Disinflation had become better established, and current and prospective slack should allow underlying inflation to return to target-consistent rates"
+  ],
+  "summary": "The MPC voted 5-4 to hold Bank Rate at 4%, with four members preferring a 0.25pp cut, reflecting a shift toward more balanced risks but with significant dovish dissent and explicit guidance that Bank Rate is likely to continue on a gradual downward path if disinflation continues.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-14T23:41:40",
+  "source_file": "BOE_2025-11-01.txt",
+  "char_count": 23424
+}

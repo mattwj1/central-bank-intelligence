@@ -1,0 +1,25 @@
+{
+  "bank": "BOE",
+  "date": "2019-09-01",
+  "score": 48,
+  "stance": "neutral",
+  "hawkish_phrases": [
+    "Annual pay growth has strengthened further to the highest rate in over a decade",
+    "Unit wage cost growth has also risen, to a level above that consistent with meeting the inflation target in the medium term",
+    "a significant margin of excess demand is likely to build in the medium term",
+    "increases in interest rates, at a gradual pace and to a limited extent, would be appropriate",
+    "The labour market appears to remain tight"
+  ],
+  "dovish_phrases": [
+    "the outlook for global growth has weakened. Monetary policy has been loosened in many major economies",
+    "a degree of excess supply appears to have opened up within companies",
+    "the re-emergence of a margin of excess supply",
+    "demand growth will remain below potential, increasing excess supply",
+    "CPI inflation fell to 1.7% in August, from 2.1% in July, and is expected to remain slightly below the 2% target"
+  ],
+  "summary": "The MPC voted unanimously to hold Bank Rate at 0.75%, with genuinely balanced risks as Brexit uncertainty and weaker global growth create excess supply while wage pressures remain elevated, and with conditional guidance that future policy could move in either direction depending on Brexit outcomes.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:28:05",
+  "source_file": "BOE_2019-09-01.txt",
+  "char_count": 5694
+}

@@ -1,0 +1,25 @@
+{
+  "bank": "FED",
+  "date": "2023-12-13",
+  "score": 42,
+  "stance": "neutral",
+  "hawkish_phrases": [
+    "inflation remained elevated and above the Committee's longer-run goal of 2 percent",
+    "The Committee remains highly attentive to inflation risks",
+    "inflation was still well above the Committee's longer-run goal and that a risk remained that progress toward price stability would stall",
+    "an easing in financial conditions beyond what is appropriate could make it more difficult for the Committee to reach its inflation goal",
+    "circumstances might warrant keeping the target range at its current value for longer than they currently anticipated"
+  ],
+  "dovish_phrases": [
+    "Participants viewed the policy rate as likely at or near its peak for this tightening cycle",
+    "almost all participants indicated that...a lower target range for the federal funds rate would be appropriate by the end of 2024",
+    "Inflation had eased over the past year",
+    "downside risks to the economy that would be associated with an overly restrictive stance",
+    "the extent of any additional policy firming that may be appropriate"
+  ],
+  "summary": "The FOMC unanimously voted to hold the federal funds rate at 5.25-5.50 percent while signaling that the policy rate is likely at or near its peak, with almost all participants projecting cuts by end-2024, representing a clear dovish shift despite continued attention to inflation risks.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T16:04:23",
+  "source_file": "FED_2023-12-13.txt",
+  "char_count": 46095
+}

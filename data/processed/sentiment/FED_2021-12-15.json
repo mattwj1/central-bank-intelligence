@@ -1,0 +1,25 @@
+{
+  "bank": "FED",
+  "date": "2021-12-15",
+  "score": 73,
+  "stance": "hawkish",
+  "hawkish_phrases": [
+    "inflation had continued to run notably above 2 percent",
+    "Several participants viewed labor market conditions as already largely consistent with maximum employment",
+    "participants judged that it may become warranted to increase the federal funds rate sooner or at a faster pace than participants had earlier anticipated",
+    "Many participants judged that the appropriate pace of balance sheet runoff would likely be faster than it was during the previous normalization episode",
+    "Some participants judged that a less accommodative future stance of policy would likely be warranted and that the Committee should convey a strong commitment to address elevated inflation pressures"
+  ],
+  "dovish_phrases": [
+    "Overall financial conditions remained accommodative",
+    "the Committee decided to keep the target range for the federal funds rate at 0 to 1/4 percent",
+    "A few participants remarked that maximum employment consistent with price stability evolves over time and that further improvements in labor markets were likely over subsequent years",
+    "These participants noted, however, that a measured approach to tightening policy would help enable the Committee to assess incoming data",
+    "Progress on vaccinations and an easing of supply constraints are expected to support continued gains in economic activity and employment as well as a reduction in inflation"
+  ],
+  "summary": "The Committee unanimously voted to hold rates at 0-0.25% but doubled the pace of tapering (to $30bn/month total, ending purchases by mid-March instead of mid-year), with participants signaling rate hikes may come sooner or faster than previously anticipated given elevated inflation and rapidly tightening labor markets.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:58:32",
+  "source_file": "FED_2021-12-15.txt",
+  "char_count": 62893
+}

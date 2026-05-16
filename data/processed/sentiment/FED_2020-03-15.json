@@ -1,0 +1,25 @@
+{
+  "bank": "FED",
+  "date": "2020-03-15",
+  "score": 8,
+  "stance": "extremely dovish",
+  "hawkish_phrases": [
+    "One member preferred to lower the target range by 50 basis points, to 1/2 to 3/4 percent, at this meeting",
+    "A few participants preferred a 50 basis point cut at this meeting",
+    "lowering the target range by 100 basis points, coming so soon after the reduction of 50 basis points less than two weeks earlier, ran the risk of sending an overly negative signal",
+    "preserve the ability of the Committee to lower the target range, which was close to the ELB",
+    "President Mester voted against the FOMC action because she preferred to reduce the target range for the federal funds rate to 1/2 to 3/4 percent at this meeting"
+  ],
+  "dovish_phrases": [
+    "the Committee decided to lower the target range for the federal funds rate to 0 to 1/4 percent",
+    "most participants judged that it would be appropriate to lower the target range for the federal funds rate by 100 basis points",
+    "risk-management considerations pointed toward a forceful monetary policy response",
+    "the Committee expects to maintain this target range until it is confident that the economy has weathered recent events",
+    "increase its holdings of Treasury securities by at least $500 billion and its holdings of agency MBS by at least $200 billion"
+  ],
+  "summary": "The FOMC voted 9-1 to cut rates by 100 basis points to 0-0.25% and announced at least $700 billion in asset purchases, with Mester dissenting in favor of a smaller 50bp cut, reflecting an extremely dovish emergency easing in response to the coronavirus outbreak.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:52:23",
+  "source_file": "FED_2020-03-15.txt",
+  "char_count": 65982
+}

@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2021-06-10",
+  "score": 38,
+  "stance": "dovish",
+  "hawkish_phrases": [
+    "if economic developments were better than expected and favourable financing conditions could be maintained with asset purchase flows that did not exhaust the envelope",
+    "a noticeable slowing of the pace of purchases for the next quarter was seen as inappropriate at the current juncture",
+    "concerns were expressed about potential side effects if the highly accommodative monetary policy stance was maintained much longer",
+    "property price dynamics were accelerating",
+    "an increase in bankruptcies in the corporate sector could be expected later this year"
+  ],
+  "dovish_phrases": [
+    "net purchases under the PEPP over the next quarter to continue to be conducted at a significantly higher pace than during the first months of the year",
+    "the projected path for the economy was subject to significant uncertainties and risks",
+    "the June staff projections still see inflation falling short of the pre-pandemic projected path at the policy-relevant horizon",
+    "monetary policy had to look through temporary short-term developments in inflation and focus on the medium-term outlook",
+    "An undue tightening of financing conditions at the current juncture could jeopardise the ongoing economic recovery"
+  ],
+  "summary": "The Governing Council held rates unchanged and confirmed continuation of PEPP purchases at a significantly higher pace than in the first months of the year, maintaining an accommodative stance to preserve favourable financing conditions despite an improved growth outlook and inflation reaching 2.0%, with broad consensus supporting the decision.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-17T20:56:08",
+  "source_file": "ECB_2021-06-10.txt",
+  "char_count": 49405
+}

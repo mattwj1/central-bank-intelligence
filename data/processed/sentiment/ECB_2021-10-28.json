@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2021-10-28",
+  "score": 42,
+  "stance": "neutral",
+  "hawkish_phrases": [
+    "inflation had increased to 3.4% in September and was expected to rise further in 2021",
+    "market-based measures and survey-based indicators of longer-term inflation expectations had moved closer to 2%",
+    "the longer the inflation spike lasted, the more it would become entrenched in longer-term inflation expectations",
+    "price pressures were more persistent than had been foreseen in the September ECB staff projections",
+    "upside risks to inflation had to be acknowledged"
+  ],
+  "dovish_phrases": [
+    "inflation was still expected to fall below the ECB's target in the medium term",
+    "net asset purchases under the PEPP at a moderately lower pace during the final quarter of the year",
+    "negotiated wage growth had remained subdued and there were no signs as yet of second-round effects on wages",
+    "inflation was expected to decline in the course of 2022",
+    "the accommodative monetary policy stance had to be reconfirmed and remained appropriate"
+  ],
+  "summary": "The Governing Council held rates unchanged and continued PEPP net purchases at a moderately lower pace in Q4 2021, acknowledging inflation had risen to 3.4% and would remain elevated longer than expected, but maintaining that inflation would decline in 2022 and settle below the 2% target over the medium term, with an overall accommodative stance bias.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-17T20:57:26",
+  "source_file": "ECB_2021-10-28.txt",
+  "char_count": 54955
+}

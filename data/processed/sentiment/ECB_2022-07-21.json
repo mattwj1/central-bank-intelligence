@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2022-07-21",
+  "score": 78,
+  "stance": "hawkish",
+  "hawkish_phrases": [
+    "raising the ECB's key interest rates by 50 basis points",
+    "risks to the inflation outlook continued to be on the upside and had intensified",
+    "Inflation had increased further to 8.6% in June",
+    "inflationary pressures had broadened and intensified",
+    "persistently high inflation posed an increasing risk of longer-term inflation expectations becoming unanchored"
+  ],
+  "dovish_phrases": [
+    "economic activity was slowing",
+    "risks to growth were on the downside",
+    "clouding the outlook for the second half of 2022 and beyond",
+    "if demand were to weaken over the medium term, it would lower pressures on prices",
+    "concerns about disruptions to gas supplies"
+  ],
+  "summary": "The Governing Council decided to raise the three key ECB interest rates by 50 basis points (larger than the 25bp previously signaled), with some members dissenting in favor of the smaller 25bp move, citing intensified upside risks to inflation and persistently high inflation at 8.6%, while also approving the new Transmission Protection Instrument to safeguard monetary policy transmission.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-17T21:00:18",
+  "source_file": "ECB_2022-07-21.txt",
+  "char_count": 68488
+}

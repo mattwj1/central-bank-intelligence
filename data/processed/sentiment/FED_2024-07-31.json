@@ -1,0 +1,25 @@
+{
+  "bank": "FED",
+  "date": "2024-07-31",
+  "score": 42,
+  "stance": "neutral",
+  "hawkish_phrases": [
+    "The Committee does not expect it will be appropriate to reduce the target range until it has gained greater confidence that inflation is moving sustainably toward 2 percent",
+    "Several participants remarked that reducing policy restraint too soon or too much could risk a resurgence in aggregate demand and a reversal of the progress on inflation",
+    "A couple of participants noted that inflation pressures might persist for some time, as they assessed that the economy had considerable momentum",
+    "Some participants cited the potential for disruptions to supply chains and a further deterioration in geopolitical conditions",
+    "Many participants commented that monetary policy continued to be restrictive"
+  ],
+  "dovish_phrases": [
+    "The vast majority observed that, if the data continued to come in about as expected, it would likely be appropriate to ease policy at the next meeting",
+    "several observed that the recent progress on inflation and increases in the unemployment rate had provided a plausible case for reducing the target range 25 basis points at this meeting",
+    "A majority of participants remarked that the risks to the employment goal had increased, and many participants noted that the risks to the inflation goal had decreased",
+    "Many participants noted that reducing policy restraint too late or too little could risk unduly weakening economic activity or employment",
+    "Some participants noted that as conditions in the labor market have eased, the risk had increased that continued easing could transition to a more serious deterioration"
+  ],
+  "summary": "The FOMC unanimously held rates at 5.25-5.50 percent with the vast majority signaling a likely September cut if data continues as expected, reflecting increased confidence in disinflation and growing concerns about labor market weakening, though still requiring greater confidence before easing.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T16:06:21",
+  "source_file": "FED_2024-07-31.txt",
+  "char_count": 44964
+}

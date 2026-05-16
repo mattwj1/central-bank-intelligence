@@ -1,0 +1,25 @@
+{
+  "bank": "FED",
+  "date": "2019-05-01",
+  "score": 42,
+  "stance": "neutral",
+  "hawkish_phrases": [
+    "a few participants noted that if the economy evolved as they expected, the Committee would likely need to firm the stance of monetary policy",
+    "attentive to the possibility that inflation pressures could build quickly in an environment of tight resource utilization",
+    "heightened leverage and associated debt burdens could render the business sector more sensitive to economic downturns",
+    "asset valuations in some markets appeared high, relative to fundamentals",
+    "nonfinancial corporate indebtedness"
+  ],
+  "dovish_phrases": [
+    "inflation pressures remained muted",
+    "overall inflation and inflation for items other than food and energy had declined and were running below 2 percent",
+    "a patient approach to determining future adjustments to the target range for the federal funds rate remained appropriate",
+    "some viewed the downside risks to inflation as having increased",
+    "if inflation did not show signs of moving up over coming quarters, there was a risk that inflation expectations could become anchored at levels below those consistent with the Committee's symmetric 2 percent objective"
+  ],
+  "summary": "The FOMC unanimously held rates at 2.25-2.5% with clear patient bias, emphasizing muted inflation pressures running below 2% and downside risks to inflation expectations despite strong labor markets.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:48:38",
+  "source_file": "FED_2019-05-01.txt",
+  "char_count": 62080
+}

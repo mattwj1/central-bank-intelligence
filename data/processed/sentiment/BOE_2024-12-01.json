@@ -1,0 +1,25 @@
+{
+  "bank": "BOE",
+  "date": "2024-12-01",
+  "score": 58,
+  "stance": "neutral",
+  "hawkish_phrases": [
+    "Monetary policy will need to continue to remain restrictive for sufficiently long",
+    "remaining domestic inflationary pressures are resolving more slowly",
+    "Services consumer price inflation has remained elevated",
+    "Annual private sector regular average weekly earnings growth picked up quite sharply",
+    "some indicators of inflation expectations have increased recently"
+  ],
+  "dovish_phrases": [
+    "Most indicators of UK near-term activity have declined",
+    "Bank staff expect GDP growth to have been weaker at the end of the year",
+    "sluggish demand and a weakening labour market",
+    "A gradual approach to removing monetary policy restraint remains appropriate",
+    "the labour market is broadly in balance"
+  ],
+  "summary": "The MPC voted 6-3 to hold Bank Rate at 4.75%, with three members preferring a 25bp cut, and maintained a hawkish bias emphasizing that policy must remain restrictive for sufficiently long despite acknowledging weaker near-term activity.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-16T15:36:43",
+  "source_file": "BOE_2024-12-01.txt",
+  "char_count": 28169
+}

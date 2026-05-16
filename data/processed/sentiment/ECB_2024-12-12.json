@@ -1,0 +1,25 @@
+{
+  "bank": "ECB",
+  "date": "2024-12-12",
+  "score": 32,
+  "stance": "dovish",
+  "hawkish_phrases": [
+    "domestic inflation was still high, driven mainly by high services inflation",
+    "some members noted that a case could be made for a 50 basis point rate cut...These members emphasised the deterioration...A larger rate cut would provide insurance",
+    "it was too early to cut rates by a larger amount",
+    "risks to inflation appeared to have become more two-sided",
+    "the Governing Council should not let its guard down in the final stretch of disinflation"
+  ],
+  "dovish_phrases": [
+    "members were increasingly confident that inflation would return to target in the first half of 2025, which was earlier than had been foreseen",
+    "the risks to economic growth remained tilted to the downside",
+    "if the economy did not pick up, the likelihood would increase that inflation would undershoot the target further down the road",
+    "staff now expected a slower economic recovery than in the September projections, marking another downward adjustment in the growth outlook",
+    "the dialling-back of policy restriction over the past few months was also being transmitted to financing conditions"
+  ],
+  "summary": "The ECB cut rates by 25 basis points unanimously in December 2024, removing the tightening bias from its forward guidance with a shift to ensuring inflation 'stabilises sustainably at 2%', amid increasing confidence inflation will return to target in H1 2025 but with growth risks tilted to the downside and some members favouring a 50bp cut.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-04-17T21:09:04",
+  "source_file": "ECB_2024-12-12.txt",
+  "char_count": 67954
+}
