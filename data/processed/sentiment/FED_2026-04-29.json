@@ -1,0 +1,25 @@
+{
+  "bank": "FED",
+  "date": "2026-04-29",
+  "score": 32,
+  "stance": "dovish",
+  "hawkish_phrases": [
+    "policy stance is restrictive",
+    "inflation remains elevated",
+    "labor market remains tight",
+    "upside risks to inflation",
+    "additional policy firming may be appropriate"
+  ],
+  "dovish_phrases": [
+    "the extent of these effects remains uncertain",
+    "bank stress could weigh on economic activity",
+    "credit conditions may tighten further",
+    "some participants noted downside risks to economic activity",
+    "policy lags and cumulative tightening warrant careful approach"
+  ],
+  "summary": "The FOMC held rates steady with a unanimous decision, acknowledging restrictive policy stance and elevated inflation while emphasizing heightened uncertainty from banking sector stress and potential credit tightening that could weigh on economic activity.",
+  "model": "claude-sonnet-4-5-20250929",
+  "scored_at": "2026-06-13T13:18:56",
+  "source_file": "FED_2026-04-29.txt",
+  "char_count": 264011
+}
