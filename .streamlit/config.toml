@@ -4,9 +4,15 @@ gatherUsageStats = false
 [server]
 headless = true
 
+# ── Dark "markets terminal" theme ───────────────────────────────────────────────
+# Bloomberg-inspired: near-black canvas, crisp electric-blue accent.
 [theme]
-base = "light"
-primaryColor = "#003F87"
-backgroundColor = "#FFFFFF"
-secondaryBackgroundColor = "#F6F8FA"
-textColor = "#1F2933"
+base = "dark"
+primaryColor = "#3D8BFD"               # electric-blue accent (buttons, sliders, focus)
+backgroundColor = "#0B0F17"            # near-black canvas
+secondaryBackgroundColor = "#141A24"   # cards, sidebar, inputs
+textColor = "#E6EDF3"                  # primary text
+linkColor = "#5BA3FF"
+borderColor = "#222C3A"
+baseRadius = "0.6rem"
+font = "sans-serif"

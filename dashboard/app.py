@@ -7,9 +7,9 @@ Run locally:
     streamlit run dashboard/app.py
 
 Pages:
-    1. Sentiment Tracker  — hawk/dove scores from Claude analysis
-    2. Taylor Rule        — fair-value policy rate vs actual (placeholder)
-    3. Yield Curve Lab    — interactive curves with stress tests (placeholder)
+    1. Sentiment Tracker  — hawk/dove scores from Claude analysis of minutes
+    2. Taylor Rule        — model-implied fair-value policy rate vs actual
+    3. Yield Curve Lab    — interactive curves with scenario stress tests
 """
 
 import json
@@ -26,19 +26,114 @@ import streamlit as st
 ROOT = Path(__file__).resolve().parent.parent
 PROCESSED = ROOT / "data" / "processed"
 
+# Bank brand colours, brightened so navy/gold stay legible on a dark canvas.
 BANK_META = {
-    "BOE": {"name": "Bank of England",    "emoji": "🇬🇧", "colour": "#CC0000"},
-    "FED": {"name": "Federal Reserve",    "emoji": "🇺🇸", "colour": "#003F87"},
-    "ECB": {"name": "European Central Bank", "emoji": "🇪🇺", "colour": "#FFD700"},
+    "BOE": {"name": "Bank of England",       "emoji": "🇬🇧", "colour": "#FF4D4D"},
+    "FED": {"name": "Federal Reserve",       "emoji": "🇺🇸", "colour": "#4D9DFF"},
+    "ECB": {"name": "European Central Bank", "emoji": "🇪🇺", "colour": "#FFCC33"},
 }
+
+# ── Dark theme palette (kept in sync with .streamlit/config.toml) ───────────────
+THEME = {
+    "bg":        "#0B0F17",
+    "panel":     "#141A24",
+    "text":      "#E6EDF3",
+    "muted":     "#8B98A9",
+    "accent":    "#3D8BFD",
+    "grid":      "rgba(255,255,255,0.07)",
+    "hawk":      "#FF5C5C",
+    "dove":      "#3D8BFD",
+}
+PLOT_FONT = dict(family="sans-serif", color=THEME["text"], size=13)
+
+
+def style_fig(fig: go.Figure) -> go.Figure:
+    """Apply the shared dark template + transparent canvas to any figure."""
+    fig.update_layout(
+        template="plotly_dark",
+        paper_bgcolor="rgba(0,0,0,0)",
+        plot_bgcolor="rgba(0,0,0,0)",
+        font=PLOT_FONT,
+    )
+    return fig
 
 
 st.set_page_config(
     page_title="Central Bank Intelligence Dashboard",
     page_icon="📊",
     layout="wide",
-    initial_sidebar_state="collapsed",
+    initial_sidebar_state="expanded",
 )
+
+
+def inject_css() -> None:
+    """Custom CSS for a polished, screenshot-ready dark dashboard."""
+    st.markdown(
+        """
+        <style>
+        /* Tighten top padding and widen content slightly */
+        .block-container { padding-top: 2.2rem; padding-bottom: 3rem; max-width: 1320px; }
+
+        /* Clean chrome for screenshots: hide menu, footer, toolbar */
+        #MainMenu, footer, [data-testid="stToolbar"], [data-testid="stDecoration"] {
+            visibility: hidden;
+        }
+
+        /* Hero title */
+        .cbi-title {
+            font-size: 2.35rem; font-weight: 800; letter-spacing: -0.02em;
+            line-height: 1.1; margin: 0 0 0.25rem 0;
+            background: linear-gradient(90deg, #E6EDF3 0%, #6FB1FF 100%);
+            -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+        .cbi-sub { color: #8B98A9; font-size: 1.02rem; margin: 0 0 0.4rem 0; }
+        .cbi-rule {
+            height: 3px; width: 100%; border: 0; margin: 0.6rem 0 1.4rem 0;
+            background: linear-gradient(90deg, #3D8BFD 0%, rgba(61,139,253,0) 70%);
+        }
+
+        /* Metric cards */
+        [data-testid="stMetric"] {
+            background: #141A24; border: 1px solid #222C3A;
+            border-radius: 0.7rem; padding: 0.9rem 1.05rem;
+        }
+        [data-testid="stMetricLabel"], [data-testid="stMetricLabel"] * {
+            color: #8B98A9 !important; white-space: normal !important;
+            overflow: visible !important; text-overflow: clip !important;
+        }
+        [data-testid="stMetricValue"], [data-testid="stMetricValue"] * {
+            font-size: 1.18rem; font-weight: 700; white-space: normal !important;
+            overflow: visible !important; text-overflow: clip !important;
+            overflow-wrap: anywhere;
+        }
+        [data-testid="stMetricDelta"], [data-testid="stMetricDelta"] * {
+            white-space: normal !important; overflow: visible !important;
+            text-overflow: clip !important; line-height: 1.25;
+        }
+
+        /* Tab bar: larger, with an accent underline on the active tab */
+        .stTabs [data-baseweb="tab-list"] { gap: 0.4rem; }
+        .stTabs [data-baseweb="tab"] {
+            font-size: 1.0rem; font-weight: 600; padding: 0.5rem 1.0rem;
+        }
+        .stTabs [aria-selected="true"] { color: #6FB1FF !important; }
+
+        /* Expanders + dataframes sit on the panel colour */
+        [data-testid="stExpander"] {
+            border: 1px solid #222C3A; border-radius: 0.7rem;
+        }
+
+        /* Sidebar polish */
+        [data-testid="stSidebar"] { border-right: 1px solid #222C3A; }
+        .cbi-badge {
+            display: inline-block; padding: 0.18rem 0.6rem; border-radius: 999px;
+            font-size: 0.74rem; font-weight: 700; letter-spacing: 0.02em;
+        }
+        </style>
+        """,
+        unsafe_allow_html=True,
+    )
 
 
 # ── Data Loaders ───────────────────────────────────────────────────────────────
@@ -113,12 +208,12 @@ def build_sentiment_chart(history: dict, decisions: dict | None = None) -> go.Fi
         subplot_titles=subplot_titles,
     )
 
-    # Shaded background bands — applied to each subplot
+    # Shaded background bands — applied to each subplot (tuned for dark canvas)
     band_colours = [
-        (0,  30, "rgba(30, 144, 255, 0.10)"),
-        (30, 55, "rgba(30, 144, 255, 0.04)"),
-        (55, 70, "rgba(220, 20, 60, 0.04)"),
-        (70, 100, "rgba(220, 20, 60, 0.10)"),
+        (0,  30, "rgba(61, 139, 253, 0.20)"),
+        (30, 55, "rgba(61, 139, 253, 0.08)"),
+        (55, 70, "rgba(255, 92, 92, 0.08)"),
+        (70, 100, "rgba(255, 92, 92, 0.20)"),
     ]
 
     # Build decision lookup: (bank, date) → event
@@ -228,16 +323,13 @@ def build_sentiment_chart(history: dict, decisions: dict | None = None) -> go.Fi
     # Global layout
     for i in range(1, 4):
         fig.update_yaxes(
-            range=[0, 100], gridcolor="rgba(0,0,0,0.05)",
+            range=[0, 100], gridcolor=THEME["grid"], zeroline=False,
             tickvals=[0, 25, 50, 75, 100],
-            ticktext=["0\nDovish", "25", "50\nNeutral", "75", "100\nHawkish"],
+            ticktext=["0 · Dovish", "25", "50 · Neutral", "75", "100 · Hawkish"],
             row=i, col=1,
         )
 
-    fig.update_xaxes(
-        gridcolor="rgba(0,0,0,0.05)",
-        row=3, col=1,
-    )
+    fig.update_xaxes(gridcolor=THEME["grid"], row=3, col=1)
 
     fig.update_layout(
         height=820,
@@ -245,9 +337,8 @@ def build_sentiment_chart(history: dict, decisions: dict | None = None) -> go.Fi
         legend=dict(orientation="h", yanchor="bottom", y=1.02,
                     xanchor="right", x=1),
         margin=dict(l=50, r=30, t=60, b=40),
-        plot_bgcolor="white",
     )
-    return fig
+    return style_fig(fig)
 
 
 def render_latest_metrics(history: dict) -> None:
@@ -360,27 +451,27 @@ def build_gap_gauge(country: str, data: dict) -> go.Figure:
     fig = go.Figure(go.Indicator(
         mode="gauge+number",
         value=gap,
-        number={"suffix": " bps", "font": {"size": 28}},
+        number={"suffix": " bps", "font": {"size": 28, "color": THEME["text"]}},
         title={"text": f"{meta['emoji']} {meta['name']}<br>"
-                       f"<span style='font-size:0.75em;color:grey'>"
+                       f"<span style='font-size:0.75em;color:{THEME['muted']}'>"
                        f"vs Taylor Rule implied</span>",
-               "font": {"size": 14}},
+               "font": {"size": 14, "color": THEME["text"]}},
         gauge={
             "axis": {"range": [-300, 300], "tickwidth": 1,
-                     "tickcolor": "grey", "tickfont": {"size": 10}},
-            "bar": {"color": "rgba(0,0,0,0.85)", "thickness": 0.18},
-            "bgcolor": "white",
+                     "tickcolor": THEME["muted"], "tickfont": {"size": 10}},
+            "bar": {"color": THEME["text"], "thickness": 0.18},
+            "bgcolor": "rgba(255,255,255,0.03)",
             "borderwidth": 1,
-            "bordercolor": "lightgrey",
+            "bordercolor": "#222C3A",
             "steps": [
-                {"range": [-300, -100], "color": "rgba(30,144,255,0.35)"},
-                {"range": [-100,  -50], "color": "rgba(30,144,255,0.15)"},
-                {"range": [ -50,   50], "color": "rgba(128,128,128,0.08)"},
-                {"range": [  50,  100], "color": "rgba(220,20,60,0.15)"},
-                {"range": [ 100,  300], "color": "rgba(220,20,60,0.35)"},
+                {"range": [-300, -100], "color": "rgba(61,139,253,0.45)"},
+                {"range": [-100,  -50], "color": "rgba(61,139,253,0.20)"},
+                {"range": [ -50,   50], "color": "rgba(139,152,169,0.15)"},
+                {"range": [  50,  100], "color": "rgba(255,92,92,0.20)"},
+                {"range": [ 100,  300], "color": "rgba(255,92,92,0.45)"},
             ],
             "threshold": {
-                "line": {"color": "black", "width": 3},
+                "line": {"color": THEME["text"], "width": 3},
                 "thickness": 0.85,
                 "value": 0,
             },
@@ -389,9 +480,8 @@ def build_gap_gauge(country: str, data: dict) -> go.Figure:
     fig.update_layout(
         height=240,
         margin=dict(l=20, r=20, t=60, b=20),
-        paper_bgcolor="rgba(0,0,0,0)",
     )
-    return fig
+    return style_fig(fig)
 
 
 def render_taylor_metrics(data: dict) -> None:
@@ -600,14 +690,15 @@ def build_yield_chart(
     fig.update_layout(
         xaxis=dict(title="Maturity (years)", type="log",
                    tickvals=[0.25, 2, 5, 10, 30],
-                   ticktext=["3M", "2Y", "5Y", "10Y", "30Y"]),
-        yaxis=dict(title="Yield (%)", gridcolor="rgba(128,128,128,0.15)"),
+                   ticktext=["3M", "2Y", "5Y", "10Y", "30Y"],
+                   gridcolor=THEME["grid"]),
+        yaxis=dict(title="Yield (%)", gridcolor=THEME["grid"]),
         hovermode="x unified",
         legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1),
         height=460,
         margin=dict(l=40, r=40, t=40, b=40),
     )
-    return fig
+    return style_fig(fig)
 
 
 def build_multicurve_chart(data: dict) -> go.Figure:
@@ -633,14 +724,15 @@ def build_multicurve_chart(data: dict) -> go.Figure:
     fig.update_layout(
         xaxis=dict(title="Maturity (years)", type="log",
                    tickvals=[0.25, 2, 5, 10, 30],
-                   ticktext=["3M", "2Y", "5Y", "10Y", "30Y"]),
-        yaxis=dict(title="Yield (%)", gridcolor="rgba(128,128,128,0.15)"),
+                   ticktext=["3M", "2Y", "5Y", "10Y", "30Y"],
+                   gridcolor=THEME["grid"]),
+        yaxis=dict(title="Yield (%)", gridcolor=THEME["grid"]),
         hovermode="x unified",
         legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1),
         height=460,
         margin=dict(l=40, r=40, t=40, b=40),
     )
-    return fig
+    return style_fig(fig)
 
 
 def render_curve_metrics(country_data: dict) -> None:
@@ -724,13 +816,59 @@ def render_yield_tab() -> None:
         )
 
 
+# ── Sidebar ──────────────────────────────────────────────────────────────────
+
+def render_sidebar() -> None:
+    history = load_sentiment_history()
+    with st.sidebar:
+        st.markdown("### 📊 Central Bank Intelligence")
+        st.caption("A monetary-policy signal terminal for the BoE, Fed and ECB.")
+        st.markdown("---")
+
+        st.markdown("**What it does**")
+        st.markdown(
+            "- 🦅 **Sentiment** — every meeting's minutes scored 0–100 "
+            "(dovish → hawkish) by an LLM\n"
+            "- 📐 **Taylor Rule** — model-implied fair-value rate vs the actual rate\n"
+            "- 📈 **Yield curves** — live curves with interactive stress tests"
+        )
+
+        st.markdown("**Methodology**")
+        st.caption(
+            "Minutes are scraped from each bank, scored against a calibrated "
+            "hawk/dove rubric, and tracked as a time series. The Taylor Rule uses "
+            "r = r* + π + 0.5(π − π*) + 0.5(y − y*)."
+        )
+
+        if history:
+            st.markdown("---")
+            st.caption(
+                f"Sentiment data as of **{history.get('last_updated', '—')[:10]}**  \n"
+                f"Model: `{history.get('model', '—')}`"
+            )
+
+        st.markdown("---")
+        st.markdown(
+            "**Matthew Wynne-Jones**  \n"
+            "MSc Finance · University of Exeter"
+        )
+        st.caption(
+            "For research/educational use. Not investment advice."
+        )
+
+
 # ── Main ───────────────────────────────────────────────────────────────────────
 
 def main() -> None:
-    st.title("📊 Central Bank Intelligence Dashboard")
-    st.caption(
-        "Tracking monetary policy sentiment, fair-value rates, and yield curves "
-        "across the Bank of England, Federal Reserve, and ECB."
+    inject_css()
+    render_sidebar()
+
+    st.markdown(
+        '<h1 class="cbi-title">Central Bank Intelligence Dashboard</h1>'
+        '<p class="cbi-sub">Tracking monetary-policy sentiment, fair-value rates, '
+        'and yield curves across the Bank of England, Federal Reserve, and ECB.</p>'
+        '<hr class="cbi-rule"/>',
+        unsafe_allow_html=True,
     )
 
     tab_sent, tab_taylor, tab_yield = st.tabs([
@@ -743,7 +881,7 @@ def main() -> None:
     with tab_taylor: render_taylor_tab()
     with tab_yield:  render_yield_tab()
 
-    st.markdown("---")
+    st.markdown('<hr class="cbi-rule"/>', unsafe_allow_html=True)
     st.caption(
         f"Built by Matthew Wynne-Jones · MSc Finance, University of Exeter · "
         f"Rendered {datetime.now():%Y-%m-%d %H:%M}"

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-18T14:44:20",
+  "last_updated": "2026-06-13T13:19:59",
   "sources": {
     "BOE": "Hardcoded lookup (bankofengland.co.uk)",
     "FED": "Hardcoded lookup (federalreserve.gov)",
@@ -1097,6 +1097,13 @@
       {
         "date": "2026-03-18",
         "score": 58,
+        "rate_before": 4.5,
+        "rate_after": 4.5,
+        "change_bps": 0.0
+      },
+      {
+        "date": "2026-04-29",
+        "score": 32,
         "rate_before": 4.5,
         "rate_after": 4.5,
         "change_bps": 0.0
